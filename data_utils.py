@@ -5,12 +5,12 @@ import pandas as pd
 import math
 # import data_utils as util
 
-# TODO
-# provide the directory for now
 def read_titles(file):
     """read in from file
     Args:
         file: string, relative or absolute path of the file
+    Return:
+        list, all film titles
     """
     titles = []
     df = pd.read_csv(file,sep='\t')
@@ -22,7 +22,7 @@ def read_titles(file):
         else:
             titles.append(pt)
     # print(f"{titles[:5] = }")
-    # manner II
+    # manner II   # how about we just find special cases by hand(?
     return titles
 
 def save_scrapping(path,df):
@@ -41,9 +41,6 @@ prefix_fr = "https://fr.wikipedia.org/wiki/"
 prefix_en = "https://en.wikipedia.org/wiki/"
 film_title_fr = "Le_Voyage_de_Chihiro"
 film_title_en = "Spirited_Away"
-
-## read in names of films from "data-2.tsv"
-
 
 # all_film_titles = read_titles("data-2.tsv")[:10000]
 # traverse all film titles in imdb dataset
