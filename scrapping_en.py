@@ -25,6 +25,7 @@ def get_date(date:str):
 
 def get_running_time(duree:str):
    rt = re.search(r"[\d]* minutes",duree)
+   # add: mins
    if rt is not None: # if found
     return re.search(r"[\d]*",rt.group(0)).group(0)
    else: return math.nan
@@ -95,6 +96,7 @@ dict_res = {
     "Année de sortie" : math.nan,
     "Durée" : math.nan,
     "Pays" : math.nan,
+    "Langage" : math.nan,
     "Budget min" : math.nan,
     "Budget max" : math.nan,
     "Box office min" : math.nan,
@@ -154,6 +156,10 @@ def scrap_en(lignes,dict_res,index_list,ind):
                         pays = [elem for elem in pays if elem != ''] # enlever les '' vides
                         index_list[:] = [ind for i in range(len(pays))] # met à jour la liste d'index (pour le dataframe plus tard)
                         dict_res["Pays"] = pays
+                case "Language" :
+                    if ligne.find("td") is not None:
+                      lang = remove_all_notes(ligne.find("td").text)
+                      dict_res["Langage"] = lang
                 case "Budget" :
                     budget = remove_all_notes(ligne.find("td").text).split()
                     budget = convert_money(budget) # enlève le $, convertit million/billion dans la valeur
@@ -164,27 +170,35 @@ def scrap_en(lignes,dict_res,index_list,ind):
                     box_office = convert_money(box_office) # enlève le $, convertit million/billion dans la valeur
                     dict_res["Box office min"] = box_office[0]
                     dict_res["Box office max"] = box_office[1]
+                
 
 
 
 if __name__ == '__main__':
     start = time.time()
-    all_film_titles = util.read_titles("data-5.tsv")[:2000] # title.basics
+    all_film_titles = util.read_titles("data-5.tsv")[2000:3000] # title.basics
     # traverse all film titles in imdb dataset
     request_texts = []
-    ind = 0 #384/1000, 1100/3000,
+    ind = 1111 #719/2000, 1110/3000
     # index_list = [ind]
     for (index,film_title) in all_film_titles:
-        url_en = util.prefix_en + film_title
-        print(f"{url_en=}")
         try:
+            url_en = util.prefix_en + film_title + '_(film)'
+            print(f"{url_en=}")
             request_text = request.urlopen(url_en).read()
             dict_res['Tconst du film'] = index
-            dict_res['Titre du film'] = util.rep_udscr_space(film_title)
+            dict_res['Titre du film'] = util.recover_symbols(film_title)
             # request_texts.append(req)
             # print(f"{type(req):}") #'bytes'
         except:
-            request_text = math.nan
+            url_en = util.prefix_en + film_title
+            print(f"{url_en=}")
+            try:
+              request_text = request.urlopen(url_en).read()
+              dict_res['Tconst du film'] = index
+              dict_res['Titre du film'] = util.rep_symbols(film_title)
+            except:
+               request_text = math.nan
             # continue
         # print(request_texts[:5])
     # df_all = pd.DataFrame()
@@ -197,7 +211,7 @@ if __name__ == '__main__':
             if table_info is not None: # if a table exists
                 lignes = table_info.find_all("tr")
                 scrap_en(lignes,dict_res,index_list,ind)
-                print(f"{index_list=}")
+                # print(f"{index_list=}")
             df = pd.DataFrame(dict_res, index=index_list)
             if ind==0:
                 df.to_csv('scrapped_en.tsv',sep='\t',na_rep='\\N',mode='a')

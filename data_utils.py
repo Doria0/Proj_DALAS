@@ -16,15 +16,18 @@ def read_titles(file):
     df = pd.read_csv(file,sep='\t')
     primTitles = df['primaryTitle']
     tconsts = df['tconst']
+    titleTypes = df['titleType']
     # manner I
     N = len(primTitles)
     for i in range(N):
-        pt = primTitles[i]
-        ind = tconsts[i]
-        if str(pt).find(' ') > 0:
-            titles.append((ind,rep_space_udscr(pt)))
-        else:
-            titles.append((ind,pt))
+        if (titleTypes[i] == 'movie') or (titleTypes[i] == 'short'):
+            # print("titletype: {}".format(titleTypes[i]))
+            pt = primTitles[i]
+            ind = tconsts[i]
+            if str(pt).find(' ') > 0:
+                titles.append((ind,rep_symbols(pt)))
+            else:
+                titles.append((ind,pt))
     print(f"{titles[:5] = }")
     # manner II
     return titles
@@ -32,7 +35,7 @@ def read_titles(file):
 def save_scrapping(path,df):
     df.to_csv(path,sep='\t')
 
-def rep_space_udscr(s):
+def rep_symbols(s):
     """replace spaces by underscores"""
     l = list(s)
     for i in range(len(l)):
@@ -42,7 +45,7 @@ def rep_space_udscr(s):
             l[i] = '%27'
     return ''.join(l)
 
-def rep_udscr_space(s):
+def recover_symbols(s):
     """replace spaces by underscores"""
     l = list(s)
     for i in range(len(l)):
