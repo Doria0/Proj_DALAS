@@ -1,733 +1,1114 @@
-	Tconst du film	Titre du film	Jour de sortie	Mois de sortie	Année de sortie	Durée	Pays	Budget min	Budget max	Box office min	Box office max
-0	tt0000001	Carmencita	\N	\N	\N	\N	\N	\N	\N	\N	\N
-1	tt0000003	Pauvre Pierrot	28	10	1892	15	France	\N	\N	\N	\N
-2	tt0000004	Un bon bock	28	10	1892	15	France	\N	\N	\N	\N
-3	tt0000005	Blacksmith Scene	09	05	1893	\N	United States	\N	\N	\N	\N
-4	tt0000006	Chinese Opium Den	\N	\N	1894	\N	United States	\N	\N	\N	\N
-5	tt0000007	Corbett and Courtney Before the Kinetograph	17	11	1894	\N	United States	\N	\N	\N	\N
-6	tt0000008	Edison Kinetoscopic Record of a Sneeze	09	01	1894	\N	United States	\N	\N	\N	\N
-7	tt0000009	Miss Jerry	09	10	1894	\N	United States	\N	\N	\N	\N
-8	tt0000010	Leaving the Factory	\N	\N	\N	\N	\N	\N	\N	\N	\N
-9	tt0000011	Akrobatisches Potpourri	01	11	1895	\N	German Empire	\N	\N	\N	\N
-10	tt0000013	The Photographical Congress Arrives in Lyon	\N	\N	\N	\N	France	\N	\N	\N	\N
-11	tt0000014	The Waterer Watered	\N	\N	\N	\N	\N	\N	\N	\N	\N
-12	tt0000015	Autour d'une cabine	\N	\N	1894	10	France	\N	\N	\N	\N
-13	tt0000016	Boat Leaving the Port	\N	\N	\N	\N	France	\N	\N	\N	\N
-14	tt0000017	Italienischer Bauerntanz	02	11	1895	\N	German Empire	\N	\N	\N	\N
-15	tt0000019	The Clown Barber	\N	\N	1898	\N	United Kingdom	\N	\N	\N	\N
-16	tt0000022	Blacksmith Scene	09	05	1893	\N	United States	\N	\N	\N	\N
-17	tt0000023	The Sea	\N	\N	\N	\N	\N	\N	\N	\N	\N
-18	tt0000024	Opening of the Kiel Canal	\N	\N	1895	\N	United Kingdom	\N	\N	\N	\N
-19	tt0000025	The Oxford and Cambridge University Boat Race	\N	\N	\N	\N	\N	\N	\N	\N	\N
-20	tt0000027	Cordeliers' Square in Lyon	\N	\N	\N	\N	France	\N	\N	\N	\N
-21	tt0000028	Fishing for Goldfish	\N	\N	\N	\N	France	\N	\N	\N	\N
-22	tt0000029	Baby's Meal	10	06	1895	\N	France	\N	\N	\N	\N
-23	tt0000030	Rough Sea at Dover	14	01	1896	\N	United Kingdom	\N	\N	\N	\N
-24	tt0000033	Horse Trick Riders	\N	\N	1895	\N	France	\N	\N	\N	\N
-25	tt0000035	Watering the Flowers	\N	\N	\N	\N	France	\N	\N	\N	\N
-26	tt0000036	Awakening of Rip	\N	05	1903	\N	United States	\N	\N	\N	\N
-27	tt0000037	Sea Bathing	\N	\N	\N	\N	\N	\N	\N	\N	\N
-28	tt0000038	The Ball Game	\N	\N	\N	\N	\N	\N	\N	\N	\N
-29	tt0000039	Barnet Horse Fair	\N	\N	\N	\N	\N	\N	\N	\N	\N
-30	tt0000040	Barque sortant du port de Trouville	\N	\N	\N	\N	\N	\N	\N	\N	\N
-31	tt0000041	Bataille de neige	\N	\N	1897	\N	France	\N	\N	\N	\N
-32	tt0000042	Bateau-mouche sur la Seine	\N	\N	\N	\N	\N	\N	\N	\N	\N
-33	tt0000046	Bois de Boulogne	\N	\N	\N	\N	\N	\N	\N	\N	\N
-34	tt0000047	Boulevard des Italiens	\N	\N	\N	\N	\N	\N	\N	\N	\N
-35	tt0000048	The Boxing Kangaroo	\N	01	1896	\N	United Kingdom	\N	\N	\N	\N
-36	tt0000049	Boxing Match; or, Glove Contest	\N	\N	1896	\N	United Kingdom	\N	\N	\N	\N
-37	tt0000051	The Bohemian Encampment	\N	\N	\N	\N	\N	\N	\N	\N	\N
-38	tt0000055	Le chiffonnier	\N	\N	1896	\N	France	\N	\N	\N	\N
-39	tt0000059	Coronation of a Village Maiden	\N	\N	\N	\N	\N	\N	\N	\N	\N
-40	tt0000060	Dancing Darkies	\N	\N	\N	\N	\N	\N	\N	\N	\N
-41	tt0000061	Dancing Girls	\N	\N	\N	\N	\N	\N	\N	\N	\N
-42	tt0000062	Danse serpentine	\N	\N	1896	\N	France	\N	\N	\N	\N
-43	tt0000063	Dessinateur express	\N	\N	1896	\N	France	\N	\N	\N	\N
-44	tt0000064	Dessinateur: Chamberlain	\N	\N	1896	\N	France	\N	\N	\N	\N
-45	tt0000065	Dessinateur: Reine Victoria	\N	\N	1896	\N	France	\N	\N	\N	\N
-46	tt0000066	Dessinateur: Von Bismark	\N	\N	1896	\N	France	\N	\N	\N	\N
-47	tt0000067	Conjurer Making Ten Hats in Sixty Seconds	\N	\N	1896	\N	France	\N	\N	\N	\N
-48	tt0000068	Unloading the Boat	\N	\N	\N	\N	\N	\N	\N	\N	\N
-49	tt0000069	Post No Bills	\N	\N	\N	\N	\N	\N	\N	\N	\N
-50	tt0000072	Officers of French Army Leaving Service	\N	\N	\N	\N	\N	\N	\N	\N	\N
-51	tt0000073	Effets de mer sur les rochers	\N	\N	\N	\N	\N	\N	\N	\N	\N
-52	tt0000074	Enfants jouant sur la plage	\N	\N	\N	\N	\N	\N	\N	\N	\N
-53	tt0000075	The Conjuring of a Woman at the House of Robert Houdin	\N	\N	1896	\N	France	\N	\N	\N	\N
-54	tt0000078	Feira de Gado na Corujeira	\N	\N	\N	\N	\N	\N	\N	\N	\N
-55	tt0000088	Market Day	\N	\N	\N	\N	\N	\N	\N	\N	\N
-56	tt0000089	Leaving Jerusalem by Railway	\N	\N	\N	\N	France	\N	\N	\N	\N
-57	tt0000091	The House of the Devil	25	04	2009	95	United States	\N	900000.0	\N	101215.0
-58	tt0000093	Melbourne	\N	\N	\N	\N	\N	\N	\N	\N	\N
-59	tt0000096	Place Saint-Augustin	\N	\N	\N	\N	\N	\N	\N	\N	\N
-60	tt0000099	Place de la Bastille	\N	\N	\N	\N	\N	\N	\N	\N	\N
-61	tt0000100	Place de la Concorde	\N	\N	\N	\N	\N	\N	\N	\N	\N
-62	tt0000108	Rip Leaving Sleepy Hollow	\N	05	1903	\N	United States	\N	\N	\N	\N
-63	tt0000111	Rip's Toast	\N	05	1903	\N	United States	\N	\N	\N	\N
-64	tt0000113	Rip's Twenty Years' Sleep	\N	05	1903	\N	United States	\N	\N	\N	\N
-65	tt0000123	Conjuring	\N	\N	\N	\N	\N	\N	\N	\N	\N
-66	tt0000126	Tom Old Boot	\N	\N	1896	\N	France	\N	\N	\N	\N
-67	tt0000131	A Terrible Night	\N	\N	1896	\N	France	\N	\N	\N	\N
-68	tt0000135	A Watermelon Feast	\N	\N	\N	\N	\N	\N	\N	\N	\N
-69	tt0000138	The Bewitched Inn	\N	\N	\N	\N	France	\N	\N	\N	\N
-70	tt0000147	The Corbett-Fitzsimmons Fight	\N	\N	\N	\N	\N	\N	\N	\N	\N
-71	tt0000149	Behind the Scenes	\N	\N	\N	\N	\N	\N	\N	\N	\N
-72	tt0000151	Faust et Marguerite	\N	\N	\N	\N	\N	\N	\N	\N	\N
-73	tt0000153	The Haunted Castle	\N	\N	\N	\N	\N	\N	\N	\N	\N
-74	tt0000154	Henley Regatta	\N	\N	\N	\N	\N	\N	\N	\N	\N
-75	tt0000157	Idylle	\N	\N	\N	\N	\N	\N	\N	\N	\N
-76	tt0000160	The Last Days of Pompeii	\N	\N	\N	\N	\N	\N	\N	\N	\N
-77	tt0000162	Niagara Falls	\N	\N	\N	\N	\N	\N	\N	\N	\N
-78	tt0000167	Salida de misa de doce del Pilar de Zaragoza	\N	\N	\N	\N	\N	\N	\N	\N	\N
-79	tt0000170	The Twins' Tea Party	\N	08	1896	\N	United Kingdom	\N	\N	\N	\N
-80	tt0000172	The X-Ray Fiend	\N	10	1897	\N	United Kingdom	\N	\N	\N	\N
-81	tt0000175	A Sea Cave Near Lisbon	22	10	1896	\N	United Kingdom	\N	\N	\N	\N
-82	tt0000176	Brittania	\N	\N	\N	\N	\N	\N	\N	\N	\N
-83	tt0000178	The Cavalier's Dream	\N	\N	\N	\N	United States	\N	\N	\N	\N
-84	tt0000179	The Cave of the Demons	\N	\N	\N	\N	France	\N	\N	\N	\N
-85	tt0000181	Cinderella	\N	\N	\N	\N	"
-Ancient Greece, Egypt (oral)
-Italy (literary)
-"	\N	\N	\N	\N
-86	tt0000182	Come Along, Do!	\N	\N	1898	\N	United Kingdom	\N	\N	\N	\N
-87	tt0000183	The Corsican Brothers	\N	\N	\N	\N	\N	\N	\N	\N	\N
-88	tt0000188	The Deserter	\N	\N	\N	\N	\N	\N	\N	\N	\N
-89	tt0000189	Dorotea	\N	\N	\N	\N	Sweden	\N	\N	\N	\N
-90	tt0000207	London Express	\N	\N	\N	\N	\N	\N	\N	\N	\N
-91	tt0000209	Photographing a Ghost	\N	\N	1898	\N	United Kingdom	\N	\N	\N	\N
-92	tt0000218	L'affaire Dreyfus	\N	\N	\N	\N	\N	\N	\N	\N	\N
-93	tt0000219	Aladdin and the Wonderful Lamp	\N	\N	\N	\N	\N	\N	\N	\N	\N
-94	tt0000224	Battlefield	\N	\N	\N	\N	\N	\N	\N	\N	\N
-95	tt0000225	Beauty and the Beast	\N	\N	\N	\N	\N	\N	\N	\N	\N
-96	tt0000226	Boat Race	\N	\N	\N	\N	\N	\N	\N	\N	\N
-97	tt0000229	Casey at the Bat	\N	\N	\N	\N	\N	\N	\N	\N	\N
-98	tt0000230	Cinderella	\N	\N	\N	\N	"
-Ancient Greece, Egypt (oral)
-Italy (literary)
-"	\N	\N	\N	\N
-99	tt0000232	Le chiffonnier	\N	\N	1896	\N	France	\N	\N	\N	\N
-100	tt0000242	The Sign of the Cross	\N	\N	\N	\N	\N	\N	\N	\N	\N
-101	tt0000244	Erreur judiciaire	07	04	1948	80	France	\N	\N	\N	\N
-102	tt0000245	The Haunted House	\N	\N	\N	\N	\N	\N	\N	\N	\N
-103	tt0000247	King John	\N	\N	\N	\N	\N	\N	\N	\N	\N
-104	tt0000248	A Kiss in the Tunnel	\N	03	1899	\N	United Kingdom	\N	\N	\N	\N
-105	tt0000249	The Legacy	\N	\N	\N	\N	\N	\N	\N	\N	\N
-106	tt0000253	The Miser's Doom	\N	\N	1899	\N	United Kingdom	\N	\N	\N	\N
-107	tt0000260	Transformations	\N	\N	\N	\N	\N	\N	\N	\N	\N
-108	tt0000264	Summoning the Spirits	\N	\N	1899	\N	France	\N	\N	\N	\N
-109	tt0000265	Above the Limit	\N	11	1900	\N	United States	\N	\N	\N	\N
-110	tt0000269	Army Life; or, How Soldiers Are Made: Mounted Infantry	18	09	1900	\N	United Kingdom	\N	\N	\N	\N
-111	tt0000272	As Seen Through a Telescope	\N	09	1900	\N	United Kingdom	\N	\N	\N	\N
-112	tt0000273	Attack on a China Mission	17	11	1900	\N	United Kingdom	\N	\N	\N	\N
-113	tt0000275	Badinage	\N	\N	\N	\N	\N	\N	\N	\N	\N
-114	tt0000277	Bataille de boules de neige	\N	\N	1897	\N	France	\N	\N	\N	\N
-115	tt0000281	Buffalo Bill's Wild West Show	\N	\N	\N	\N	\N	\N	\N	\N	\N
-116	tt0000296	Danse serpentine	\N	\N	1896	\N	France	\N	\N	\N	\N
-117	tt0000300	The Enchanted Drawing	16	11	1900	\N	United States	\N	\N	\N	\N
-118	tt0000301	Faust and Marguerite	\N	\N	\N	\N	\N	\N	\N	\N	\N
-119	tt0000304	Grandma's Reading Glass	\N	11	1900	\N	United Kingdom	\N	\N	\N	\N
-120	tt0000307	Happy Hooligan	\N	\N	\N	\N	\N	\N	\N	\N	\N
-121	tt0000308	The House That Jack Built	\N	\N	\N	\N	\N	\N	\N	\N	\N
-122	tt0000309	How It Feels to Be Run Over	\N	\N	\N	\N	United Kingdom	\N	\N	\N	\N
-123	tt0000313	Let Me Dream Again	\N	08	1900	\N	United Kingdom	\N	\N	\N	\N
-124	tt0000319	Maple Leaf Viewing	\N	\N	\N	\N	Japan	\N	\N	\N	\N
-125	tt0000335	Soldiers of the Cross	\N	\N	\N	\N	\N	\N	\N	\N	\N
-126	tt0000336	La source	\N	\N	\N	\N	\N	\N	\N	\N	\N
-127	tt0000346	Another Job for the Undertaker	15	05	1901	2	United States	\N	\N	\N	\N
-128	tt0000352	Day at the Circus	\N	\N	\N	\N	\N	\N	\N	\N	\N
-129	tt0000353	Execution of Czolgosz with Panorama of Auburn Prison	04	11	1901	24	United States	\N	\N	\N	\N
-130	tt0000355	Fire!	\N	\N	\N	\N	\N	\N	\N	\N	\N
-131	tt0000357	The Haunted Curiosity Shop	\N	\N	1901	\N	United Kingdom	\N	\N	\N	\N
-132	tt0000358	History of a Crime	\N	\N	\N	\N	\N	\N	\N	\N	\N
-133	tt0000368	Little Red Riding Hood	\N	\N	\N	\N	\N	\N	\N	\N	\N
-134	tt0000370	Scrooge; or Marley's Ghost	\N	11	1901	\N	United Kingdom	\N	\N	\N	\N
-135	tt0000377	Undressing Extraordinary	\N	\N	1901	3	United Kingdom	\N	\N	\N	\N
-136	tt0000380	Sleeping Beauty	\N	\N	\N	\N	\N	\N	\N	\N	\N
-137	tt0000381	Buffalo Bill's Wild West Show	\N	\N	\N	\N	\N	\N	\N	\N	\N
-138	tt0000399	Jack and the Beanstalk	\N	\N	\N	\N	United Kingdom	\N	\N	\N	\N
-139	tt0000406	The Prince of Darkness	\N	\N	\N	\N	\N	\N	\N	\N	\N
-140	tt0000410	Demolishing and Building Up the Star Theatre	\N	\N	1901	\N	United States	\N	\N	\N	\N
-141	tt0000413	The Devil's Money Bags	\N	\N	\N	\N	France	\N	\N	\N	\N
-142	tt0000414	Uncle Josh at the Moving Picture Show	\N	\N	\N	\N	\N	\N	\N	\N	\N
-143	tt0000417	A Trip to the Moon	01	09	1902	18	France	\N	10000.0	\N	\N
-144	tt0000418	The Wild Man of Borneo	\N	\N	\N	\N	\N	\N	\N	\N	\N
-145	tt0000420	Alice in Wonderland	\N	\N	\N	\N	United Kingdom	\N	\N	\N	\N
-146	tt0000430	A Chess Dispute	\N	08	1903	\N	United Kingdom	\N	\N	\N	\N
-147	tt0000436	An Extraordinary Cab Accident	\N	11	1903	\N	United Kingdom	\N	\N	\N	\N
-148	tt0000439	The Great Train Robbery	\N	\N	\N	\N	\N	\N	\N	\N	\N
-149	tt0000442	Capital Execution	\N	\N	1903	3	Denmark	\N	\N	\N	\N
-150	tt0000443	Hiawatha	\N	\N	\N	\N	\N	\N	\N	\N	\N
-151	tt0000446	Kit Carson	\N	\N	\N	\N	\N	\N	\N	\N	\N
-152	tt0000447	Life of an American Fireman	\N	01	1903	\N	United States	\N	\N	\N	\N
-153	tt0000451	Mary Jane's Mishap	\N	02	1903	\N	United Kingdom	\N	\N	\N	\N
-154	tt0000460	The Pioneers	\N	\N	\N	\N	\N	\N	\N	\N	\N
-155	tt0000464	Rip Van Winkle	\N	\N	\N	\N	\N	\N	\N	\N	\N
-156	tt0000465	The Kingdom of the Fairies	\N	09	1903	17	France	\N	\N	\N	\N
-157	tt0000469	The Sick Kitten	\N	02	1903	\N	United Kingdom	\N	\N	\N	\N
-158	tt0000471	Uncle Tom's Cabin	\N	\N	\N	\N	United States	\N	\N	\N	\N
-159	tt0000472	Uncle Tom's Cabin	\N	\N	\N	\N	United States	\N	\N	\N	\N
-160	tt0000478	Behind the Scenes	\N	\N	\N	\N	\N	\N	\N	\N	\N
-161	tt0000486	A Gentleman of France	\N	\N	\N	\N	United Kingdom	\N	\N	\N	\N
-162	tt0000487	The Great Train Robbery	\N	\N	\N	\N	\N	\N	\N	\N	\N
-163	tt0000488	The Land Beyond the Sunset	28	10	1912	15	United States	\N	\N	\N	\N
-164	tt0000492	Personal	\N	\N	\N	\N	\N	\N	\N	\N	\N
-165	tt0000497	A Railway Tragedy	\N	\N	1904	\N	United Kingdom	\N	\N	\N	\N
-166	tt0000498	Rescued by Rover	\N	\N	1905	\N	United Kingdom	\N	7.0	\N	\N
-167	tt0000499	An Impossible Voyage	\N	\N	\N	20	France	\N	37500.0	\N	\N
-168	tt0000500	The Abductors	\N	07	1957	80	United States	\N	\N	\N	\N
-169	tt0000501	Adventures of Sherlock Holmes	\N	\N	\N	\N	United Kingdom	\N	\N	\N	\N
-170	tt0000511	Esmeralda	\N	\N	\N	\N	\N	\N	\N	\N	\N
-171	tt0000513	Gigantes y cabezudos	\N	\N	\N	\N	\N	\N	\N	\N	\N
-172	tt0000516	The Electric Hotel	31	10	1908	8	France	\N	\N	\N	\N
-173	tt0000519	The Kleptomaniac	\N	\N	1905	\N	United States	\N	\N	\N	\N
-174	tt0000521	The Little Train Robbery	\N	\N	\N	\N	\N	\N	\N	\N	\N
-175	tt0000522	The Moonshiners	\N	\N	\N	\N	\N	\N	\N	\N	\N
-176	tt0000524	New York Subway	\N	\N	\N	\N	\N	\N	\N	\N	\N
-177	tt0000528	Raffles, the Amateur Cracksman	\N	\N	\N	\N	\N	\N	\N	\N	\N
-178	tt0000546	Dream of a Rarebit Fiend	\N	\N	\N	\N	\N	\N	\N	\N	\N
-179	tt0000552	The Hand of the Artist	\N	04	1906	\N	United Kingdom	\N	\N	\N	\N
-180	tt0000553	The Haunted Hotel	\N	\N	\N	5	United States of America	\N	\N	\N	\N
-181	tt0000554	Humorous Phases of Funny Faces	06	04	1906	3	United States	\N	\N	\N	\N
-182	tt0000557	Kathleen Mavourneen	\N	\N	\N	\N	\N	\N	\N	\N	\N
-183	tt0000565	The Night Before Christmas	\N	\N	\N	\N	United States	\N	\N	\N	\N
-184	tt0000567	The 400 Tricks of the Devil	\N	\N	1906	17	France	\N	\N	\N	\N
-185	tt0000574	The Story of the Kelly Gang	26	12	1906	60	Australia	\N	4001000.0	\N	25000.0
-186	tt0000575	20,000 Leagues Under the Sea	\N	\N	\N	\N	France	\N	\N	\N	\N
-187	tt0000576	Ali Baba and the Forty Thieves	\N	\N	\N	\N	\N	\N	\N	\N	\N
-188	tt0000577	Angelo, Tyrant of Padua	\N	\N	\N	\N	\N	\N	\N	\N	\N
-189	tt0000582	Ben Hur	\N	\N	\N	\N	\N	\N	\N	\N	\N
-190	tt0000584	El ciego de la aldea	\N	\N	1907	11	Spain	\N	\N	\N	\N
-191	tt0000586	A Curious Dream	16	03	1907	6	United States	\N	\N	\N	\N
-192	tt0000588	Der var engang	01	10	1966	103	Denmark	\N	\N	\N	\N
-193	tt0000591	The Prodigal Son	\N	\N	\N	\N	\N	\N	\N	\N	\N
-194	tt0000592	Eureka Stockade	\N	\N	\N	\N	\N	\N	\N	\N	\N
-195	tt0000597	The Magic Mirror	\N	\N	\N	\N	\N	\N	\N	\N	\N
-196	tt0000598	Hamlet, Prince of Denmark	\N	\N	\N	\N	\N	\N	\N	\N	\N
-197	tt0000601	Lohengrin	\N	\N	\N	\N	\N	\N	\N	\N	\N
-198	tt0000609	Othello	\N	\N	\N	\N	\N	\N	\N	\N	\N
-199	tt0000610	Othello	\N	\N	\N	\N	\N	\N	\N	\N	\N
-200	tt0000615	Robbery Under Arms	\N	\N	\N	\N	Australia	\N	\N	\N	\N
-201	tt0000618	Salaviinanpolttajat	\N	\N	\N	20	Finland (Russian Empire)	\N	\N	\N	\N
-202	tt0000620	The Will	\N	\N	\N	\N	\N	\N	\N	\N	\N
-203	tt0000621	That Fatal Sneeze	\N	\N	\N	\N	\N	\N	\N	\N	\N
-204	tt0000624	The Ugly Duckling	\N	\N	\N	\N	Denmark	\N	\N	\N	\N
-205	tt0000628	The Adventures of Dollie	14	07	1908	\N	United States	\N	\N	\N	\N
-206	tt0000629	After Many Years	\N	\N	\N	\N	\N	\N	\N	\N	\N
-207	tt0000630	Hamlet	\N	\N	\N	\N	\N	\N	\N	\N	\N
-208	tt0000631	Hamlet	\N	\N	\N	\N	\N	\N	\N	\N	\N
-209	tt0000634	Antony and Cleopatra	\N	\N	\N	\N	\N	\N	\N	\N	\N
-210	tt0000636	As You Like It	\N	\N	\N	\N	\N	\N	\N	\N	\N
-211	tt0000640	An Awful Moment	18	12	1908	12	United States	\N	\N	\N	\N
-212	tt0000641	Balked at the Altar	25	08	1908	12	United States	\N	\N	\N	\N
-213	tt0000642	The Bandit's Waterloo	04	08	1908	7	United States	\N	\N	\N	\N
-214	tt0000644	Behind the Scenes	\N	\N	\N	\N	\N	\N	\N	\N	\N
-215	tt0000645	Betrayed by a Handprint	01	09	1908	13	United States	\N	\N	\N	\N
-216	tt0000648	The Black Viper	25	07	1908	11	United States	\N	\N	\N	\N
-217	tt0000649	Bobby's Kodak	10	02	1908	\N	United States	\N	\N	\N	\N
-218	tt0000650	The Boston Tea Party	\N	\N	\N	\N	\N	\N	\N	\N	\N
-219	tt0000653	A Calamitous Elopement	07	08	1908	12	United States	\N	\N	\N	\N
-220	tt0000654	The Call of the Wild	\N	\N	\N	\N	United States	\N	\N	\N	\N
-221	tt0000660	The Christmas Burglars	22	12	1908	11	United States	\N	\N	\N	\N
-222	tt0000661	Humanity Through the Ages	\N	\N	\N	\N	France	\N	\N	\N	\N
-223	tt0000662	Classmates	\N	\N	\N	\N	\N	\N	\N	\N	\N
-224	tt0000663	The Clubman and the Tramp	27	11	1908	17	United States	\N	\N	\N	\N
-225	tt0000665	Concealing a Burglar	30	10	1908	11	United States	\N	\N	\N	\N
-226	tt0000668	The Count of Monte Cristo	\N	\N	\N	\N	France	\N	\N	\N	\N
-227	tt0000670	El curioso impertinente	\N	\N	\N	\N	\N	\N	\N	\N	\N
-228	tt0000671	Desdemona	\N	\N	\N	\N	\N	\N	\N	\N	\N
-229	tt0000672	The Devil	\N	\N	\N	\N	\N	\N	\N	\N	\N
-230	tt0000673	La Dolores	\N	\N	\N	\N	\N	\N	\N	\N	\N
-231	tt0000674	Don Juan Tenorio	\N	\N	\N	\N	\N	\N	\N	\N	\N
-232	tt0000675	Don Quijote	\N	\N	\N	\N	Habsburg Spain	\N	\N	\N	\N
-233	tt0000679	The Fairylogue and Radio-Plays	24	09	1908	120	United States	\N	\N	\N	\N
-234	tt0000683	The Fatal Hour	\N	\N	\N	\N	\N	\N	\N	\N	\N
-235	tt0000684	Father Gets in the Game	10	10	1908	10	United States	\N	\N	\N	\N
-236	tt0000685	The Feud and the Turkey	08	12	1908	15	United States	\N	\N	\N	\N
-237	tt0000689	For Love of Gold	21	08	1908	9	United States	\N	\N	\N	\N
-238	tt0000690	For a Wife's Honor	28	08	1908	8	United States	\N	\N	\N	\N
-239	tt0000691	The French Maid	\N	\N	\N	\N	\N	\N	\N	\N	\N
-240	tt0000692	El fusilamiento de Dorrego	24	05	1908	12	Argentina	\N	\N	\N	\N
-241	tt0000694	The Girl and the Outlaw	08	09	1908	14	United States	\N	\N	\N	\N
-242	tt0000695	The Greaser's Gauntlet	11	08	1908	17	United States	\N	\N	\N	\N
-243	tt0000697	The Guerrilla	13	11	1908	14	United States	\N	\N	\N	\N
-244	tt0000699	The Helping Hand	\N	\N	\N	\N	\N	\N	\N	\N	\N
-245	tt0000704	The Humpty Dumpty Circus	\N	\N	1908	\N	United States	\N	\N	\N	\N
-246	tt0000706	Ingomar, the Barbarian	13	10	1908	13	United States	\N	\N	\N	\N
-247	tt0000707	The Ingrate	20	11	1908	15	United States	\N	\N	\N	\N
-248	tt0000708	The Invisible Fluid	16	06	1908	5	United States	\N	\N	\N	\N
-249	tt0000709	Julius Caesar	\N	\N	\N	\N	\N	\N	\N	\N	\N
-250	tt0000711	The Kentuckian	\N	\N	\N	\N	\N	\N	\N	\N	\N
-251	tt0000717	Macbeth	\N	\N	\N	\N	London, England	\N	\N	\N	\N
-252	tt0000720	The Man and the Woman	14	08	1908	13	United States	\N	\N	\N	\N
-253	tt0000721	The Man in the Box	\N	\N	\N	\N	\N	\N	\N	\N	\N
-254	tt0000724	The Merchant of Venice	\N	\N	\N	\N	\N	\N	\N	\N	\N
-255	tt0000727	Monday Morning in a Coney Island Police Court	04	09	1908	7	United States	\N	\N	\N	\N
-256	tt0000728	Money Mad	\N	\N	\N	\N	\N	\N	\N	\N	\N
-257	tt0000730	Mr. Jones at the Ball	25	12	1908	8	United States	\N	\N	\N	\N
-258	tt0000731	Mrs. Jones Entertains	09	01	1909	11	United States	\N	\N	\N	\N
-259	tt0000732	The Music Master	\N	\N	\N	\N	\N	\N	\N	\N	\N
-260	tt0000734	Othello	\N	\N	\N	\N	\N	\N	\N	\N	\N
-261	tt0000736	The Outlaw	05	02	1943	121	United States	\N	3400000.0	\N	20000000.0
-262	tt0000737	Over the Hill to the Poorhouse	17	09	1920	\N	United States	\N	50000.0	\N	25000000.0
-263	tt0000740	The Pirate's Gold	06	11	1908	16	United States	\N	\N	\N	\N
-264	tt0000741	The Planter's Wife	\N	\N	\N	\N	\N	\N	\N	\N	\N
-265	tt0000746	The Reckoning	\N	\N	\N	\N	\N	\N	\N	\N	\N
-266	tt0000748	The Red Man and the Child	28	07	1908	14	United States	\N	\N	\N	\N
-267	tt0000749	Rescued from an Eagle's Nest	16	01	1908	7	United States	\N	\N	\N	\N
-268	tt0000750	Richard III	\N	\N	\N	\N	\N	\N	\N	\N	\N
-269	tt0000751	The Roman	\N	\N	\N	\N	\N	\N	\N	\N	\N
-270	tt0000752	Romance of a Jewess	23	10	1908	15	United States	\N	\N	\N	\N
-271	tt0000754	Romeo and Juliet	\N	\N	\N	\N	\N	\N	\N	\N	\N
-272	tt0000755	The Dream of an Opium Fiend	\N	\N	\N	\N	France	\N	\N	\N	\N
-273	tt0000757	She	\N	\N	\N	\N	\N	\N	\N	\N	\N
-274	tt0000758	Sherlock Holmes	\N	\N	\N	\N	\N	\N	\N	\N	\N
-275	tt0000762	A Smoked Husband	25	09	1908	8	United States	\N	\N	\N	\N
-276	tt0000763	The Snowman	\N	\N	\N	26	\N	\N	\N	\N	\N
-277	tt0000764	The Song of the Shirt	\N	\N	\N	\N	\N	\N	\N	\N	\N
-278	tt0000767	The Stolen Jewels	\N	\N	\N	\N	\N	\N	\N	\N	\N
-279	tt0000770	The Taming of the Shrew	\N	\N	\N	\N	\N	\N	\N	\N	\N
-280	tt0000771	The Tavern Keeper's Daughter	24	07	1908	7	United States	\N	\N	\N	\N
-281	tt0000772	The Test of Friendship	15	12	1908	13	United States	\N	\N	\N	\N
-282	tt0000776	The Last Days of Pompeii	\N	\N	\N	\N	\N	\N	\N	\N	\N
-283	tt0000778	The Valet's Wife	05	12	1908	8	United States	\N	\N	\N	\N
-284	tt0000779	The Vaquero's Vow	16	10	1908	13	United States	\N	\N	\N	\N
-285	tt0000783	When Knighthood Was in Flower	\N	\N	\N	\N	\N	\N	\N	\N	\N
-286	tt0000784	When Knights Were Bold	\N	\N	\N	\N	\N	\N	\N	\N	\N
-287	tt0000785	Where the Breakers Roar	22	09	1908	9	United States	\N	\N	\N	\N
-288	tt0000786	Wiegenlied	\N	\N	\N	\N	\N	\N	\N	\N	\N
-289	tt0000787	A Woman's Way	\N	\N	\N	\N	\N	\N	\N	\N	\N
-290	tt0000788	The Yellow Peril	\N	\N	\N	\N	\N	\N	\N	\N	\N
-291	tt0000789	The Zulu's Heart	06	10	1908	12	United States	\N	\N	\N	\N
-292	tt0000792	And a Little Child Shall Lead Them	22	03	1909	4	United States	\N	\N	\N	\N
-293	tt0000793	Andreas Hofer	\N	\N	\N	\N	\N	\N	\N	\N	\N
-294	tt0000797	At the Altar	25	02	1909	11	United States	\N	\N	\N	\N
-295	tt0000800	The Awakening	\N	\N	\N	\N	\N	\N	\N	\N	\N
-296	tt0000806	The Best Man Wins	\N	\N	\N	\N	\N	\N	\N	\N	\N
-297	tt0000807	The Better Way	\N	\N	\N	\N	United States	\N	\N	\N	\N
-298	tt0000809	Bill Sharkey's Last Game	\N	\N	1909	\N	United States	\N	\N	\N	\N
-299	tt0000810	The Black Sheep	\N	\N	\N	\N	\N	\N	\N	\N	\N
-300	tt0000811	The Blind Man	\N	\N	\N	\N	\N	\N	\N	\N	\N
-301	tt0000813	Bluebeard	\N	\N	\N	\N	\N	\N	\N	\N	\N
-302	tt0000815	The Brahma Diamond	04	02	1909	11	United States	\N	\N	\N	\N
-303	tt0000819	A Burglar's Mistake	25	03	1909	15	United States	\N	\N	\N	\N
-304	tt0000823	A Change of Heart	\N	\N	\N	\N	\N	\N	\N	\N	\N
-305	tt0000825	The Children's Friend	\N	\N	\N	\N	\N	\N	\N	\N	\N
-306	tt0000826	Choosing a Husband	30	12	1909	6	United States	\N	\N	\N	\N
-307	tt0000827	Comata, the Sioux	\N	\N	\N	10	United States	\N	\N	\N	\N
-308	tt0000828	Confidence	\N	\N	\N	\N	\N	\N	\N	\N	\N
-309	tt0000831	The Cord of Life	28	01	1909	14	United States	\N	\N	\N	\N
-310	tt0000832	A Corner in Wheat	\N	\N	\N	\N	\N	\N	\N	\N	\N
-311	tt0000833	The Country Doctor	\N	\N	\N	\N	\N	\N	\N	\N	\N
-312	tt0000835	The Cricket on the Hearth	\N	\N	\N	\N	England	\N	\N	\N	\N
-313	tt0000837	The Criminal Hypnotist	18	01	1909	10	United States	\N	\N	\N	\N
-314	tt0000840	The Curtain Pole	15	02	1909	12	United States	\N	\N	\N	\N
-315	tt0000841	The Day After	\N	\N	\N	126	\N	\N	\N	\N	\N
-316	tt0000843	The Death Disc: A Story of the Cromwellian Period	02	12	1909	\N	United States	\N	\N	\N	\N
-317	tt0000844	The Death of Ivan the Terrible	\N	\N	\N	\N	\N	\N	\N	\N	\N
-318	tt0000845	The Deception	\N	\N	\N	\N	\N	\N	\N	\N	\N
-319	tt0000852	A Drunkard's Reformation	01	04	1909	15	United States	\N	\N	\N	\N
-320	tt0000853	The Eavesdropper	\N	\N	\N	\N	\N	\N	\N	\N	\N
-321	tt0000854	Edgar Allan Poe	\N	\N	\N	\N	\N	\N	\N	\N	\N
-322	tt0000864	The Fascinating Mrs. Francis	21	01	1909	5	United States	\N	\N	\N	\N
-323	tt0000870	A Fool's Revenge	04	03	1909	11	United States	\N	\N	\N	\N
-324	tt0000871	Fools of Fate	07	10	1909	11	United States	\N	\N	\N	\N
-325	tt0000872	The Foundling	\N	\N	\N	\N	\N	\N	\N	\N	\N
-326	tt0000875	The Friend of the Family	\N	\N	\N	\N	Russia	\N	\N	\N	\N
-327	tt0000876	Fuss and Feathers	08	12	1918	50	United States	\N	\N	\N	\N
-328	tt0000877	Getting Even	\N	\N	\N	\N	\N	\N	\N	\N	\N
-329	tt0000878	The Gibson Goddess	01	11	1909	6	United States	\N	\N	\N	\N
-330	tt0000880	The Girls and Daddy	01	02	1909	15	United States	\N	\N	\N	\N
-331	tt0000882	The Golden Louis	22	02	1909	7	United States	\N	\N	\N	\N
-332	tt0000883	The Grey Lady	\N	\N	\N	\N	\N	\N	\N	\N	\N
-333	tt0000886	Hamlet, Prince of Denmark	\N	\N	\N	\N	\N	\N	\N	\N	\N
-334	tt0000887	Hansel and Gretel	\N	\N	\N	\N	\N	\N	\N	\N	\N
-335	tt0000892	Her First Biscuits	17	06	1909	7	United States	\N	\N	\N	\N
-336	tt0000895	The Hessian Renegades	06	09	1909	10	United States	\N	\N	\N	\N
-337	tt0000896	The Hindoo Dagger	\N	\N	\N	\N	\N	\N	\N	\N	\N
-338	tt0000898	His Lost Love	18	10	1909	11	United States	\N	\N	\N	\N
-339	tt0000900	His Ward's Love	15	02	1909	3	United States	\N	\N	\N	\N
-340	tt0000901	His Wife's Mother	\N	\N	\N	\N	\N	\N	\N	\N	\N
-341	tt0000903	The Honor of Thieves	11	01	1909	11	United States	\N	\N	\N	\N
-342	tt0000905	I Did It	\N	\N	\N	\N	\N	\N	\N	\N	\N
-343	tt0000907	In Little Italy	23	12	1909	10	United States	\N	\N	\N	\N
-344	tt0000908	In Old Kentucky	\N	\N	\N	\N	\N	\N	\N	\N	\N
-345	tt0000919	The Jilt	13	11	1922	50	United States	\N	\N	\N	\N
-346	tt0000920	Jones and His New Neighbors	29	03	1909	7	United States	\N	\N	\N	\N
-347	tt0000921	Jones and the Lady Book Agent	10	05	1909	9	United States	\N	\N	\N	\N
-348	tt0000922	The Joneses Have Amateur Theatricals	\N	\N	\N	4	USA	\N	\N	\N	\N
-349	tt0000925	Judgment	\N	\N	\N	\N	\N	\N	\N	\N	\N
-350	tt0000928	King Lear	\N	\N	\N	\N	\N	\N	\N	\N	\N
-351	tt0000933	Lady Helen's Escapade	19	04	1909	8	United States	\N	\N	\N	\N
-352	tt0000934	Leather Stocking	27	09	1909	\N	United States	\N	\N	\N	\N
-353	tt0000938	The Little Darling	\N	\N	\N	3	USA	\N	\N	\N	\N
-354	tt0000939	The Little Teacher	21	06	1915	21	United States	\N	\N	\N	\N
-355	tt0000940	Lochinvar	\N	\N	\N	\N	\N	\N	\N	\N	\N
-356	tt0000941	Locura de amor	\N	\N	\N	112	Spain	\N	\N	\N	\N
-357	tt0000942	The Lonely Villa	10	06	1909	12	United States	\N	\N	\N	\N
-358	tt0000943	Love Finds a Way	11	01	1909	5	United States	\N	\N	\N	\N
-359	tt0000945	Lucky Jim	\N	\N	\N	\N	England	\N	\N	\N	\N
-360	tt0000946	The Lure of the Gown	15	03	1909	6	United States	\N	\N	\N	\N
-361	tt0000950	Macbeth	\N	\N	\N	\N	London, England	\N	\N	\N	\N
-362	tt0000954	Mamma	\N	\N	\N	\N	\N	\N	\N	\N	\N
-363	tt0000956	The Maniac Cook	04	01	1909	8	United States	\N	\N	\N	\N
-364	tt0000958	The Medicine Bottle	29	03	1909	7	United States	\N	\N	\N	\N
-365	tt0000960	The Mended Lute	05	08	1909	11	United States	\N	\N	\N	\N
-366	tt0000961	The Message	\N	\N	\N	\N	\N	\N	\N	\N	\N
-367	tt0000966	A Midsummer Night's Dream	\N	\N	\N	\N	\N	\N	\N	\N	\N
-368	tt0000968	Mistaken Identity	\N	\N	\N	\N	\N	\N	\N	\N	\N
-369	tt0000971	The Mill	\N	\N	\N	\N	\N	\N	\N	\N	\N
-370	tt0000974	Mr. Jones Has a Card Party	21	01	1909	10	United States	\N	\N	\N	\N
-371	tt0000977	Mutterliebe	19	12	1939	106	Germany	\N	\N	\N	\N
-372	tt0000981	The Necklace	\N	\N	\N	\N	France	\N	\N	\N	\N
-373	tt0000983	A New Trick	\N	\N	\N	\N	\N	\N	\N	\N	\N
-374	tt0000986	Nursing a Viper	04	11	1909	\N	United States	\N	\N	\N	\N
-375	tt0000990	Oliver Twist	\N	\N	\N	\N	England	\N	\N	\N	\N
-376	tt0000994	One Good Turn Deserves Another	\N	\N	\N	\N	\N	\N	\N	\N	\N
-377	tt0000995	One Touch of Nature	\N	\N	\N	\N	\N	\N	\N	\N	\N
-378	tt0000997	The Open Gate	\N	\N	\N	\N	\N	\N	\N	\N	\N
-379	tt0000998	Othello	\N	\N	\N	\N	\N	\N	\N	\N	\N
-380	tt0001002	The Politician's Love Story	22	02	1909	6	United States	\N	\N	\N	\N
-381	tt0001005	Pranks	\N	\N	\N	\N	\N	\N	\N	\N	\N
-382	tt0001008	The Prince and the Pauper	\N	\N	\N	\N	United States	\N	\N	\N	\N
-383	tt0001009	Princess Nicotine; or, the Smoke Fairy	\N	\N	\N	\N	\N	\N	\N	\N	\N
-384	tt0001011	The Prussian Spy	01	03	1909	5	United States	\N	\N	\N	\N
-385	tt0001014	The Renunciation	\N	\N	\N	15	United States	\N	\N	\N	\N
-386	tt0001015	The Restoration	\N	\N	\N	\N	\N	\N	\N	\N	\N
-387	tt0001016	Resurrection	\N	\N	\N	\N	\N	\N	\N	\N	\N
-388	tt0001020	The Road to the Heart	05	04	1909	10	United States	\N	\N	\N	\N
-389	tt0001023	The Roue's Heart	08	03	1909	8	United States	\N	\N	\N	\N
-390	tt0001024	A Rude Hostess	08	04	1909	7	United States	\N	\N	\N	\N
-391	tt0001025	A Rural Elopement	14	01	1909	9	United States	\N	\N	\N	\N
-392	tt0001026	Ruy Blas	\N	\N	\N	\N	\N	\N	\N	\N	\N
-393	tt0001027	The Sacrifice	\N	\N	\N	\N	\N	\N	\N	\N	\N
-394	tt0001029	The Salvation Army Lass	11	03	1909	15	United States	\N	\N	\N	\N
-395	tt0001030	Saul and David	\N	\N	\N	\N	\N	\N	\N	\N	\N
-396	tt0001031	Schneider's Anti-Noise Crusade	08	04	1909	9	United States	\N	\N	\N	\N
-397	tt0001032	The Sealed Room	02	09	1909	11	United States	\N	\N	\N	\N
-398	tt0001033	The Seventh Day	\N	\N	\N	\N	\N	\N	\N	\N	\N
-399	tt0001034	Shanghaied	\N	\N	\N	\N	\N	\N	\N	\N	\N
-400	tt0001041	The Slave	\N	\N	\N	\N	\N	\N	\N	\N	\N
-401	tt0001042	The Sleepwalker	\N	\N	\N	\N	\N	\N	\N	\N	\N
-402	tt0001045	A Midsummer Night's Dream	\N	\N	\N	\N	\N	\N	\N	\N	\N
-403	tt0001046	A Sound Sleeper	12	04	1909	3	United States	\N	\N	\N	\N
-404	tt0001052	The Suicide Club	\N	\N	\N	\N	\N	\N	\N	\N	\N
-405	tt0001054	Sweet and Twenty	\N	\N	\N	\N	United Kingdom	\N	\N	\N	\N
-406	tt0001057	Ten Nights in a Barroom	\N	\N	\N	\N	\N	\N	\N	\N	\N
-407	tt0001060	The Test	\N	\N	\N	\N	\N	\N	\N	\N	\N
-408	tt0001062	Those Awful Hats	25	01	1909	3	United States	\N	\N	\N	\N
-409	tt0001063	Those Boys!	18	01	1909	4	United States	\N	\N	\N	\N
-410	tt0001064	Through the Breakers	\N	\N	\N	55	United States	\N	\N	\N	\N
-411	tt0001067	To Save Her Soul	27	12	1909	11	United States	\N	\N	\N	\N
-412	tt0001071	Tragic Love	11	02	1909	15	United States	\N	\N	\N	\N
-413	tt0001072	A Trap for Santa Claus	20	12	1909	16	United States	\N	\N	\N	\N
-414	tt0001076	Trying to Get Arrested	05	04	1909	6	United States	\N	\N	\N	\N
-415	tt0001077	Twin Brothers	\N	\N	\N	\N	\N	\N	\N	\N	\N
-416	tt0001078	Two Memories	24	05	1909	3	United States	\N	\N	\N	\N
-417	tt0001083	The Violin Maker of Cremona	\N	\N	\N	15	USA	\N	\N	\N	\N
-418	tt0001084	The Voice of the Violin	\N	\N	\N	\N	Italy, Sicily	\N	\N	\N	\N
-419	tt0001089	We Must Do Our Best	\N	\N	\N	\N	\N	\N	\N	\N	\N
-420	tt0001090	The Welcome Burglar	25	01	1909	13	United States	\N	\N	\N	\N
-421	tt0001093	When Thieves Fall Out	\N	\N	\N	\N	USA	\N	\N	\N	\N
-422	tt0001098	The Wooden Leg	08	03	1909	3	United States	\N	\N	\N	\N
-423	tt0001099	A Wreath in Time	08	02	1909	9	United States	\N	\N	\N	\N
-424	tt0001101	Abraham Lincoln's Clemency	\N	\N	1910	\N	United States	\N	\N	\N	\N
-425	tt0001102	Across the Plains	\N	\N	\N	\N	\N	\N	\N	\N	\N
-426	tt0001105	The Woman Always Pays	12	09	1910	38	Denmark	\N	\N	\N	\N
-427	tt0001106	Alice's Adventures in Wonderland	\N	\N	\N	\N	United Kingdom	\N	\N	\N	\N
-428	tt0001107	All on Account of the Milk	15	01	1910	11	United States	\N	\N	\N	\N
-429	tt0001108	Almost	\N	\N	\N	\N	\N	\N	\N	\N	\N
-430	tt0001110	Amateur Night	\N	\N	\N	\N	\N	\N	\N	\N	\N
-431	tt0001111	Ambrosius	\N	\N	\N	\N	\N	\N	\N	\N	\N
-432	tt0001112	Amleto	\N	\N	\N	\N	\N	\N	\N	\N	\N
-433	tt0001113	Amor gitano	\N	\N	\N	\N	\N	\N	\N	\N	\N
-434	tt0001114	The Angel of the Studio	\N	\N	\N	\N	USA	\N	\N	\N	\N
-435	tt0001117	Cleopatra	\N	\N	\N	\N	\N	\N	\N	\N	\N
-436	tt0001118	An Arcadian Maid	01	08	1910	16	United States	\N	\N	\N	\N
-437	tt0001119	Arms and the Woman	\N	\N	\N	\N	\N	\N	\N	\N	\N
-438	tt0001120	As It Is in Life	\N	\N	\N	16	USA	\N	\N	\N	\N
-439	tt0001122	The Red Inn	19	10	1951	95	France	\N	\N	\N	\N
-440	tt0001131	Behind the Scenes	\N	\N	\N	\N	\N	\N	\N	\N	\N
-441	tt0001133	The Blue Bird	\N	\N	\N	\N	\N	\N	\N	\N	\N
-442	tt0001134	Briton and Boer	\N	\N	\N	\N	USA	\N	\N	\N	\N
-443	tt0001138	The Brothers	\N	\N	\N	\N	\N	\N	\N	\N	\N
-444	tt0001140	The Bully	\N	\N	\N	\N	\N	\N	\N	\N	\N
-445	tt0001141	The Butterfly	\N	\N	\N	\N	\N	\N	\N	\N	\N
-446	tt0001143	The Call to Arms	\N	\N	\N	\N	\N	\N	\N	\N	\N
-447	tt0001144	The Call	\N	\N	\N	\N	\N	\N	\N	\N	\N
-448	tt0001150	A Child of the Ghetto	\N	\N	\N	\N	\N	\N	\N	\N	\N
-449	tt0001160	Conscience	\N	\N	\N	\N	\N	\N	\N	\N	\N
-450	tt0001166	The Courtship of Miles Standish	\N	\N	\N	\N	\N	\N	\N	\N	\N
-451	tt0001175	Camille	\N	\N	\N	\N	\N	\N	\N	\N	\N
-452	tt0001177	Davy Crockett	\N	\N	\N	\N	\N	\N	\N	\N	\N
-453	tt0001180	The Desperado	20	06	1954	80	United States	\N	\N	\N	\N
-454	tt0001193	Elektra	\N	\N	\N	\N	\N	\N	\N	\N	\N
-455	tt0001200	The Englishman and the Girl	17	02	1910	11	United States	\N	\N	\N	\N
-456	tt0001206	The Face at the Window	\N	\N	\N	\N	\N	\N	\N	\N	\N
-457	tt0001207	Faithful	\N	\N	\N	\N	\N	\N	\N	\N	\N
-458	tt0001208	The Farmer's Daughter	\N	\N	\N	\N	\N	\N	\N	\N	\N
-459	tt0001211	Faust	\N	\N	\N	\N	\N	\N	\N	\N	\N
-460	tt0001217	A Flash of Light	\N	\N	\N	\N	\N	\N	\N	\N	\N
-461	tt0001223	Frankenstein	\N	\N	\N	\N	England	\N	\N	\N	\N
-462	tt0001227	The Fugitive	\N	\N	\N	\N	\N	\N	\N	\N	\N
-463	tt0001230	Gentleman Joe	\N	\N	\N	\N	\N	\N	\N	\N	\N
-464	tt0001234	Gold Is Not All	30	01	1913	\N	Canada	\N	\N	\N	\N
-465	tt0001236	The Gold Seekers	07	09	2017	102	Paraguay	\N	\N	\N	\N
-466	tt0001240	Hamlet	\N	\N	\N	\N	\N	\N	\N	\N	\N
-467	tt0001241	Hamlet	\N	\N	\N	\N	\N	\N	\N	\N	\N
-468	tt0001242	Hamlet	\N	\N	\N	\N	\N	\N	\N	\N	\N
-469	tt0001247	His Brother's Wife	07	08	1936	88	United States	\N	367000.0	\N	1662000.0
-470	tt0001249	His Last Dollar	29	10	1914	50	United States	\N	\N	\N	\N
-471	tt0001256	The House with Closed Shutters	08	08	1910	16	United States	\N	\N	\N	\N
-472	tt0001257	The House of the Seven Gables	\N	\N	\N	\N	United States	\N	\N	\N	\N
-473	tt0001258	The White Slave Trade	02	08	1910	45	Denmark	\N	\N	\N	\N
-474	tt0001264	In Old California	\N	\N	\N	\N	\N	\N	\N	\N	\N
-475	tt0001265	In the Border States	13	06	1910	17	United States	\N	\N	\N	\N
-476	tt0001268	In the Season of Buds	\N	\N	\N	\N	USA	\N	\N	\N	\N
-477	tt0001274	John Dough and the Cherub	\N	\N	\N	\N	United States	\N	\N	\N	\N
-478	tt0001282	The Land of Oz	\N	\N	\N	\N	\N	\N	\N	\N	\N
-479	tt0001284	The Lesson	\N	\N	\N	\N	\N	\N	\N	\N	\N
-480	tt0001285	The Life of Moses	\N	\N	\N	50	United States	\N	\N	\N	\N
-481	tt0001287	The Little Orphan	\N	\N	\N	\N	\N	\N	\N	\N	\N
-482	tt0001290	The Long Trail	\N	\N	\N	\N	\N	\N	\N	\N	\N
-483	tt0001299	Macbeth	\N	\N	\N	\N	London, England	\N	\N	\N	\N
-484	tt0001303	The Man	\N	\N	\N	\N	\N	\N	\N	\N	\N
-485	tt0001304	Mannequins	\N	\N	\N	\N	\N	\N	\N	\N	\N
-486	tt0001314	Il mercante di Venezia	\N	\N	\N	102	FranceItaly	\N	\N	\N	\N
-487	tt0001316	Messaline	\N	\N	\N	\N	\N	\N	\N	\N	\N
-488	tt0001318	Michael Strogoff	\N	\N	\N	\N	France	\N	\N	\N	\N
-489	tt0001321	The Cowboy Millionaire	\N	\N	\N	\N	\N	\N	\N	\N	\N
-490	tt0001323	The Miser's Child	\N	\N	\N	\N	\N	\N	\N	\N	\N
-491	tt0001326	The Modern Prodigal	29	08	1910	\N	United States	\N	\N	\N	\N
-492	tt0001327	A Mohawk's Way	12	09	1910	17	United States	\N	\N	\N	\N
-493	tt0001334	Never Again	\N	\N	\N	\N	\N	\N	\N	\N	\N
-494	tt0001338	A Night in May	14	09	1938	88	Germany	\N	\N	\N	\N
-495	tt0001340	The Oath and the Man	\N	\N	\N	\N	\N	\N	\N	\N	\N
-496	tt0001349	Our Darling	\N	\N	\N	\N	\N	\N	\N	\N	\N
-497	tt0001353	Paganini	\N	\N	\N	\N	\N	\N	\N	\N	\N
-498	tt0001354	Pals of the Range	\N	11	1935	61	United States	\N	\N	\N	\N
-499	tt0001358	Peder Tordenskjold	\N	\N	\N	\N	\N	\N	\N	\N	\N
-500	tt0001360	The Phoenix	\N	\N	\N	\N	\N	\N	\N	\N	\N
-501	tt0001364	El pobre Valbuena	\N	\N	\N	\N	Spain	\N	\N	\N	\N
-502	tt0001367	Pride of the Range	\N	\N	1910	\N	United States	\N	\N	\N	\N
-503	tt0001371	Ramona	\N	\N	\N	\N	United States	\N	\N	\N	\N
-504	tt0001375	The Range Riders	\N	\N	\N	50	United States	\N	\N	\N	\N
-505	tt0001377	Re Lear	\N	\N	\N	\N	\N	\N	\N	\N	\N
-506	tt0001378	Re Lear	\N	\N	\N	\N	\N	\N	\N	\N	\N
-507	tt0001385	The Rocky Road	03	01	1910	11	United States	\N	\N	\N	\N
-508	tt0001387	A Romance of the Western Hills	11	04	1910	16	United States	\N	\N	\N	\N
-509	tt0001397	Sisters	\N	\N	\N	\N	\N	\N	\N	\N	\N
-510	tt0001399	The Smoker	\N	\N	\N	\N	\N	\N	\N	\N	\N
-511	tt0001407	Sunshine Sue	\N	\N	\N	\N	\N	\N	\N	\N	\N
-512	tt0001408	Take Me Out to the Ball Game	\N	\N	\N	\N	\N	\N	\N	\N	\N
-513	tt0001415	Thou Shalt Not	\N	\N	\N	\N	\N	\N	\N	\N	\N
-514	tt0001426	The Truth Will Out	\N	\N	\N	45	\N	\N	\N	\N	\N
-515	tt0001428	The Two Brothers	\N	\N	\N	\N	\N	\N	\N	\N	\N
-516	tt0001431	The Unchanging Sea	05	05	1910	14	United States	\N	\N	\N	\N
-517	tt0001432	Uncle Tom's Cabin	\N	\N	\N	\N	United States	\N	\N	\N	\N
-518	tt0001434	Under Western Skies	\N	\N	\N	\N	\N	\N	\N	\N	\N
-519	tt0001438	Up a Tree	\N	\N	\N	\N	\N	\N	\N	\N	\N
-520	tt0001440	Valdemar Sejr	\N	\N	\N	\N	\N	\N	\N	\N	\N
-521	tt0001441	The Vampire	\N	\N	\N	\N	\N	\N	\N	\N	\N
-522	tt0001446	The Way of the World	\N	\N	\N	\N	\N	\N	\N	\N	\N
-523	tt0001452	What the Daisy Said	11	07	1910	12	United States	\N	\N	\N	\N
-524	tt0001456	White Roses	\N	\N	\N	\N	\N	\N	\N	\N	\N
-525	tt0001457	Who Is She?	\N	\N	\N	\N	\N	\N	\N	\N	\N
-526	tt0001458	Wilful Peggy	25	08	1910	13	United States	\N	\N	\N	\N
-527	tt0001459	Winning Back His Love	\N	\N	\N	17	USA	\N	\N	\N	\N
-528	tt0001460	The Woman from Mellon's	\N	\N	\N	11	USA	\N	\N	\N	\N
-529	tt0001461	The Woman Hater	\N	\N	\N	\N	\N	\N	\N	\N	\N
-530	tt0001463	The Wonderful Wizard of Oz	\N	\N	\N	\N	United States	\N	\N	\N	\N
-531	tt0001467	Across the Plains	\N	\N	\N	\N	\N	\N	\N	\N	\N
-532	tt0001469	The Adventures of Billy	19	10	1911	18	United States	\N	\N	\N	\N
-533	tt0001472	After the Ball	\N	\N	\N	\N	\N	\N	\N	\N	\N
-534	tt0001474	Aida	\N	\N	\N	\N	\N	\N	\N	\N	\N
-535	tt0001481	Artful Kate	\N	\N	\N	\N	United States	\N	\N	\N	\N
-536	tt0001482	As in a Looking Glass	\N	\N	\N	\N	United States	\N	\N	\N	\N
-537	tt0001490	Back to the Primitive	\N	\N	\N	\N	\N	\N	\N	\N	\N
-538	tt0001496	The Baron	\N	\N	\N	\N	\N	\N	\N	\N	\N
-539	tt0001497	The Battle of Bunker Hill	\N	\N	\N	\N	\N	\N	\N	\N	\N
-540	tt0001498	The Battle of Trafalgar	\N	\N	\N	\N	\N	\N	\N	\N	\N
-541	tt0001499	The Battle	\N	\N	\N	\N	\N	\N	\N	\N	\N
-542	tt0001501	Behind the Stockade	\N	\N	\N	\N	USA	\N	\N	\N	\N
-543	tt0001502	The Best Man Wins	\N	\N	\N	\N	\N	\N	\N	\N	\N
-544	tt0001503	The Better Way	\N	\N	\N	\N	United States	\N	\N	\N	\N
-545	tt0001506	The Black Arrow	\N	\N	\N	\N	United Kingdom	\N	\N	\N	\N
-546	tt0001507	The Blackmailer	\N	\N	\N	\N	\N	\N	\N	\N	\N
-547	tt0001508	The Blind Princess and the Poet	17	08	1911	18	United States	\N	\N	\N	\N
-548	tt0001511	Bondefangeri i Vaterland	\N	\N	\N	\N	Norway	\N	\N	\N	\N
-549	tt0001514	Boys Will Be Boys	\N	\N	\N	\N	\N	\N	\N	\N	\N
-550	tt0001515	The Brand	\N	\N	\N	\N	\N	\N	\N	\N	\N
-551	tt0001517	The Broken Cross	\N	\N	\N	\N	\N	\N	\N	\N	\N
-552	tt0001527	The Cameraman's Revenge	\N	\N	\N	12	Russia	\N	\N	\N	\N
-553	tt0001529	Captain Kate	\N	\N	\N	\N	\N	\N	\N	\N	\N
-554	tt0001531	Captain Starlight, or Gentleman of the Road	\N	\N	\N	\N	Australia	\N	\N	\N	\N
-555	tt0001539	Cain and Abel	\N	\N	\N	\N	\N	\N	\N	\N	\N
-556	tt0001541	Checkmated	\N	\N	\N	\N	\N	\N	\N	\N	\N
-557	tt0001543	The Child Crusoes	13	09	1911	\N	United States	\N	\N	\N	\N
-558	tt0001544	A Christmas Carol	\N	\N	\N	\N	England	\N	\N	\N	\N
-559	tt0001545	Cinderella	\N	\N	\N	\N	"
-Ancient Greece, Egypt (oral)
-Italy (literary)
-"	\N	\N	\N	\N
-560	tt0001546	Cinderella	\N	\N	\N	\N	"
-Ancient Greece, Egypt (oral)
-Italy (literary)
-"	\N	\N	\N	\N
-561	tt0001550	The Coffin Ship	\N	\N	\N	15	United States	\N	\N	\N	\N
-562	tt0001551	Comrades	\N	\N	\N	\N	\N	\N	\N	\N	\N
-563	tt0001552	Conscience	\N	\N	\N	\N	\N	\N	\N	\N	\N
-564	tt0001557	A Country Cupid	24	07	1911	18	United States	\N	\N	\N	\N
-565	tt0001558	The Country Lovers	11	05	1911	\N	United States	\N	\N	\N	\N
-566	tt0001564	The Crooked Road	\N	\N	\N	\N	United Kingdom	\N	\N	\N	\N
-567	tt0001565	The Crusader	\N	\N	\N	\N	\N	\N	\N	\N	\N
-568	tt0001576	The Declaration of Independence	\N	\N	\N	\N	\N	\N	\N	\N	\N
-569	tt0001577	A Decree of Destiny	06	03	1911	17	United States	\N	\N	\N	\N
-570	tt0001585	The Doctor	\N	\N	\N	\N	\N	\N	\N	\N	\N
-571	tt0001586	A Dog's Tale	\N	\N	\N	\N	United States	\N	\N	\N	\N
-572	tt0001588	The Dream	\N	\N	\N	\N	\N	\N	\N	\N	\N
-573	tt0001593	Enoch Arden: Part I	12	06	1911	33	United States	\N	\N	\N	\N
-574	tt0001594	Enoch Arden: Part II	12	06	1911	33	United States	\N	\N	\N	\N
-575	tt0001598	The Failure	\N	\N	\N	\N	\N	\N	\N	\N	\N
-576	tt0001601	The Fall of Babylon	05	09	1916	210	United States	\N	385907.0	\N	175000000.0
-577	tt0001604	The Fatal Wedding	\N	\N	\N	\N	\N	\N	\N	\N	\N
-578	tt0001605	Fate	\N	\N	\N	\N	\N	\N	\N	\N	\N
-579	tt0001606	Fate's Funny Frolic	\N	\N	\N	\N	USA	\N	\N	\N	\N
-580	tt0001607	Fate's Turning	23	01	1911	\N	United States	\N	\N	\N	\N
-581	tt0001608	Fattigdommens forbandelse	\N	\N	\N	\N	Norway	\N	\N	\N	\N
-582	tt0001613	Fighting Blood	\N	\N	\N	\N	\N	\N	\N	\N	\N
-583	tt0001615	Fisher Folks	\N	\N	\N	\N	USA	\N	\N	\N	\N
-584	tt0001622	For the Crown	\N	\N	\N	\N	\N	\N	\N	\N	\N
-585	tt0001627	Foul Play	\N	\N	\N	\N	\N	\N	\N	\N	\N
-586	tt0001632	Friday the 13th	\N	\N	\N	\N	\N	\N	\N	\N	\N
-587	tt0001636	Galileo	\N	\N	\N	\N	\N	\N	\N	\N	\N
-588	tt0001638	The General's Daughter	\N	\N	\N	\N	\N	\N	\N	\N	\N
-589	tt0001641	The Geranium	\N	\N	\N	\N	United States	\N	\N	\N	\N
-590	tt0001642	Get Rich Quick	\N	\N	\N	\N	\N	\N	\N	\N	\N
-591	tt0001648	The Golden West	\N	\N	\N	\N	\N	\N	\N	\N	\N
-592	tt0001650	The Gordian Knot	\N	\N	\N	\N	\N	\N	\N	\N	\N
-593	tt0001654	Heart Beats of Long Ago	06	02	1911	17	United States	\N	\N	\N	\N
-594	tt0001656	The Heiress	06	10	1949	115	United States	\N	26000000.0	\N	23000000.0
-595	tt0001658	Henry VIII	\N	\N	\N	\N	\N	\N	\N	\N	\N
-596	tt0001659	Her Awakening	28	09	1911	18	United States	\N	\N	\N	\N
-597	tt0001660	Her Crowning Glory	11	09	1911	14	United States	\N	\N	\N	\N
-598	tt0001663	Her Sacrifice	\N	\N	\N	60	United States	\N	\N	\N	\N
-599	tt0001668	The Highlander	\N	\N	\N	\N	\N	\N	\N	\N	\N
-600	tt0001671	His Daughter	23	02	1911	17	United States	\N	\N	\N	\N
-601	tt0001673	His Friend's Wife	\N	\N	\N	\N	\N	\N	\N	\N	\N
-602	tt0001676	His Mother	12	01	1912	\N	United States	\N	\N	\N	\N
-603	tt0001679	His Sister's Children	26	09	1911	\N	United States	\N	\N	\N	\N
-604	tt0001680	His Trust: The Faithful Devotion and Self-Sacrifice of an Old Negro Servant	16	01	1911	14	United States	\N	\N	\N	\N
-605	tt0001681	His Trust Fulfilled	19	01	1911	17	United States	\N	\N	\N	\N
-606	tt0001682	Home	\N	\N	\N	\N	\N	\N	\N	\N	\N
-607	tt0001683	Home Sweet Home	\N	\N	\N	\N	\N	\N	\N	\N	\N
-608	tt0001684	The Honeymooners	\N	\N	\N	27	\N	\N	\N	\N	\N
-609	tt0001685	Honor Thy Father	\N	\N	\N	\N	United States	\N	\N	\N	\N
-610	tt0001689	How She Triumphed	27	04	1911	17	United States	\N	\N	\N	\N
-611	tt0001692	The Great Moment	\N	\N	\N	\N	\N	\N	\N	\N	\N
-612	tt0001693	The Immortal Alamo	25	05	1911	10	United States	\N	\N	\N	\N
-613	tt0001699	In the Reign of Terror	\N	\N	\N	\N	\N	\N	\N	\N	\N
-614	tt0001701	The Indian Brothers	17	07	1911	18	United States	\N	\N	\N	\N
-615	tt0001704	Indiscretions of Betty	\N	\N	\N	\N	\N	\N	\N	\N	\N
-616	tt0001709	The Italian Barber	09	01	1911	17	United States	\N	\N	\N	\N
-617	tt0001712	Jane Shore	\N	\N	\N	\N	\N	\N	\N	\N	\N
-618	tt0001713	The Jealous Husband	\N	\N	\N	\N	\N	\N	\N	\N	\N
-619	tt0001715	Julius Caesar	\N	\N	\N	\N	\N	\N	\N	\N	\N
-620	tt0001724	The Last Drop of Water	27	07	1911	18	United States	\N	\N	\N	\N
-621	tt0001725	The Last Farewell	\N	\N	\N	\N	\N	\N	\N	\N	\N
-622	tt0001727	Lost Years	\N	\N	\N	\N	\N	\N	\N	\N	\N
-623	tt0001728	The Last of the Mohicans	\N	\N	\N	\N	United States	\N	\N	\N	\N
-624	tt0001729	The Law of the Range	21	01	1928	\N	United States	\N	\N	\N	\N
-625	tt0001732	The Lighthouse Keeper	\N	\N	\N	\N	\N	\N	\N	\N	\N
-626	tt0001733	The Lily of the Tenements	27	02	1911	17	United States	\N	\N	\N	\N
-627	tt0001738	Little Red Riding Hood	\N	\N	\N	\N	\N	\N	\N	\N	\N
-628	tt0001740	The Lonedale Operator	23	03	1911	17	United States	\N	\N	\N	\N
-629	tt0001741	The Long Road	\N	\N	\N	\N	\N	\N	\N	\N	\N
-630	tt0001742	Lost Illusions	\N	\N	\N	\N	\N	\N	\N	\N	\N
-631	tt0001744	The Lost Ring	\N	\N	\N	\N	\N	\N	\N	\N	\N
-632	tt0001746	Lost in the Arctic	\N	\N	\N	12	United States	\N	\N	\N	\N
-633	tt0001753	Love in the Hills	30	10	1911	18	United States	\N	\N	\N	\N
-634	tt0001761	Macbeth	\N	\N	\N	\N	London, England	\N	\N	\N	\N
-635	tt0001765	The Madman	\N	\N	\N	\N	\N	\N	\N	\N	\N
-636	tt0001769	The Making of a Man	\N	\N	\N	16	United States	\N	\N	\N	\N
-637	tt0001772	A Manly Man	\N	\N	\N	\N	\N	\N	\N	\N	\N
-638	tt0001775	Maud Muller	\N	\N	\N	\N	\N	\N	\N	\N	\N
-639	tt0001776	Max Takes Tonics	\N	\N	\N	\N	\N	\N	\N	\N	\N
-640	tt0001779	The Message in the Bottle	\N	\N	\N	\N	United States	\N	\N	\N	\N
-641	tt0001785	The Miner's Curse	\N	\N	\N	\N	Australia	\N	\N	\N	\N
-642	tt0001786	The Minute Man	\N	\N	\N	\N	\N	\N	\N	\N	\N
-643	tt0001787	The Mirror	\N	\N	\N	\N	\N	\N	\N	\N	\N
-644	tt0001789	The Miser's Heart	20	11	1911	18	United States	\N	\N	\N	\N
-645	tt0001791	A Modern Cinderella	\N	\N	\N	\N	United States	\N	\N	\N	\N
-646	tt0001793	A Modern Hero	21	04	1934	71	United States	\N	\N	\N	\N
-647	tt0001797	Money to Burn	\N	\N	\N	\N	\N	\N	\N	\N	\N
-648	tt0001800	Music Hath Charms	\N	\N	\N	70	United Kingdom	\N	\N	\N	\N
-649	tt0001803	The Mystery of a Hansom Cab	\N	\N	\N	\N	Australia	\N	\N	\N	\N
-650	tt0001808	The New Dress	15	05	1911	17	United States	\N	\N	\N	\N
-651	tt0001811	The O'Neill	12	01	1912	\N	United States	\N	\N	\N	\N
-652	tt0001812	Oedipus Rex	\N	\N	\N	\N	\N	\N	\N	\N	\N
-653	tt0001814	Oliver Cromwell	\N	\N	\N	\N	\N	\N	\N	\N	\N
-654	tt0001815	On the Brink	\N	\N	\N	\N	\N	\N	\N	\N	\N
-655	tt0001817	Only in the Way	31	01	1911	\N	United States	\N	\N	\N	\N
-656	tt0001818	Out from the Shadow	03	08	1911	\N	United States	\N	\N	\N	\N
-657	tt0001822	The Outlaw Deputy	\N	\N	1935	59	United States	\N	\N	\N	\N
-658	tt0001823	Over the Garden Wall	\N	\N	\N	11	\N	\N	\N	\N	\N
-659	tt0001824	Over the Hills	\N	\N	\N	\N	\N	\N	\N	\N	\N
-660	tt0001827	Paradise Lost	\N	\N	\N	\N	England	\N	\N	\N	\N
-661	tt0001831	The Pied Piper of Hamelin	\N	\N	\N	\N	\N	\N	\N	\N	\N
-662	tt0001836	The Power of Good	\N	\N	\N	\N	Czech RepublicSlovakia	\N	\N	\N	\N
-663	tt0001837	The Power of Love	\N	\N	\N	\N	\N	\N	\N	\N	\N
-664	tt0001838	The Price of a Man	\N	\N	\N	95	Spain	\N	\N	\N	\N
-664	tt0001838	The Price of a Man	\N	\N	\N	95	Italy	\N	\N	\N	\N
-665	tt0001840	The Primal Call	22	06	1911	17	United States	\N	\N	\N	\N
-666	tt0001845	Pulgarcito	\N	\N	\N	\N	\N	\N	\N	\N	\N
-667	tt0001853	The Reform Candidate	16	12	1915	\N	United States	\N	\N	\N	\N
-668	tt0001854	The Reporter	\N	\N	\N	\N	\N	\N	\N	\N	\N
-669	tt0001857	Richard III	\N	\N	\N	\N	\N	\N	\N	\N	\N
-670	tt0001864	The Rosary	\N	\N	\N	\N	\N	\N	\N	\N	\N
-671	tt0001867	The Ruling Passion	\N	\N	\N	\N	\N	\N	\N	\N	\N
-672	tt0001869	Samson and Delilah	\N	\N	\N	\N	\N	\N	\N	\N	\N
-673	tt0001872	The Scarlet Letter	\N	\N	\N	\N	United States	\N	\N	\N	\N
-674	tt0001874	Science	\N	\N	\N	\N	\N	\N	\N	\N	\N
-675	tt0001875	Second Sight	\N	\N	\N	\N	\N	\N	\N	\N	\N
-676	tt0001877	She	\N	\N	\N	\N	\N	\N	\N	\N	\N
-677	tt0001888	The Sky Pilot	17	04	1921	77	United States	\N	\N	\N	\N
-678	tt0001890	The Smile of a Child	05	06	1911	\N	United States	\N	\N	\N	\N
-679	tt0001893	The Spanish Gypsy	\N	\N	\N	\N	\N	\N	\N	\N	\N
-680	tt0001898	A Stage Romance	05	03	1922	70	United States	\N	\N	\N	\N
-681	tt0001899	The Stampede	\N	\N	\N	\N	\N	\N	\N	\N	\N
-682	tt0001900	The Star Spangled Banner	\N	\N	\N	\N	\N	\N	\N	\N	\N
-683	tt0001904	The Stuff Heroes Are Made Of	04	09	1911	17	United States	\N	\N	\N	\N
-684	tt0001905	The Stuff That Dreams Are Made Of	\N	\N	\N	\N	\N	\N	\N	\N	\N
-685	tt0001910	Sweet Memories	27	03	1911	10	United States	\N	\N	\N	\N
-686	tt0001911	Nell Gwynne	\N	\N	\N	\N	\N	\N	\N	\N	\N
-687	tt0001913	Swords and Hearts	28	08	1911	16	United States	\N	\N	\N	\N
-688	tt0001915	A Tale of Two Cities	\N	\N	\N	\N	\N	\N	\N	\N	\N
-689	tt0001918	Telemachus	\N	\N	\N	\N	\N	\N	\N	\N	\N
-690	tt0001919	The Telltale Knife	\N	\N	\N	\N	\N	\N	\N	\N	\N
-691	tt0001923	Their First Misunderstanding	09	01	1911	10	United States	\N	\N	\N	\N
-692	tt0001927	Three Sisters	\N	\N	\N	\N	\N	\N	\N	\N	\N
-693	tt0001928	Through Darkened Vales	16	11	1911	17	United States	\N	\N	\N	\N
-694	tt0001932	The Tomboy	26	12	1924	60	United States	\N	\N	\N	\N
-695	tt0001933	La Tosca	\N	\N	\N	\N	\N	\N	\N	\N	\N
-696	tt0001948	The Two Orphans	\N	\N	\N	\N	\N	\N	\N	\N	\N
-697	tt0001949	The Two Paths	\N	\N	\N	\N	\N	\N	\N	\N	\N
-698	tt0001952	The Two-Gun Man	13	06	1926	\N	United States	\N	\N	\N	\N
-699	tt0001957	Under forvandlingens lov	\N	\N	\N	26	Norway	\N	\N	\N	\N
-700	tt0001960	The Unveiling	\N	\N	\N	\N	\N	\N	\N	\N	\N
-701	tt0001964	The Traitress	\N	\N	\N	48	Germany	\N	\N	\N	\N
-702	tt0001968	The Voice of the Child	28	12	1911	18	United States	\N	\N	\N	\N
-703	tt0001969	Was He a Coward?	16	03	1911	17	United States	\N	\N	\N	\N
-704	tt0001973	What Shall We Do with Our Old?	13	02	1911	15	United States	\N	\N	\N	\N
-705	tt0001975	The Wheels of Justice	14	02	1915	\N	United States	\N	\N	\N	\N
-706	tt0001978	When a Man Loves	03	02	1927	111	United States	\N	528000.0	\N	1037000.0
-707	tt0001980	When the Cat's Away	\N	\N	\N	\N	\N	\N	\N	\N	\N
-708	tt0001983	The White Rose of the Wilds	25	05	1911	17	United States	\N	\N	\N	\N
-709	tt0001984	Why He Gave Up	04	12	1911	12	United States	\N	\N	\N	\N
-710	tt0001987	A Woman Scorned	\N	\N	\N	\N	\N	\N	\N	\N	\N
-711	tt0001992	Zwei Frauen	\N	\N	1989	104	GermanyUnited States	\N	\N	\N	\N
-712	tt0001995	Adam and Eve	\N	\N	\N	\N	\N	\N	\N	\N	\N
-713	tt0002000	The Agitator	03	09	1945	104	United Kingdom	\N	\N	\N	\N
-714	tt0002003	Alias Billy Sargent	\N	\N	\N	\N	USA	\N	\N	\N	\N
-715	tt0002013	All for a Girl	\N	\N	\N	\N	\N	\N	\N	\N	\N
-716	tt0002014	Alt for Norge	\N	\N	\N	\N	\N	\N	\N	\N	\N
-717	tt0002016	Los amantes de Teruel	\N	\N	\N	\N	\N	\N	\N	\N	\N
-718	tt0002020	Queen Elizabeth	\N	\N	\N	\N	\N	\N	\N	\N	\N
+	Tconst du film	Titre du film	Jour de sortie	Mois de sortie	Année de sortie	Durée	Pays	Langage	Budget min	Budget max	Box office min	Box office max
+0	tt0000001	Carmencita	\N	\N	1894	\N	United States	Silent	\N	\N	\N	\N
+1	tt0000003	Pauvre_Pierrot	28	10	1892	15	France	Silent	\N	\N	\N	\N
+2	tt0000004	Un_bon_bock	28	10	1892	15	France	Silent	\N	\N	\N	\N
+3	tt0000005	Blacksmith_Scene	09	05	1893	\N	United States	Silent	\N	\N	\N	\N
+4	tt0000006	Chinese_Opium_Den	\N	\N	1894	\N	United States	Silent	\N	\N	\N	\N
+5	tt0000007	Corbett_and_Courtney_Before_the_Kinetograph	17	11	1894	\N	United States	Silent	\N	\N	\N	\N
+6	tt0000008	Edison_Kinetoscopic_Record_of_a_Sneeze	09	01	1894	\N	United States	Silent	\N	\N	\N	\N
+7	tt0000009	Miss_Jerry	09	10	1894	\N	United States	Silent	\N	\N	\N	\N
+8	tt0000010	Leaving_the_Factory	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+9	tt0000011	Akrobatisches_Potpourri	01	11	1895	\N	German Empire	Silent	\N	\N	\N	\N
+10	tt0000013	The_Photographical_Congress_Arrives_in_Lyon	\N	\N	\N	\N	France	Silent	\N	\N	\N	\N
+11	tt0000014	The_Waterer_Watered	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+12	tt0000015	Autour_d%27une_cabine	\N	\N	1894	10	France	Silent	\N	\N	\N	\N
+13	tt0000016	Boat_Leaving_the_Port	\N	\N	\N	\N	France	Silent	\N	\N	\N	\N
+14	tt0000017	Italienischer_Bauerntanz	02	11	1895	\N	German Empire	Silent	\N	\N	\N	\N
+15	tt0000019	The_Clown_Barber	\N	\N	1898	\N	United Kingdom	Silent	\N	\N	\N	\N
+16	tt0000022	Blacksmith_Scene	09	05	1893	\N	United States	Silent	\N	\N	\N	\N
+17	tt0000023	The_Sea	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+18	tt0000024	Opening_of_the_Kiel_Canal	\N	\N	1895	\N	United Kingdom	Silent	\N	\N	\N	\N
+19	tt0000025	The_Oxford_and_Cambridge_University_Boat_Race	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+20	tt0000027	Cordeliers%27_Square_in_Lyon	\N	\N	\N	\N	France	Silent	\N	\N	\N	\N
+21	tt0000028	Fishing_for_Goldfish	\N	\N	\N	\N	France	Silent	\N	\N	\N	\N
+22	tt0000029	Baby%27s_Meal	10	06	1895	\N	France	Silent	\N	\N	\N	\N
+23	tt0000030	Rough_Sea_at_Dover	14	01	1896	\N	United Kingdom	Silent	\N	\N	\N	\N
+24	tt0000033	Horse_Trick_Riders	\N	\N	1895	\N	France	Silent	\N	\N	\N	\N
+25	tt0000035	Watering_the_Flowers	\N	\N	\N	\N	France	Silent	\N	\N	\N	\N
+26	tt0000036	Awakening_of_Rip	\N	05	1903	\N	United States	Silent	\N	\N	\N	\N
+27	tt0000037	Sea_Bathing	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+28	tt0000038	The_Ball_Game	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+29	tt0000039	Barnet_Horse_Fair	\N	\N	1896	\N	United Kingdom	Silent	\N	\N	\N	\N
+30	tt0000040	Barque_sortant_du_port_de_Trouville	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+31	tt0000041	Bataille_de_neige	\N	\N	1897	\N	France	Silent	\N	\N	\N	\N
+32	tt0000042	Bateau-mouche_sur_la_Seine	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+33	tt0000046	Bois_de_Boulogne	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+34	tt0000047	Boulevard_des_Italiens	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+35	tt0000048	The_Boxing_Kangaroo	\N	01	1896	\N	United Kingdom	Silent	\N	\N	\N	\N
+36	tt0000049	Boxing_Match;_or,_Glove_Contest	\N	\N	1896	\N	United Kingdom	Silent	\N	\N	\N	\N
+37	tt0000051	The_Bohemian_Encampment	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+38	tt0000055	Le_chiffonnier	\N	\N	1896	\N	France	Silent	\N	\N	\N	\N
+39	tt0000059	Coronation_of_a_Village_Maiden	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+40	tt0000060	Dancing_Darkies	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+41	tt0000061	Dancing_Girls	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+42	tt0000062	Danse_serpentine	\N	\N	1896	\N	France	Silent	\N	\N	\N	\N
+43	tt0000063	Dessinateur_express	\N	\N	1896	\N	France	Silent	\N	\N	\N	\N
+44	tt0000064	Dessinateur:_Chamberlain	\N	\N	1896	\N	France	Silent	\N	\N	\N	\N
+45	tt0000065	Dessinateur:_Reine_Victoria	\N	\N	1896	\N	France	Silent	\N	\N	\N	\N
+46	tt0000066	Dessinateur:_Von_Bismark	\N	\N	1896	\N	France	Silent	\N	\N	\N	\N
+47	tt0000067	Conjurer_Making_Ten_Hats_in_Sixty_Seconds	\N	\N	1896	\N	France	Silent	\N	\N	\N	\N
+48	tt0000068	Unloading_the_Boat	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+49	tt0000069	Post_No_Bills	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+50	tt0000072	Officers_of_French_Army_Leaving_Service	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+51	tt0000073	Effets_de_mer_sur_les_rochers	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+52	tt0000074	Enfants_jouant_sur_la_plage	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+53	tt0000075	The_Conjuring_of_a_Woman_at_the_House_of_Robert_Houdin	\N	\N	1896	\N	France	Silent	\N	\N	\N	\N
+54	tt0000078	Feira_de_Gado_na_Corujeira	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+55	tt0000088	Market_Day	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+56	tt0000089	Leaving_Jerusalem_by_Railway	\N	\N	\N	\N	France	\N	\N	\N	\N	\N
+57	tt0000091	The_House_of_the_Devil	25	04	2009	95	United States	English	\N	900000.0	\N	101215.0
+58	tt0000093	Melbourne	\N	\N	\N	\N	Iran	Persian	\N	\N	\N	\N
+59	tt0000096	Place_Saint-Augustin	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+60	tt0000099	Place_de_la_Bastille	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+61	tt0000100	Place_de_la_Concorde	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+62	tt0000108	Rip_Leaving_Sleepy_Hollow	\N	05	1903	\N	United States	Silent	\N	\N	\N	\N
+63	tt0000111	Rip%27s_Toast	\N	05	1903	\N	United States	Silent	\N	\N	\N	\N
+64	tt0000113	Rip%27s_Twenty_Years%27_Sleep	\N	05	1903	\N	United States	Silent	\N	\N	\N	\N
+65	tt0000123	Conjuring	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+66	tt0000126	Tom_Old_Boot	\N	\N	1896	\N	France	Silent	\N	\N	\N	\N
+67	tt0000131	A_Terrible_Night	\N	\N	1896	\N	France	Silent	\N	\N	\N	\N
+68	tt0000135	A_Watermelon_Feast	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+69	tt0000138	The_Bewitched_Inn	\N	\N	\N	\N	France	Silent	\N	\N	\N	\N
+70	tt0000147	The_Corbett-Fitzsimmons_Fight	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+71	tt0000149	Behind_the_Scenes	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+72	tt0000151	Faust_et_Marguerite	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+73	tt0000153	The_Haunted_Castle	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+74	tt0000154	Henley_Regatta	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+75	tt0000157	Idylle	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+76	tt0000160	The_Last_Days_of_Pompeii	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+77	tt0000162	Niagara_Falls	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+78	tt0000167	Salida_de_misa_de_doce_del_Pilar_de_Zaragoza	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+79	tt0000170	The_Twins%27_Tea_Party	\N	08	1896	\N	United Kingdom	Silent	\N	\N	\N	\N
+80	tt0000172	The_X-Ray_Fiend	\N	10	1897	\N	United Kingdom	Silent	\N	\N	\N	\N
+81	tt0000175	A_Sea_Cave_Near_Lisbon	22	10	1896	\N	United Kingdom	Silent	\N	\N	\N	\N
+82	tt0000176	Brittania	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+83	tt0000178	The_Cavalier%27s_Dream	\N	\N	\N	\N	United States	English	\N	\N	\N	\N
+84	tt0000179	The_Cave_of_the_Demons	\N	\N	\N	\N	France	Silent	\N	\N	\N	\N
+85	tt0000181	Cinderella	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+86	tt0000182	Come_Along,_Do!	\N	\N	1898	\N	United Kingdom	Silent	\N	\N	\N	\N
+87	tt0000183	The_Corsican_Brothers	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+88	tt0000188	The_Deserter	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+89	tt0000189	Dorotea	\N	\N	\N	\N	Sweden	\N	\N	\N	\N	\N
+90	tt0000207	London_Express	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+91	tt0000209	Photographing_a_Ghost	\N	\N	1898	\N	United Kingdom	Silent film	\N	\N	\N	\N
+92	tt0000218	L%27affaire_Dreyfus	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+93	tt0000219	Aladdin_and_the_Wonderful_Lamp	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+94	tt0000224	Battlefield	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+95	tt0000225	Beauty_and_the_Beast	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+96	tt0000226	Boat_Race	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+97	tt0000229	Casey_at_the_Bat	08	03	1927	60	United States	Silent (English intertitles)	\N	\N	\N	\N
+98	tt0000230	Cinderella	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+99	tt0000232	Le_chiffonnier	\N	\N	1896	\N	France	Silent	\N	\N	\N	\N
+100	tt0000242	The_Sign_of_the_Cross	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+101	tt0000244	Erreur_judiciaire	07	04	1948	80	France	French	\N	\N	\N	\N
+102	tt0000245	The_Haunted_House	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+103	tt0000247	King_John	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+104	tt0000248	A_Kiss_in_the_Tunnel	\N	03	1899	\N	United Kingdom	Silent	\N	\N	\N	\N
+105	tt0000249	The_Legacy	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+106	tt0000253	The_Miser%27s_Doom	\N	\N	1899	\N	United Kingdom	\N	\N	\N	\N	\N
+107	tt0000260	Transformations	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+108	tt0000264	Summoning_the_Spirits	\N	\N	1899	\N	France	Silent	\N	\N	\N	\N
+109	tt0000265	Above_the_Limit	\N	11	1900	\N	United States	\N	\N	\N	\N	\N
+110	tt0000269	Army_Life;_or,_How_Soldiers_Are_Made:_Mounted_Infantry	18	09	1900	\N	United Kingdom	Silent	\N	\N	\N	\N
+111	tt0000272	As_Seen_Through_a_Telescope	\N	09	1900	\N	United Kingdom	Silent	\N	\N	\N	\N
+112	tt0000273	Attack_on_a_China_Mission	17	11	1900	\N	United Kingdom	Silent	\N	\N	\N	\N
+113	tt0000275	Badinage	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+114	tt0000277	Bataille_de_boules_de_neige	\N	\N	1897	\N	France	Silent	\N	\N	\N	\N
+115	tt0000281	Buffalo_Bill%27s_Wild_West_Show	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+116	tt0000296	Danse_serpentine	\N	\N	1896	\N	France	Silent	\N	\N	\N	\N
+117	tt0000300	The_Enchanted_Drawing	16	11	1900	\N	United States	\N	\N	\N	\N	\N
+118	tt0000301	Faust_and_Marguerite	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+119	tt0000304	Grandma%27s_Reading_Glass	\N	11	1900	\N	United Kingdom	Silent	\N	\N	\N	\N
+120	tt0000307	Happy_Hooligan	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+121	tt0000308	The_House_That_Jack_Built	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+122	tt0000309	How_It_Feels_to_Be_Run_Over	\N	\N	\N	\N	United Kingdom	Silent Film	\N	\N	\N	\N
+123	tt0000313	Let_Me_Dream_Again	\N	08	1900	\N	United Kingdom	Silent	\N	\N	\N	\N
+124	tt0000319	Maple_Leaf_Viewing	\N	\N	\N	\N	Japan	\N	\N	\N	\N	\N
+125	tt0000335	Soldiers_of_the_Cross	13	09	1900	120	Australia	Silent	\N	600.0	\N	\N
+126	tt0000336	La_source	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+127	tt0000346	Another_Job_for_the_Undertaker	15	05	1901	2	United States	\N	\N	\N	\N	\N
+128	tt0000352	Day_at_the_Circus	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+129	tt0000353	Execution_of_Czolgosz_with_Panorama_of_Auburn_Prison	04	11	1901	24	United States	\N	\N	\N	\N	\N
+130	tt0000355	Fire!	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+131	tt0000357	The_Haunted_Curiosity_Shop	\N	\N	1901	\N	United Kingdom	Silent	\N	\N	\N	\N
+132	tt0000358	History_of_a_Crime	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+133	tt0000368	Little_Red_Riding_Hood	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+134	tt0000370	Scrooge;_or_Marley%27s_Ghost	\N	11	1901	\N	United Kingdom	\N	\N	\N	\N	\N
+135	tt0000377	Undressing_Extraordinary	\N	\N	1901	3	United Kingdom	Silent	\N	\N	\N	\N
+136	tt0000380	Sleeping_Beauty	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+137	tt0000381	Buffalo_Bill%27s_Wild_West_Show	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+138	tt0000399	Jack_and_the_Beanstalk	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+139	tt0000406	The_Prince_of_Darkness	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+140	tt0000410	Demolishing_and_Building_Up_the_Star_Theatre	\N	\N	1901	\N	United States	Silent film	\N	\N	\N	\N
+141	tt0000413	The_Devil%27s_Money_Bags	\N	\N	\N	\N	France	Silent	\N	\N	\N	\N
+142	tt0000414	Uncle_Josh_at_the_Moving_Picture_Show	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+143	tt0000417	A_Trip_to_the_Moon	01	09	1902	18	France	Silent	\N	10000.0	\N	\N
+144	tt0000418	The_Wild_Man_of_Borneo	24	01	1941	79	United States	English	\N	\N	\N	\N
+145	tt0000420	Alice_in_Wonderland	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+146	tt0000430	A_Chess_Dispute	\N	08	1903	\N	United Kingdom	Silent	\N	\N	\N	\N
+147	tt0000436	An_Extraordinary_Cab_Accident	\N	11	1903	\N	United Kingdom	Silent	\N	\N	\N	\N
+148	tt0000439	The_Great_Train_Robbery	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+149	tt0000442	Capital_Execution	\N	\N	1903	3	Denmark	Silent film	\N	\N	\N	\N
+150	tt0000443	Hiawatha	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+151	tt0000446	Kit_Carson	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+152	tt0000447	Life_of_an_American_Fireman	\N	01	1903	\N	United States	Silent film	\N	\N	\N	\N
+153	tt0000451	Mary_Jane%27s_Mishap	\N	02	1903	\N	United Kingdom	Silent	\N	\N	\N	\N
+154	tt0000460	The_Pioneers	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+155	tt0000464	Rip_Van_Winkle	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+156	tt0000465	The_Kingdom_of_the_Fairies	\N	09	1903	17	France	Silent	\N	\N	\N	\N
+157	tt0000469	The_Sick_Kitten	\N	02	1903	\N	United Kingdom	Silent	\N	\N	\N	\N
+158	tt0000471	Uncle_Tom%27s_Cabin	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+159	tt0000472	Uncle_Tom%27s_Cabin	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+160	tt0000478	Behind_the_Scenes	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+161	tt0000486	A_Gentleman_of_France	\N	\N	\N	\N	United Kingdom	\N	\N	\N	\N	\N
+162	tt0000487	The_Great_Train_Robbery	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+163	tt0000488	The_Land_Beyond_the_Sunset	28	10	1912	15	United States	\N	\N	\N	\N	\N
+164	tt0000492	Personal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+165	tt0000497	A_Railway_Tragedy	\N	\N	1904	\N	United Kingdom	\N	\N	\N	\N	\N
+166	tt0000498	Rescued_by_Rover	\N	\N	1905	\N	United Kingdom	Silent	\N	7.0	\N	\N
+167	tt0000499	An_Impossible_Voyage	\N	\N	\N	20	France	Silent	\N	37500.0	\N	\N
+168	tt0000500	The_Abductors	\N	07	1957	80	United States	English	\N	\N	\N	\N
+169	tt0000501	Adventures_of_Sherlock_Holmes	\N	\N	\N	\N	United Kingdom	English	\N	\N	\N	\N
+170	tt0000511	Esmeralda	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+171	tt0000513	Gigantes_y_cabezudos	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+172	tt0000516	The_Electric_Hotel	31	10	1908	8	France	Silent	\N	\N	\N	\N
+173	tt0000519	The_Kleptomaniac	\N	\N	1905	\N	United States	English intertitles	\N	\N	\N	\N
+174	tt0000521	The_Little_Train_Robbery	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+175	tt0000522	The_Moonshiners	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+176	tt0000524	New_York_Subway	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+177	tt0000528	Raffles,_the_Amateur_Cracksman	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+178	tt0000546	Dream_of_a_Rarebit_Fiend	19	02	1906	6	United States	Silent	\N	\N	\N	\N
+179	tt0000552	The_Hand_of_the_Artist	\N	04	1906	\N	United Kingdom	Silent	\N	\N	\N	\N
+180	tt0000553	The_Haunted_Hotel	\N	\N	\N	5	United States of America	Silent	\N	\N	\N	\N
+181	tt0000554	Humorous_Phases_of_Funny_Faces	06	04	1906	3	United States	silent	\N	\N	\N	\N
+182	tt0000557	Kathleen_Mavourneen	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+183	tt0000565	The_Night_Before_Christmas	\N	\N	\N	\N	United States	English	\N	\N	\N	\N
+184	tt0000567	The_400_Tricks_of_the_Devil	\N	\N	1906	17	France	Silent	\N	\N	\N	\N
+185	tt0000574	The_Story_of_the_Kelly_Gang	26	12	1906	60	Australia	\N	\N	4001000.0	\N	25000.0
+186	tt0000575	20,000_Leagues_Under_the_Sea	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+187	tt0000576	Ali_Baba_and_the_Forty_Thieves	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+188	tt0000577	Angelo,_Tyrant_of_Padua	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+189	tt0000582	Ben_Hur	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+190	tt0000584	El_ciego_de_la_aldea	\N	\N	1907	11	Spain	Spanish	\N	\N	\N	\N
+191	tt0000586	A_Curious_Dream	16	03	1907	6	United States	Silent	\N	\N	\N	\N
+192	tt0000588	Der_var_engang	01	10	1966	103	Denmark	Danish	\N	\N	\N	\N
+193	tt0000591	The_Prodigal_Son	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+194	tt0000592	Eureka_Stockade	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+195	tt0000597	The_Magic_Mirror	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+196	tt0000598	Hamlet,_Prince_of_Denmark	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+197	tt0000601	Lohengrin	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+198	tt0000609	Othello	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+199	tt0000610	Othello	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+200	tt0000615	Robbery_Under_Arms	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+201	tt0000618	Salaviinanpolttajat	\N	\N	\N	20	Finland (Russian Empire)	Silent film	\N	\N	\N	\N
+202	tt0000620	The_Will	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+203	tt0000621	That_Fatal_Sneeze	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+204	tt0000624	The_Ugly_Duckling	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+205	tt0000628	The_Adventures_of_Dollie	14	07	1908	\N	United States	Silent (English intertitles)	\N	\N	\N	\N
+206	tt0000629	After_Many_Years	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+207	tt0000630	Hamlet	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+208	tt0000631	Hamlet	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+209	tt0000634	Antony_and_Cleopatra	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+210	tt0000636	As_You_Like_It	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+211	tt0000640	An_Awful_Moment	18	12	1908	12	United States	Silent	\N	\N	\N	\N
+212	tt0000641	Balked_at_the_Altar	25	08	1908	12	United States	Silent with English intertitles	\N	\N	\N	\N
+213	tt0000642	The_Bandit%27s_Waterloo	04	08	1908	7	United States	\N	\N	\N	\N	\N
+214	tt0000644	Behind_the_Scenes	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+215	tt0000645	Betrayed_by_a_Handprint	01	09	1908	13	United States	Silent	\N	\N	\N	\N
+216	tt0000648	The_Black_Viper	25	07	1908	11	United States	\N	\N	\N	\N	\N
+217	tt0000649	Bobby%27s_Kodak	10	02	1908	\N	United States	\N	\N	\N	\N	\N
+218	tt0000650	The_Boston_Tea_Party	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+219	tt0000653	A_Calamitous_Elopement	07	08	1908	12	United States	Silent	\N	\N	\N	\N
+220	tt0000654	The_Call_of_the_Wild	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+221	tt0000660	The_Christmas_Burglars	22	12	1908	11	United States	Silent	\N	\N	\N	\N
+222	tt0000661	Humanity_Through_the_Ages	\N	\N	\N	\N	France	Silent	\N	\N	\N	\N
+223	tt0000662	Classmates	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+224	tt0000663	The_Clubman_and_the_Tramp	27	11	1908	17	United States	Silent	\N	\N	\N	\N
+225	tt0000665	Concealing_a_Burglar	30	10	1908	11	United States	Silent	\N	\N	\N	\N
+226	tt0000668	The_Count_of_Monte_Cristo	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+227	tt0000670	El_curioso_impertinente	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+228	tt0000671	Desdemona	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+229	tt0000672	The_Devil	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+230	tt0000673	La_Dolores	\N	\N	\N	\N	\N	Spanish	\N	\N	\N	\N
+231	tt0000674	Don_Juan_Tenorio	\N	\N	\N	\N	Mexico	Silent	\N	\N	\N	\N
+232	tt0000675	Don_Quijote	\N	\N	\N	\N	Habsburg Spain	Early Modern Spanish	\N	\N	\N	\N
+233	tt0000679	The_Fairylogue_and_Radio-Plays	24	09	1908	120	United States	English	\N	\N	\N	\N
+234	tt0000683	The_Fatal_Hour	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+235	tt0000684	Father_Gets_in_the_Game	10	10	1908	10	United States	Silent	\N	\N	\N	\N
+236	tt0000685	The_Feud_and_the_Turkey	08	12	1908	15	United States	Silent	\N	\N	\N	\N
+237	tt0000689	For_Love_of_Gold	21	08	1908	9	United States	Silent	\N	\N	\N	\N
+238	tt0000690	For_a_Wife%27s_Honor	28	08	1908	8	United States	Silent	\N	\N	\N	\N
+239	tt0000691	The_French_Maid	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+240	tt0000692	El_fusilamiento_de_Dorrego	24	05	1908	12	Argentina	Spanish	\N	\N	\N	\N
+241	tt0000694	The_Girl_and_the_Outlaw	08	09	1908	14	United States	\N	\N	\N	\N	\N
+242	tt0000695	The_Greaser%27s_Gauntlet	11	08	1908	17	United States	Silent	\N	\N	\N	\N
+243	tt0000697	The_Guerrilla	13	11	1908	14	United States	Silent	\N	\N	\N	\N
+244	tt0000699	The_Helping_Hand	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+245	tt0000704	The_Humpty_Dumpty_Circus	\N	\N	1908	\N	United States	Silent	\N	\N	\N	\N
+246	tt0000706	Ingomar,_the_Barbarian	13	10	1908	13	United States	Silent	\N	\N	\N	\N
+247	tt0000707	The_Ingrate	20	11	1908	15	United States	Silent	\N	\N	\N	\N
+248	tt0000708	The_Invisible_Fluid	16	06	1908	5	United States	Silent	\N	\N	\N	\N
+249	tt0000709	Julius_Caesar	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+250	tt0000711	The_Kentuckian	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+251	tt0000717	Macbeth	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+252	tt0000720	The_Man_and_the_Woman	14	08	1908	13	United States	Silent	\N	\N	\N	\N
+253	tt0000721	The_Man_in_the_Box	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+254	tt0000724	The_Merchant_of_Venice	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+255	tt0000727	Monday_Morning_in_a_Coney_Island_Police_Court	04	09	1908	7	United States	Silent	\N	\N	\N	\N
+256	tt0000728	Money_Mad	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+257	tt0000730	Mr._Jones_at_the_Ball	25	12	1908	8	United States	Silent	\N	\N	\N	\N
+258	tt0000731	Mrs._Jones_Entertains	09	01	1909	11	United States	Silent	\N	\N	\N	\N
+259	tt0000732	The_Music_Master	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+260	tt0000734	Othello	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+261	tt0000736	The_Outlaw	05	02	1943	121	United States	English	\N	3400000.0	\N	20000000.0
+262	tt0000737	Over_the_Hill_to_the_Poorhouse	17	09	1920	\N	United States	Silent (English intertitles)	\N	50000.0	\N	25000000.0
+263	tt0000740	The_Pirate%27s_Gold	06	11	1908	16	United States	Silent	\N	\N	\N	\N
+264	tt0000741	The_Planter%27s_Wife	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+265	tt0000746	The_Reckoning	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+266	tt0000748	The_Red_Man_and_the_Child	28	07	1908	14	United States	\N	\N	\N	\N	\N
+267	tt0000749	Rescued_from_an_Eagle%27s_Nest	16	01	1908	7	United States	Silent with English intertitles	\N	\N	\N	\N
+268	tt0000750	Richard_III	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+269	tt0000751	The_Roman	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+270	tt0000752	Romance_of_a_Jewess	23	10	1908	15	United States	Silent with English intertitles	\N	\N	\N	\N
+271	tt0000754	Romeo_and_Juliet	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+272	tt0000755	The_Dream_of_an_Opium_Fiend	\N	\N	\N	\N	France	Silent	\N	\N	\N	\N
+273	tt0000757	She	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+274	tt0000758	Sherlock_Holmes	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+275	tt0000762	A_Smoked_Husband	25	09	1908	8	United States	Silent	\N	\N	\N	\N
+276	tt0000763	The_Snowman	\N	\N	\N	26	\N	\N	\N	\N	\N	\N
+277	tt0000764	The_Song_of_the_Shirt	17	11	1908	10	United States	Silent	\N	\N	\N	\N
+278	tt0000767	The_Stolen_Jewels	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+279	tt0000770	The_Taming_of_the_Shrew	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+280	tt0000771	The_Tavern_Keeper%27s_Daughter	24	07	1908	7	United States	\N	\N	\N	\N	\N
+281	tt0000772	The_Test_of_Friendship	15	12	1908	13	United States	Silent	\N	\N	\N	\N
+282	tt0000776	The_Last_Days_of_Pompeii	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+283	tt0000778	The_Valet%27s_Wife	05	12	1908	8	United States	Silent	\N	\N	\N	\N
+284	tt0000779	The_Vaquero%27s_Vow	16	10	1908	13	United States	Silent	\N	\N	\N	\N
+285	tt0000783	When_Knighthood_Was_in_Flower	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+286	tt0000784	When_Knights_Were_Bold	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+287	tt0000785	Where_the_Breakers_Roar	22	09	1908	9	United States	Silent	\N	\N	\N	\N
+288	tt0000786	Wiegenlied	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+289	tt0000787	A_Woman%27s_Way	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+290	tt0000788	The_Yellow_Peril	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+291	tt0000789	The_Zulu%27s_Heart	06	10	1908	12	United States	Silent	\N	\N	\N	\N
+292	tt0000792	And_a_Little_Child_Shall_Lead_Them	22	03	1909	4	United States	Silent	\N	\N	\N	\N
+293	tt0000793	Andreas_Hofer	15	10	1929	91	Germany	\N	\N	\N	\N	\N
+294	tt0000797	At_the_Altar	25	02	1909	11	United States	Silent with English intertitles	\N	\N	\N	\N
+295	tt0000800	The_Awakening	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+296	tt0000806	The_Best_Man_Wins	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+297	tt0000807	The_Better_Way	\N	\N	\N	\N	United States	\N	\N	\N	\N	\N
+298	tt0000809	Bill_Sharkey%27s_Last_Game	\N	\N	1909	\N	United States	\N	\N	\N	\N	\N
+299	tt0000810	The_Black_Sheep	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+300	tt0000811	The_Blind_Man	07	03	2012	94	France	French	\N	\N	\N	\N
+301	tt0000813	Bluebeard	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+302	tt0000815	The_Brahma_Diamond	04	02	1909	11	United States	Silent	\N	\N	\N	\N
+303	tt0000819	A_Burglar%27s_Mistake	25	03	1909	15	United States	Silent	\N	\N	\N	\N
+304	tt0000823	A_Change_of_Heart	10	03	2017	\N	United States	English	\N	\N	\N	\N
+305	tt0000825	The_Children%27s_Friend	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+306	tt0000826	Choosing_a_Husband	30	12	1909	6	United States	Silent with English intertitles	\N	\N	\N	\N
+307	tt0000827	Comata,_the_Sioux	\N	\N	\N	10	United States	\N	\N	\N	\N	\N
+308	tt0000828	Confidence	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+309	tt0000831	The_Cord_of_Life	28	01	1909	14	United States	Silent	\N	\N	\N	\N
+310	tt0000832	A_Corner_in_Wheat	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+311	tt0000833	The_Country_Doctor	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+312	tt0000835	The_Cricket_on_the_Hearth	\N	\N	\N	\N	England	English	\N	\N	\N	\N
+313	tt0000837	The_Criminal_Hypnotist	18	01	1909	10	United States	Silent	\N	\N	\N	\N
+314	tt0000840	The_Curtain_Pole	15	02	1909	12	United States	Silent with English intertitles	\N	\N	\N	\N
+315	tt0000841	The_Day_After	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+316	tt0000843	The_Death_Disc:_A_Story_of_the_Cromwellian_Period	02	12	1909	\N	United States	\N	\N	\N	\N	\N
+317	tt0000844	The_Death_of_Ivan_the_Terrible	\N	\N	\N	\N	Russian Empire	\N	\N	\N	\N	\N
+318	tt0000845	The_Deception	22	03	1909	7	United States	Silent	\N	\N	\N	\N
+319	tt0000852	A_Drunkard%27s_Reformation	01	04	1909	15	United States	Silent with English intertitles	\N	\N	\N	\N
+320	tt0000853	The_Eavesdropper	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+321	tt0000854	Edgar_Allan_Poe	08	02	1909	7	United States	\N	\N	\N	\N	\N
+322	tt0000864	The_Fascinating_Mrs._Francis	21	01	1909	5	United States	Silent	\N	\N	\N	\N
+323	tt0000870	A_Fool%27s_Revenge	04	03	1909	11	United States	Silent	\N	\N	\N	\N
+324	tt0000871	Fools_of_Fate	07	10	1909	11	United States	Silent with English intertitles	\N	\N	\N	\N
+325	tt0000872	The_Foundling	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+326	tt0000875	The_Friend_of_the_Family	\N	\N	\N	\N	Russia	Russian	\N	\N	\N	\N
+327	tt0000876	Fuss_and_Feathers	08	12	1918	50	United States	Silent (English intertitles)	\N	\N	\N	\N
+328	tt0000877	Getting_Even	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+329	tt0000878	The_Gibson_Goddess	01	11	1909	6	United States	Silent	\N	\N	\N	\N
+330	tt0000880	The_Girls_and_Daddy	01	02	1909	15	United States	Silent	\N	\N	\N	\N
+331	tt0000882	The_Golden_Louis	22	02	1909	7	United States	\N	\N	\N	\N	\N
+332	tt0000883	The_Grey_Lady	26	02	1937	92	Germany	German	\N	\N	\N	\N
+333	tt0000886	Hamlet,_Prince_of_Denmark	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+334	tt0000887	Hansel_and_Gretel	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+335	tt0000892	Her_First_Biscuits	17	06	1909	7	United States	Silent	\N	\N	\N	\N
+336	tt0000895	The_Hessian_Renegades	06	09	1909	10	United States	\N	\N	\N	\N	\N
+337	tt0000896	The_Hindoo_Dagger	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+338	tt0000898	His_Lost_Love	18	10	1909	11	United States	Silent	\N	\N	\N	\N
+339	tt0000900	His_Ward%27s_Love	15	02	1909	3	United States	Silent	\N	\N	\N	\N
+340	tt0000901	His_Wife%27s_Mother	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+341	tt0000903	The_Honor_of_Thieves	11	01	1909	11	United States	Silent	\N	\N	\N	\N
+342	tt0000905	I_Did_It	15	03	1909	4	United States	Silent	\N	\N	\N	\N
+343	tt0000907	In_Little_Italy	23	12	1909	10	United States	Silent with English intertitles	\N	\N	\N	\N
+344	tt0000908	In_Old_Kentucky	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+345	tt0000919	The_Jilt	13	11	1922	50	United States	Silent (English intertitles)	\N	\N	\N	\N
+346	tt0000920	Jones_and_His_New_Neighbors	29	03	1909	7	United States	\N	\N	\N	\N	\N
+347	tt0000921	Jones_and_the_Lady_Book_Agent	10	05	1909	9	United States	\N	\N	\N	\N	\N
+348	tt0000922	The_Joneses_Have_Amateur_Theatricals	\N	\N	\N	4	USA	Silent.. English	\N	\N	\N	\N
+349	tt0000925	Judgment	\N	\N	\N	90	\N	\N	\N	\N	\N	\N
+350	tt0000928	King_Lear	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+351	tt0000933	Lady_Helen%27s_Escapade	19	04	1909	8	United States	English	\N	\N	\N	\N
+352	tt0000934	Leather_Stocking	27	09	1909	\N	United States	Silent	\N	\N	\N	\N
+353	tt0000938	The_Little_Darling	\N	\N	\N	3	USA	Silent	\N	\N	\N	\N
+354	tt0000939	The_Little_Teacher	21	06	1915	21	United States	\N	\N	\N	\N	\N
+355	tt0000940	Lochinvar	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+356	tt0000941	Locura_de_amor	\N	\N	\N	112	Spain	Spanish	\N	\N	\N	\N
+357	tt0000942	The_Lonely_Villa	10	06	1909	12	United States	Silent (English intertitles)	\N	\N	\N	\N
+358	tt0000943	Love_Finds_a_Way	11	01	1909	5	United States	Silent	\N	\N	\N	\N
+359	tt0000945	Lucky_Jim	17	09	1957	95	United Kingdom	English	\N	172289.0	\N	\N
+360	tt0000946	The_Lure_of_the_Gown	15	03	1909	6	United States	Silent	\N	\N	\N	\N
+361	tt0000950	Macbeth	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+362	tt0000954	Mamma	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+363	tt0000956	The_Maniac_Cook	04	01	1909	8	United States	Silent with English intertitles	\N	\N	\N	\N
+364	tt0000958	The_Medicine_Bottle	29	03	1909	7	United States	\N	\N	\N	\N	\N
+365	tt0000960	The_Mended_Lute	05	08	1909	11	United States	\N	\N	\N	\N	\N
+366	tt0000961	The_Message	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+367	tt0000966	A_Midsummer_Night%27s_Dream	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+368	tt0000968	Mistaken_Identity	21	09	1996	95	Canada	French	\N	\N	\N	\N
+369	tt0000971	The_Mill	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+370	tt0000974	Mr._Jones_Has_a_Card_Party	21	01	1909	10	United States	Silent	\N	\N	\N	\N
+371	tt0000977	Mutterliebe	19	12	1939	106	Germany	German	\N	\N	\N	\N
+372	tt0000981	The_Necklace	\N	\N	\N	\N	France	\N	\N	\N	\N	\N
+373	tt0000983	A_New_Trick	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+374	tt0000986	Nursing_a_Viper	04	11	1909	\N	United States	Silent (English intertitles)	\N	\N	\N	\N
+375	tt0000990	Oliver_Twist	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+376	tt0000994	One_Good_Turn_Deserves_Another	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+377	tt0000995	One_Touch_of_Nature	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+378	tt0000997	The_Open_Gate	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+379	tt0000998	Othello	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+380	tt0001002	The_Politician%27s_Love_Story	22	02	1909	6	United States	Silent/English	\N	\N	\N	\N
+381	tt0001005	Pranks	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+382	tt0001008	The_Prince_and_the_Pauper	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+383	tt0001009	Princess_Nicotine;_or,_the_Smoke_Fairy	10	08	1909	\N	United States	\N	\N	\N	\N	\N
+384	tt0001011	The_Prussian_Spy	01	03	1909	5	United States	Silent	\N	\N	\N	\N
+385	tt0001014	The_Renunciation	\N	\N	\N	15	United States	Silent	\N	\N	\N	\N
+386	tt0001015	The_Restoration	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+387	tt0001016	Resurrection	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+388	tt0001020	The_Road_to_the_Heart	05	04	1909	10	United States	\N	\N	\N	\N	\N
+389	tt0001023	The_Roue%27s_Heart	08	03	1909	8	United States	Silent	\N	\N	\N	\N
+390	tt0001024	A_Rude_Hostess	08	04	1909	7	United States	Silent	\N	\N	\N	\N
+391	tt0001025	A_Rural_Elopement	14	01	1909	9	United States	Silent	\N	\N	\N	\N
+392	tt0001026	Ruy_Blas	\N	\N	\N	93	France  Italy	French	\N	\N	\N	453187.0
+393	tt0001027	The_Sacrifice	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+394	tt0001029	The_Salvation_Army_Lass	11	03	1909	15	United States	Silent	\N	\N	\N	\N
+395	tt0001030	Saul_and_David	\N	\N	\N	\N	\N	Danish	\N	\N	\N	\N
+396	tt0001031	Schneider%27s_Anti-Noise_Crusade	08	04	1909	9	United States	Silent	\N	\N	\N	\N
+397	tt0001032	The_Sealed_Room	02	09	1909	11	United States	\N	\N	\N	\N	\N
+398	tt0001033	The_Seventh_Day	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+399	tt0001034	Shanghaied	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+400	tt0001041	The_Slave	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+401	tt0001042	The_Sleepwalker	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+402	tt0001045	A_Midsummer_Night%27s_Dream	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+403	tt0001046	A_Sound_Sleeper	12	04	1909	3	United States	Silent	\N	\N	\N	\N
+404	tt0001052	The_Suicide_Club	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+405	tt0001054	Sweet_and_Twenty	\N	\N	\N	\N	United Kingdom	\N	\N	\N	\N	\N
+406	tt0001057	Ten_Nights_in_a_Barroom	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+407	tt0001060	The_Test	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+408	tt0001062	Those_Awful_Hats	25	01	1909	3	United States	\N	\N	\N	\N	\N
+409	tt0001063	Those_Boys!	18	01	1909	4	United States	Silent	\N	\N	\N	\N
+410	tt0001064	Through_the_Breakers	\N	\N	\N	55	United States	\N	\N	\N	\N	\N
+411	tt0001067	To_Save_Her_Soul	27	12	1909	11	United States	Silent with English intertitles	\N	\N	\N	\N
+412	tt0001071	Tragic_Love	11	02	1909	15	United States	Silent	\N	\N	\N	\N
+413	tt0001072	A_Trap_for_Santa_Claus	20	12	1909	16	United States	English	\N	\N	\N	\N
+414	tt0001076	Trying_to_Get_Arrested	05	04	1909	6	United States	\N	\N	\N	\N	\N
+415	tt0001077	Twin_Brothers	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+416	tt0001078	Two_Memories	24	05	1909	3	United States	Silent	\N	\N	\N	\N
+417	tt0001083	The_Violin_Maker_of_Cremona	\N	\N	\N	15	USA	Silent..English titles	\N	\N	\N	\N
+418	tt0001084	The_Voice_of_the_Violin	18	03	1909	16	United States, filmed in West 12th Street, Manhattan, New York, USA	Silent	\N	\N	\N	\N
+419	tt0001089	We_Must_Do_Our_Best	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+420	tt0001090	The_Welcome_Burglar	25	01	1909	13	United States	Silent	\N	\N	\N	\N
+421	tt0001093	When_Thieves_Fall_Out	\N	\N	\N	\N	USA	Silent	\N	\N	\N	\N
+422	tt0001098	The_Wooden_Leg	08	03	1909	3	United States	Silent	\N	\N	\N	\N
+423	tt0001099	A_Wreath_in_Time	08	02	1909	9	United States	Silent	\N	\N	\N	\N
+424	tt0001101	Abraham_Lincoln%27s_Clemency	\N	\N	1910	\N	United States	English	\N	\N	\N	\N
+425	tt0001102	Across_the_Plains	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+426	tt0001105	The_Woman_Always_Pays	12	09	1910	38	Denmark	Silent	\N	\N	\N	\N
+427	tt0001106	Alice%27s_Adventures_in_Wonderland	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+428	tt0001107	All_on_Account_of_the_Milk	15	01	1910	11	United States	Silent with English intertitles	\N	\N	\N	\N
+429	tt0001108	Almost	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+430	tt0001110	Amateur_Night	05	08	2016	92	United States	English	\N	\N	\N	\N
+431	tt0001111	Ambrosius	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+432	tt0001112	Amleto	\N	\N	\N	\N	\N	Italian	\N	\N	\N	\N
+433	tt0001113	Amor_gitano	\N	\N	\N	\N	\N	Spanish	\N	\N	\N	\N
+434	tt0001114	The_Angel_of_the_Studio	\N	\N	\N	\N	USA	Silent..English titles	\N	\N	\N	\N
+435	tt0001117	Cleopatra	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+436	tt0001118	An_Arcadian_Maid	01	08	1910	16	United States	Silent..English titles	\N	\N	\N	\N
+437	tt0001119	Arms_and_the_Woman	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+438	tt0001120	As_It_Is_in_Life	\N	\N	\N	16	USA	Silent..English titles	\N	\N	\N	\N
+439	tt0001122	The_Red_Inn	19	10	1951	95	France	French	\N	\N	\N	\N
+440	tt0001131	Behind_the_Scenes	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+441	tt0001133	The_Blue_Bird	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+442	tt0001134	Briton_and_Boer	\N	\N	\N	\N	USA	Silent	\N	\N	\N	\N
+443	tt0001138	The_Brothers	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+444	tt0001140	The_Bully	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+445	tt0001141	The_Butterfly	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+446	tt0001143	The_Call_to_Arms	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+447	tt0001144	The_Call	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+448	tt0001150	A_Child_of_the_Ghetto	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+449	tt0001160	Conscience	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+450	tt0001166	The_Courtship_of_Miles_Standish	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+451	tt0001175	Camille	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+452	tt0001177	Davy_Crockett	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+453	tt0001180	The_Desperado	20	06	1954	80	United States	English	\N	\N	\N	\N
+454	tt0001193	Elektra	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+455	tt0001200	The_Englishman_and_the_Girl	17	02	1910	11	United States	\N	\N	\N	\N	\N
+456	tt0001206	The_Face_at_the_Window	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+457	tt0001207	Faithful	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+458	tt0001208	The_Farmer%27s_Daughter	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+459	tt0001211	Faust	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+460	tt0001217	A_Flash_of_Light	18	07	1910	17	United States	\N	\N	\N	\N	\N
+461	tt0001223	Frankenstein	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+462	tt0001227	The_Fugitive	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+463	tt0001230	Gentleman_Joe	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+464	tt0001234	Gold_Is_Not_All	30	01	1913	\N	Canada	\N	\N	\N	\N	\N
+465	tt0001236	The_Gold_Seekers	07	09	2017	102	Paraguay	\N	\N	\N	\N	\N
+466	tt0001240	Hamlet	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+467	tt0001241	Hamlet	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+468	tt0001242	Hamlet	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+469	tt0001247	His_Brother%27s_Wife	07	08	1936	88	United States	English	\N	367000.0	\N	1662000.0
+470	tt0001249	His_Last_Dollar	29	10	1914	50	United States	English	\N	\N	\N	\N
+471	tt0001256	The_House_with_Closed_Shutters	08	08	1910	16	United States	Silent (English intertitles)	\N	\N	\N	\N
+472	tt0001257	The_House_of_the_Seven_Gables	29	02	1940	89	United States	English	\N	\N	\N	161625.0
+473	tt0001258	The_White_Slave_Trade	02	08	1910	45	Denmark	silent film	\N	\N	\N	\N
+474	tt0001264	In_Old_California	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+475	tt0001265	In_the_Border_States	13	06	1910	17	United States	Silent with English intertitles	\N	\N	\N	\N
+476	tt0001268	In_the_Season_of_Buds	\N	\N	\N	\N	USA	Silent..English	\N	\N	\N	\N
+477	tt0001274	John_Dough_and_the_Cherub	\N	\N	\N	\N	United States	English	\N	\N	\N	\N
+478	tt0001282	The_Land_of_Oz	03	12	2015	100	Russia	Russian	\N	5000000.0	\N	\N
+479	tt0001284	The_Lesson	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+480	tt0001285	The_Life_of_Moses	\N	\N	\N	50	United States	\N	\N	\N	\N	\N
+481	tt0001287	The_Little_Orphan	\N	\N	\N	\N	\N	none (text in English)	\N	\N	\N	\N
+482	tt0001290	The_Long_Trail	23	07	1917	85	United States	English	\N	\N	\N	\N
+483	tt0001297	Luck_of_Roaring_Camp	\N	\N	\N	58	United States	English	\N	\N	\N	\N
+484	tt0001299	Macbeth	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+485	tt0001303	The_Man	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+486	tt0001304	Mannequins	14	07	1933	80	France	French	\N	\N	\N	\N
+487	tt0001314	Il_mercante_di_Venezia	\N	\N	\N	102	FranceItaly	French	\N	\N	\N	\N
+488	tt0001316	Messaline	\N	\N	\N	\N	\N	French	\N	\N	\N	\N
+489	tt0001318	Michael_Strogoff	\N	\N	\N	\N	France	French	\N	\N	\N	\N
+490	tt0001321	The_Cowboy_Millionaire	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+491	tt0001323	The_Miser%27s_Child	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+492	tt0001326	The_Modern_Prodigal	29	08	1910	\N	United States	\N	\N	\N	\N	\N
+493	tt0001327	A_Mohawk%27s_Way	12	09	1910	17	United States	\N	\N	\N	\N	\N
+494	tt0001334	Never_Again	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+495	tt0001338	A_Night_in_May	14	09	1938	88	Germany	German	\N	\N	\N	\N
+496	tt0001340	The_Oath_and_the_Man	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+497	tt0001349	Our_Darling	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+498	tt0001353	Paganini	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+499	tt0001354	Pals_of_the_Range	\N	11	1935	61	United States	English	\N	\N	\N	\N
+500	tt0001358	Peder_Tordenskjold	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+501	tt0001360	The_Phoenix	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+502	tt0001364	El_pobre_Valbuena	\N	\N	\N	\N	Spain	\N	\N	\N	\N	\N
+503	tt0001367	Pride_of_the_Range	\N	\N	1910	\N	United States	\N	\N	\N	\N	\N
+504	tt0001371	Ramona	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+505	tt0001375	The_Range_Riders	\N	\N	\N	50	United States	\N	\N	\N	\N	\N
+506	tt0001377	Re_Lear	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+507	tt0001378	Re_Lear	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+508	tt0001385	The_Rocky_Road	03	01	1910	11	United States	Silent with English intertitles	\N	\N	\N	\N
+509	tt0001387	A_Romance_of_the_Western_Hills	11	04	1910	16	United States	\N	\N	\N	\N	\N
+510	tt0001397	Sisters	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+511	tt0001399	The_Smoker	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+512	tt0001407	Sunshine_Sue	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+513	tt0001408	Take_Me_Out_to_the_Ball_Game	\N	\N	\N	93	United States	English	\N	2025000.0	\N	4344000.0
+514	tt0001415	Thou_Shalt_Not	\N	\N	\N	50	United States	\N	\N	\N	\N	\N
+515	tt0001426	The_Truth_Will_Out	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+516	tt0001428	The_Two_Brothers	04	04	1910	17	United States	\N	\N	\N	\N	\N
+517	tt0001431	The_Unchanging_Sea	05	05	1910	14	United States	Silent with English intertitles	\N	\N	\N	\N
+518	tt0001432	Uncle_Tom%27s_Cabin	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+519	tt0001434	Under_Western_Skies	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+520	tt0001438	Up_a_Tree	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+521	tt0001440	Valdemar_Sejr	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+522	tt0001441	The_Vampire	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+523	tt0001446	The_Way_of_the_World	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+524	tt0001452	What_the_Daisy_Said	11	07	1910	12	United States	Silent with English intertitles	\N	\N	\N	\N
+525	tt0001456	White_Roses	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+526	tt0001457	Who_Is_She?	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+527	tt0001458	Wilful_Peggy	25	08	1910	13	United States	Silent	\N	\N	\N	\N
+528	tt0001459	Winning_Back_His_Love	\N	\N	\N	17	USA	Silent	\N	\N	\N	\N
+529	tt0001460	The_Woman_from_Mellon%27s	\N	\N	\N	11	USA	Silent..English title cards	\N	\N	\N	\N
+530	tt0001461	The_Woman_Hater	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+531	tt0001463	The_Wonderful_Wizard_of_Oz	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+532	tt0001467	Across_the_Plains	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+533	tt0001469	The_Adventures_of_Billy	19	10	1911	18	United States	Silent/English	\N	\N	\N	\N
+534	tt0001472	After_the_Ball	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+535	tt0001474	Aida	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+536	tt0001481	Artful_Kate	\N	\N	\N	\N	United States	Silent film(English intertitles)	\N	\N	\N	\N
+537	tt0001482	As_in_a_Looking_Glass	\N	\N	\N	\N	United States	Silent (English intertitles)	\N	\N	\N	\N
+538	tt0001490	Back_to_the_Primitive	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+539	tt0001496	The_Baron	\N	10	2011	87	Portugal	Portuguese	\N	\N	\N	\N
+540	tt0001497	The_Battle_of_Bunker_Hill	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+541	tt0001498	The_Battle_of_Trafalgar	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+542	tt0001499	The_Battle	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+543	tt0001501	Behind_the_Stockade	\N	\N	\N	\N	USA	Silent	\N	\N	\N	\N
+544	tt0001502	The_Best_Man_Wins	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+545	tt0001503	The_Better_Way	\N	\N	\N	\N	United States	\N	\N	\N	\N	\N
+546	tt0001506	The_Black_Arrow	30	06	1948	76	United States	English	\N	1000000.0	\N	\N
+547	tt0001507	The_Blackmailer	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+548	tt0001508	The_Blind_Princess_and_the_Poet	17	08	1911	18	United States	Silent with English intertitles	\N	\N	\N	\N
+549	tt0001511	Bondefangeri_i_Vaterland	\N	\N	\N	\N	Norway	Norwegian	\N	\N	\N	\N
+550	tt0001514	Boys_Will_Be_Boys	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+551	tt0001515	The_Brand	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+552	tt0001517	The_Broken_Cross	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+553	tt0001527	The_Cameraman%27s_Revenge	\N	\N	\N	12	Russia	\N	\N	\N	\N	\N
+554	tt0001529	Captain_Kate	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+555	tt0001531	Captain_Starlight,_or_Gentleman_of_the_Road	\N	\N	\N	\N	Australia	\N	\N	\N	\N	\N
+556	tt0001539	Cain_and_Abel	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+557	tt0001541	Checkmated	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+558	tt0001543	The_Child_Crusoes	13	09	1911	\N	United States	\N	\N	\N	\N	\N
+559	tt0001544	A_Christmas_Carol	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+560	tt0001545	Cinderella	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+561	tt0001546	Cinderella	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+562	tt0001550	The_Coffin_Ship	\N	\N	\N	15	United States	\N	\N	\N	\N	\N
+563	tt0001551	Comrades	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+564	tt0001552	Conscience	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+565	tt0001557	A_Country_Cupid	24	07	1911	18	United States	Silent with English intertitles	\N	\N	\N	\N
+566	tt0001558	The_Country_Lovers	11	05	1911	\N	United States	\N	\N	\N	\N	\N
+567	tt0001564	The_Crooked_Road	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+568	tt0001565	The_Crusader	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+569	tt0001576	The_Declaration_of_Independence	26	11	1938	17	United States	English	\N	\N	\N	\N
+570	tt0001577	A_Decree_of_Destiny	06	03	1911	17	United States	Silent with English intertitles	\N	\N	\N	\N
+571	tt0001585	The_Doctor	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+572	tt0001586	A_Dog%27s_Tale	\N	\N	\N	\N	United States	English	\N	\N	\N	\N
+573	tt0001588	The_Dream	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+574	tt0001593	Enoch_Arden:_Part_I	12	06	1911	33	United States	Silent with English intertitles	\N	\N	\N	\N
+575	tt0001594	Enoch_Arden:_Part_II	12	06	1911	33	United States	Silent with English intertitles	\N	\N	\N	\N
+576	tt0001598	The_Failure	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+577	tt0001601	The_Fall_of_Babylon	05	09	1916	210	United States	Silent (English intertitles)	\N	385907.0	\N	175000000.0
+578	tt0001604	The_Fatal_Wedding	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+579	tt0001605	Fate	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+580	tt0001606	Fate%27s_Funny_Frolic	\N	\N	\N	\N	USA	Silent..English titles	\N	\N	\N	\N
+581	tt0001607	Fate%27s_Turning	23	01	1911	\N	United States	\N	\N	\N	\N	\N
+582	tt0001608	Fattigdommens_forbandelse	\N	\N	\N	\N	Norway	Norwegian	\N	\N	\N	\N
+583	tt0001613	Fighting_Blood	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+584	tt0001615	Fisher_Folks	\N	\N	\N	\N	USA	Silent..English	\N	\N	\N	\N
+585	tt0001622	For_the_Crown	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+586	tt0001627	Foul_Play	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+587	tt0001632	Friday_the_13th	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+588	tt0001636	Galileo	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+589	tt0001638	The_General%27s_Daughter	18	06	1999	116	United States	English	60000000.0	95000000.0	\N	1497000000.0
+590	tt0001641	The_Geranium	\N	\N	\N	\N	United States	English	\N	\N	\N	\N
+591	tt0001642	Get_Rich_Quick	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+592	tt0001648	The_Golden_West	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+593	tt0001650	The_Gordian_Knot	\N	\N	\N	\N	USA	Silent..English titles	\N	\N	\N	\N
+594	tt0001654	Heart_Beats_of_Long_Ago	06	02	1911	17	United States	Silent with English intertitles	\N	\N	\N	\N
+595	tt0001656	The_Heiress	06	10	1949	115	United States	English	\N	26000000.0	\N	23000000.0
+596	tt0001658	Henry_VIII	\N	\N	\N	\N	United Kingdom	\N	\N	\N	\N	\N
+597	tt0001659	Her_Awakening	28	09	1911	18	United States	\N	\N	\N	\N	\N
+598	tt0001660	Her_Crowning_Glory	11	09	1911	14	United States	\N	\N	\N	\N	\N
+599	tt0001663	Her_Sacrifice	\N	\N	\N	60	United States	\N	\N	\N	\N	\N
+600	tt0001668	The_Highlander	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+601	tt0001671	His_Daughter	23	02	1911	17	United States	Silent with English intertitles	\N	\N	\N	\N
+602	tt0001673	His_Friend%27s_Wife	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+603	tt0001676	His_Mother	12	01	1912	\N	United States	\N	\N	\N	\N	\N
+604	tt0001679	His_Sister%27s_Children	26	09	1911	\N	United States	\N	\N	\N	\N	\N
+605	tt0001680	His_Trust:_The_Faithful_Devotion_and_Self-Sacrifice_of_an_Old_Negro_Servant	16	01	1911	14	United States	Silent with English intertitles	\N	\N	\N	\N
+606	tt0001681	His_Trust_Fulfilled	19	01	1911	17	United States	\N	\N	\N	\N	\N
+607	tt0001682	Home	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+608	tt0001683	Home_Sweet_Home	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+609	tt0001684	The_Honeymooners	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+610	tt0001685	Honor_Thy_Father	12	09	2015	115	Philippines	\N	\N	\N	\N	\N
+611	tt0001689	How_She_Triumphed	27	04	1911	17	United States	Silent with English intertitles	\N	\N	\N	\N
+612	tt0001692	The_Great_Moment	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+613	tt0001693	The_Immortal_Alamo	25	05	1911	10	United States	English	\N	\N	\N	\N
+614	tt0001699	In_the_Reign_of_Terror	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+615	tt0001701	The_Indian_Brothers	17	07	1911	18	United States	Silent with English intertitles	\N	\N	\N	\N
+616	tt0001704	Indiscretions_of_Betty	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+617	tt0001709	The_Italian_Barber	09	01	1911	17	United States	\N	\N	\N	\N	\N
+618	tt0001712	Jane_Shore	\N	\N	\N	\N	United Kingdom	English	\N	\N	\N	\N
+619	tt0001713	The_Jealous_Husband	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+620	tt0001715	Julius_Caesar	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+621	tt0001724	The_Last_Drop_of_Water	27	07	1911	18	United States	\N	\N	\N	\N	\N
+622	tt0001725	The_Last_Farewell	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+623	tt0001727	Lost_Years	\N	\N	\N	\N	USA	\N	\N	\N	\N	\N
+624	tt0001728	The_Last_of_the_Mohicans	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+625	tt0001729	The_Law_of_the_Range	21	01	1928	\N	United States	\N	\N	\N	\N	\N
+626	tt0001732	The_Lighthouse_Keeper	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+627	tt0001733	The_Lily_of_the_Tenements	27	02	1911	17	United States	Silent with English intertitles	\N	\N	\N	\N
+628	tt0001738	Little_Red_Riding_Hood	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+629	tt0001740	The_Lonedale_Operator	23	03	1911	17	United States	Silent with English intertitles	\N	\N	\N	\N
+630	tt0001741	The_Long_Road	26	10	1911	17	United States	Silent with English intertitles	\N	\N	\N	\N
+631	tt0001742	Lost_Illusions	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+632	tt0001744	The_Lost_Ring	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+633	tt0001746	Lost_in_the_Arctic	\N	\N	\N	12	United States	Silent (English intertitles)	\N	\N	\N	\N
+634	tt0001753	Love_in_the_Hills	30	10	1911	18	United States	Silent with English intertitles	\N	\N	\N	\N
+635	tt0001761	Macbeth	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+636	tt0001765	The_Madman	\N	\N	\N	\N	United States	Silent (English intertitles)	\N	\N	\N	\N
+637	tt0001769	The_Making_of_a_Man	\N	\N	\N	16	United States	Silent with English intertitles	\N	\N	\N	\N
+638	tt0001772	A_Manly_Man	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+639	tt0001775	Maud_Muller	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+640	tt0001776	Max_Takes_Tonics	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+641	tt0001779	The_Message_in_the_Bottle	\N	\N	\N	\N	United States	English	\N	\N	\N	\N
+642	tt0001785	The_Miner%27s_Curse	\N	\N	\N	\N	Australia	\N	\N	\N	\N	\N
+643	tt0001786	The_Minute_Man	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+644	tt0001787	The_Mirror	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+645	tt0001789	The_Miser%27s_Heart	20	11	1911	18	United States	Silent with English intertitles	\N	\N	\N	\N
+646	tt0001791	A_Modern_Cinderella	\N	\N	\N	\N	United States	\N	\N	\N	\N	\N
+647	tt0001793	A_Modern_Hero	21	04	1934	71	United States	English	\N	\N	\N	\N
+648	tt0001797	Money_to_Burn	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+649	tt0001800	Music_Hath_Charms	\N	\N	\N	70	United Kingdom	English	\N	\N	\N	\N
+650	tt0001803	The_Mystery_of_a_Hansom_Cab	\N	\N	\N	\N	Australia	English	\N	\N	\N	\N
+651	tt0001808	The_New_Dress	15	05	1911	17	United States	Silent with English intertitles	\N	\N	\N	\N
+652	tt0001811	The_O%27Neill	12	01	1912	\N	United States	\N	\N	\N	\N	\N
+653	tt0001812	Oedipus_Rex	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+654	tt0001814	Oliver_Cromwell	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+655	tt0001815	On_the_Brink	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+656	tt0001817	Only_in_the_Way	31	01	1911	\N	United States	\N	\N	\N	\N	\N
+657	tt0001818	Out_from_the_Shadow	03	08	1911	\N	United States	Silent with English intertitles	\N	\N	\N	\N
+658	tt0001822	The_Outlaw_Deputy	\N	\N	1935	59	United States	English	\N	\N	\N	\N
+659	tt0001823	Over_the_Garden_Wall	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+660	tt0001824	Over_the_Hills	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+661	tt0001827	Paradise_Lost	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+662	tt0001831	The_Pied_Piper_of_Hamelin	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+663	tt0001836	The_Power_of_Good	\N	\N	\N	\N	Czech RepublicSlovakia	English	\N	\N	\N	\N
+664	tt0001837	The_Power_of_Love	27	09	1922	\N	United States	Silent (English intertitles)	\N	\N	\N	\N
+665	tt0001838	The_Price_of_a_Man	\N	\N	\N	95	Spain	\N	\N	\N	\N	\N
+665	tt0001838	The_Price_of_a_Man	\N	\N	\N	95	Italy	\N	\N	\N	\N	\N
+666	tt0001840	The_Primal_Call	22	06	1911	17	United States	Silent with English intertitles	\N	\N	\N	\N
+667	tt0001845	Pulgarcito	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+668	tt0001853	The_Reform_Candidate	16	12	1915	\N	United States	English	\N	\N	\N	\N
+669	tt0001854	The_Reporter	06	03	2015	\N	India	Malayalam	\N	\N	\N	\N
+670	tt0001857	Richard_III	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+671	tt0001864	The_Rosary	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+672	tt0001867	The_Ruling_Passion	22	01	1922	70	United States	Silent (English intertitles)	\N	\N	\N	\N
+673	tt0001869	Samson_and_Delilah	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+674	tt0001872	The_Scarlet_Letter	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+675	tt0001874	Science	22	11	2010	78	United Kingdom	English	\N	\N	\N	\N
+676	tt0001875	Second_Sight	03	11	1989	83	United States	English	\N	\N	\N	5368865.0
+677	tt0001877	She	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+678	tt0001888	The_Sky_Pilot	17	04	1921	77	United States	Silent (English intertitles)	\N	\N	\N	\N
+679	tt0001890	The_Smile_of_a_Child	05	06	1911	\N	United States	Silent with English intertitles	\N	\N	\N	\N
+680	tt0001893	The_Spanish_Gypsy	30	03	1911	17	United States	Silent with English intertitles	\N	\N	\N	\N
+681	tt0001898	A_Stage_Romance	05	03	1922	70	United States	Silent (English intertitles)	\N	\N	\N	\N
+682	tt0001899	The_Stampede	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+683	tt0001900	The_Star_Spangled_Banner	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+684	tt0001904	The_Stuff_Heroes_Are_Made_Of	04	09	1911	17	United States	Silent with English intertitles	\N	\N	\N	\N
+685	tt0001905	The_Stuff_That_Dreams_Are_Made_Of	\N	\N	\N	142	West Germany	German	\N	\N	\N	\N
+686	tt0001910	Sweet_Memories	27	03	1911	10	United States	\N	\N	\N	\N	\N
+687	tt0001911	Nell_Gwynne	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+688	tt0001913	Swords_and_Hearts	28	08	1911	16	United States	Silent (English intertitles)	\N	\N	\N	\N
+689	tt0001915	A_Tale_of_Two_Cities	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+690	tt0001918	Telemachus	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+691	tt0001919	The_Telltale_Knife	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+692	tt0001923	Their_First_Misunderstanding	09	01	1911	10	United States	\N	\N	\N	\N	\N
+693	tt0001927	Three_Sisters	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+694	tt0001928	Through_Darkened_Vales	16	11	1911	17	United States	Silent with English intertitles	\N	\N	\N	\N
+695	tt0001932	The_Tomboy	26	12	1924	60	United States	Silent (English intertitles)	\N	\N	\N	\N
+696	tt0001933	La_Tosca	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+697	tt0001948	The_Two_Orphans	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+698	tt0001949	The_Two_Paths	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+699	tt0001952	The_Two-Gun_Man	13	06	1926	\N	United States	Silent (English intertitles)	\N	\N	\N	\N
+700	tt0001957	Under_forvandlingens_lov	\N	\N	\N	26	Norway	Norwegian	\N	\N	\N	\N
+701	tt0001960	The_Unveiling	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+702	tt0001964	The_Traitress	\N	\N	\N	48	Germany	\N	\N	\N	\N	\N
+703	tt0001968	The_Voice_of_the_Child	28	12	1911	18	United States	Silent with English intertitles	\N	\N	\N	\N
+704	tt0001969	Was_He_a_Coward?	16	03	1911	17	United States	\N	\N	\N	\N	\N
+705	tt0001973	What_Shall_We_Do_with_Our_Old?	13	02	1911	15	United States	Silent with English intertitles	\N	\N	\N	\N
+706	tt0001975	The_Wheels_of_Justice	14	02	1915	\N	United States	English	\N	\N	\N	\N
+707	tt0001978	When_a_Man_Loves	03	02	1927	111	United States	\N	\N	528000.0	\N	1037000.0
+708	tt0001980	When_the_Cat%27s_Away	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+709	tt0001983	The_White_Rose_of_the_Wilds	25	05	1911	17	United States	Silent with English intertitles	\N	\N	\N	\N
+710	tt0001984	Why_He_Gave_Up	04	12	1911	12	United States	\N	\N	\N	\N	\N
+711	tt0001987	A_Woman_Scorned	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+712	tt0001992	Zwei_Frauen	\N	\N	1989	104	GermanyUnited States	English	\N	\N	\N	\N
+713	tt0001995	Adam_and_Eve	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+714	tt0002000	The_Agitator	03	09	1945	104	United Kingdom	English	\N	\N	\N	\N
+715	tt0002003	Alias_Billy_Sargent	\N	\N	\N	\N	USA	Silent..English titles	\N	\N	\N	\N
+716	tt0002013	All_for_a_Girl	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+717	tt0002014	Alt_for_Norge	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+718	tt0002016	Los_amantes_de_Teruel	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+719	tt0002020	Queen_Elizabeth	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+720	tt0002026	Anny_-_Story_of_a_Prostitute	09	11	1912	68	Norway	Norwegian	\N	\N	\N	\N
+721	tt0002029	Poor_Jenny	\N	\N	\N	\N	Germany	\N	\N	\N	\N	\N
+722	tt0002031	As_You_Like_It	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+723	tt0002034	At_Coney_Island	28	10	1912	\N	United States	\N	\N	\N	\N	\N
+724	tt0002036	At_It_Again	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+725	tt0002044	Le_bagnard	\N	\N	\N	96	France	French	\N	\N	\N	\N
+726	tt0002049	Battle_of_Pottsburg_Bridge	\N	\N	\N	15	United States	\N	\N	\N	\N	\N
+727	tt0002050	A_Battle_of_Wits	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+728	tt0002054	A_Beast_at_Bay	\N	\N	\N	17	United States	Silent	\N	\N	\N	\N
+729	tt0002065	Black_Sheep	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+730	tt0002066	Blind_Love	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+731	tt0002076	Brothers	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+732	tt0002078	Brutality	02	12	1912	33	United States	Silent with English intertitles	\N	\N	\N	\N
+733	tt0002082	The_Burglar%27s_Dilemma	16	12	1912	15	United States	Silent with English intertitles	\N	\N	\N	\N
+734	tt0002083	The_Fall_of_Troy	08	04	1911	\N	Italy	silent	\N	\N	\N	\N
+735	tt0002087	Cardinal_Wolsey	\N	\N	\N	\N	USA	Silent..English titles	\N	\N	\N	\N
+736	tt0002089	Carmen	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+737	tt0002090	Casey_at_the_Bat	08	03	1927	60	United States	Silent (English intertitles)	\N	\N	\N	\N
+738	tt0002092	Chains	\N	\N	\N	\N	Italy	Italian	\N	\N	\N	\N
+739	tt0002093	A_Change_of_Spirit	22	08	1912	17	United States	Silent with English intertitles	\N	\N	\N	\N
+740	tt0002094	Charles_IV	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+741	tt0002095	The_Chief%27s_Blanket	10	10	1912	\N	United States	\N	\N	\N	\N	\N
+742	tt0002099	The_Chorus_Girl	\N	\N	\N	\N	Russia	Russian	\N	\N	\N	\N
+743	tt0002101	Cleopatra	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+744	tt0002102	The_Clod	\N	\N	\N	\N	United States	\N	\N	\N	\N	\N
+745	tt0002109	The_Colonel%27s_Son	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+746	tt0002113	The_Conquest_of_the_Pole	03	05	1912	44	France	Silent	\N	\N	\N	\N
+747	tt0002114	Conscience	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+748	tt0002117	Counsel_for_the_Defense	06	12	1925	\N	United States	Silent (English intertitles)	\N	\N	\N	\N
+749	tt0002119	The_Crime_and_the_Criminal	19	02	1912	\N	Australia	\N	\N	\N	\N	\N
+750	tt0002120	The_Crisis	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+751	tt0002121	A_Cry_for_Help	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+752	tt0002122	The_Cry_of_the_Children	30	04	1912	29	United States	\N	\N	\N	\N	\N
+753	tt0002124	A_Cure_for_Pokeritis	23	02	1912	13	United States	\N	\N	\N	\N	\N
+754	tt0002126	Custer%27s_Last_Fight	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+755	tt0002130	Dante%27s_Inferno	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+756	tt0002133	A_Dash_Through_the_Clouds	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+757	tt0002136	Departure_of_a_Grand_Old_Man	\N	\N	1912	31	Russian Empire	\N	\N	\N	\N	\N
+758	tt0002137	The_Deserter	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+759	tt0002139	Diamond_Cut_Diamond	\N	\N	\N	71	United Kingdom	English	\N	\N	\N	\N
+760	tt0002143	Dr._Jekyll_and_Mr._Hyde	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+761	tt0002147	The_Drummer_Girl_of_Vicksburg	\N	\N	\N	16	United States	\N	\N	\N	\N	\N
+762	tt0002149	The_Duel	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+763	tt0002151	The_Last_Performance	02	11	1929	\N	United States	\N	\N	\N	\N	\N
+764	tt0002156	Eclipse_de_sol	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+765	tt0002157	Der_Eid_des_Stephan_Huller	\N	\N	\N	\N	Germany	\N	\N	\N	\N	\N
+766	tt0002160	Entente_cordiale	\N	\N	\N	110	France	French	\N	\N	\N	\N
+767	tt0002162	The_Eternal_Mother	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+768	tt0002163	Eva	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+769	tt0002167	Fadren	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+770	tt0002168	The_Faith_Healer	13	03	1921	70	United States	Silent (English intertitles)	\N	\N	\N	\N
+771	tt0002173	The_Father	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+772	tt0002174	The_Fear	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+773	tt0002175	Feathertop	\N	\N	\N	\N	United States	English	\N	\N	\N	\N
+774	tt0002176	The_Female_of_the_Species	\N	\N	\N	17	USA	Silent..English	\N	\N	\N	\N
+775	tt0002177	A_Feud_in_the_Kentucky_Hills	03	10	1912	17	United States	Silent with English intertitles	\N	\N	\N	\N
+776	tt0002184	The_Flirting_Husband	21	10	1912	\N	United States	\N	\N	\N	\N	\N
+777	tt0002186	The_Flying_Circus	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+778	tt0002187	Fog	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+779	tt0002189	For_Her	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+780	tt0002190	For_His_Son	22	01	1912	\N	United States	Silent with English intertitles	\N	\N	\N	\N
+781	tt0002191	For_the_Cause	16	11	2000	100	United States	English	\N	25000000.0	\N	\N
+782	tt0002197	Friends	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+783	tt0002199	From_the_Manger_to_the_Cross	03	10	1912	71	United States	Silent (English intertitles)	\N	35000.0	\N	1000000.0
+784	tt0002200	From_the_Submerged	12	11	1912	\N	United States	Silent	\N	\N	\N	\N
+785	tt0002205	The_Gamblers	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+786	tt0002208	The_Girl_and_Her_Trust	28	03	1912	17	United States	Silent	\N	\N	\N	\N
+787	tt0002212	The_God_Within	26	12	1912	17	United States	Silent with English intertitles	\N	\N	\N	\N
+788	tt0002214	The_Goddess_of_Sagebrush_Gulch	25	03	1912	17	United States	\N	\N	\N	\N	\N
+789	tt0002215	The_Godmother	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+790	tt0002216	Gold_and_Glitter	12	11	1912	17	United States	Silent with English intertitles	\N	\N	\N	\N
+791	tt0002218	The_Governor	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+792	tt0002219	The_Grandfather	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+793	tt0002220	Grannie	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+794	tt0002221	The_Dragonfly_and_the_Ant	\N	\N	\N	\N	Russian Empire	\N	\N	\N	\N	\N
+795	tt0002223	The_Green-Eyed_Monster	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+796	tt0002228	Harbor_Island	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+797	tt0002233	Help!_Help!	11	04	1912	\N	\N	\N	\N	\N	\N	\N
+798	tt0002234	A_Ruined_Life	14	10	1912	\N	Sweden	\N	\N	\N	\N	\N
+799	tt0002235	Hemmeligheden	\N	\N	\N	\N	Norway	Norwegian	\N	\N	\N	\N
+800	tt0002236	Her_Choice	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+801	tt0002239	Her_Own_Money	\N	01	1922	50	United States	Silent (English intertitles)	\N	\N	\N	\N
+802	tt0002241	Heredity	04	11	1912	17	United States	Silent with English intertitles	\N	\N	\N	\N
+803	tt0002242	Herod	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+804	tt0002247	His_Only_Son	31	03	2023	101	United States	English	\N	250000.0	\N	138000000.0
+805	tt0002249	His_Secretary	06	12	1925	\N	United States	Silent (English intertitles)	\N	\N	\N	\N
+806	tt0002251	Hoffmeyer%27s_Legacy	23	12	1912	\N	United States	English	\N	\N	\N	\N
+807	tt0002252	The_Holy_City	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+808	tt0002253	Home_Folks	06	06	1912	\N	United States	\N	\N	\N	\N	\N
+809	tt0002255	Hot_Stuff	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+810	tt0002260	How_a_Mosquito_Operates	\N	01	1912	6	United States	Silent with English intertitles	\N	\N	\N	\N
+811	tt0002263	The_Illumination	\N	\N	1973	\N	Poland	\N	\N	\N	\N	\N
+812	tt0002264	In_His_Father%27s_Steps	06	08	1912	\N	United States	\N	\N	\N	\N	\N
+813	tt0002266	In_the_Aisles_of_the_Wild	14	10	1912	17	United States	Silent with English intertitles	\N	\N	\N	\N
+814	tt0002272	Indian_Romeo_and_Juliet	\N	\N	\N	\N	United States	Silent (English intertitles)	\N	\N	\N	\N
+815	tt0002277	The_Informer	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+816	tt0002278	The_Inner_Circle	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+817	tt0002281	The_Invaders	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+818	tt0002285	The_Jewels	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+819	tt0002286	Judith	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+820	tt0002287	Just_Like_a_Woman	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+821	tt0002289	Kaintuck	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+822	tt0002290	Katchem_Kate	\N	\N	\N	\N	United States	\N	\N	\N	\N	\N
+823	tt0002292	King_of_the_Coiners	\N	\N	\N	\N	Australia	\N	\N	\N	\N	\N
+824	tt0002295	Lady_Audley%27s_Secret	\N	\N	\N	\N	United Kingdom	English	\N	\N	\N	\N
+825	tt0002296	The_Lady_of_the_Lake	\N	\N	\N	\N	United Kingdom	\N	\N	\N	\N	\N
+826	tt0002300	The_Legend_of_Sleepy_Hollow	\N	\N	\N	\N	United States	English	\N	\N	\N	\N
+827	tt0002301	Leiria	\N	\N	\N	\N	 Portugal	\N	\N	\N	\N	\N
+828	tt0002303	The_Lesser_Evil	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+829	tt0002305	Life_of_Villa	\N	\N	1912	\N	\N	Silent	\N	\N	\N	\N
+830	tt0002308	Like_Knights_of_Old	16	10	1912	10	United States	\N	\N	\N	\N	\N
+831	tt0002309	Lincoln%27s_Gettysburg_Address	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+832	tt0002316	Locked_Out	05	04	2006	\N	France	French	\N	58000000.0	\N	37000000.0
+833	tt0002317	The_Locket	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+834	tt0002322	The_Love_Test	\N	\N	\N	\N	United Kingdom	English	\N	\N	\N	\N
+835	tt0002326	Lucile	\N	\N	\N	75	France	\N	\N	\N	\N	\N
+836	tt0002328	The_Lust_for_Gold	\N	\N	1922	\N	Australia	\N	\N	900.0	\N	\N
+837	tt0002329	Today_and_Tomorrow	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+838	tt0002330	Mabel%27s_Adventures	16	12	1912	\N	United States	\N	\N	\N	\N	\N
+839	tt0002331	Mabel%27s_Lovers	12	11	1912	\N	United States	\N	\N	\N	\N	\N
+840	tt0002335	Magda	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+841	tt0002337	The_Mail_Order_Wife	\N	\N	\N	\N	USA	Silent..English titles	\N	\N	\N	\N
+842	tt0002338	Making_Good	\N	\N	\N	\N	\N	English	\N	\N	\N	\N
+843	tt0002341	A_Man%27s_Duty	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+844	tt0002342	Man%27s_Genesis	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+845	tt0002343	Man%27s_Lust_for_Gold	01	07	1912	17	United States	Silent with English intertitles	\N	\N	\N	\N
+846	tt0002344	The_Marauders	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+847	tt0002346	Martin_Chuzzlewit	\N	\N	\N	\N	England	English	\N	\N	\N	\N
+848	tt0002349	The_Mask_of_Horror	24	05	1912	\N	France	\N	\N	\N	\N	\N
+849	tt0002350	The_Massacre	07	11	1912	30	United States	\N	\N	\N	\N	\N
+850	tt0002351	Master_and_Pupil	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+851	tt0002356	The_Melody_of_Love	\N	\N	\N	\N	USA	Silent..English titles	\N	\N	\N	\N
+852	tt0002358	The_Merchant_of_Venice	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+853	tt0002361	The_Midnight_Wedding	\N	\N	\N	\N	Australia	\N	\N	\N	\N	\N
+854	tt0002365	The_Mind_Cure	\N	\N	\N	12	USA	Silent film..(English)	\N	\N	\N	\N
+855	tt0002368	Mirele_Efros	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+856	tt0002371	Monte_Cristo	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+857	tt0002377	Mr._Fix-It	15	04	1918	50	United States	Silent (English intertitles)	\N	\N	\N	\N
+858	tt0002381	The_Musketeers_of_Pig_Alley	31	10	1912	17	United States	\N	\N	\N	\N	\N
+859	tt0002382	My_Baby	14	11	1912	17	United States	\N	\N	\N	\N	\N
+860	tt0002383	My_Hero	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+861	tt0002386	The_Narrow_Road	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+862	tt0002387	Neighbors	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+863	tt0002388	Neptune%27s_Daughter	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+864	tt0002390	The_New_Neighbor	01	08	1953	7	United States	English	\N	\N	\N	\N
+865	tt0002391	The_New_York_Hat	05	12	1912	16	United States	\N	\N	\N	\N	\N
+866	tt0002392	The_Night_Before_Christmas	\N	\N	\N	\N	United States	English	\N	\N	\N	\N
+867	tt0002394	The_Nurse	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+868	tt0002397	Oh,_Such_a_Night!	\N	\N	\N	86	Sweden	Swedish	\N	\N	\N	\N
+869	tt0002401	The_Old_Bookkeeper	18	01	1912	17	United States	Silent with English intertitles	\N	\N	\N	\N
+870	tt0002405	Oliver_Twist	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+871	tt0002406	Oliver_Twist	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+872	tt0002408	One_Is_Business,_the_Other_Crime	25	04	1912	15	United States	Silent with English intertitles	\N	\N	\N	\N
+873	tt0002409	The_One_She_Loved	21	10	1912	17	United States	Silent with English intertitles	\N	\N	\N	\N
+874	tt0002410	Only_a_Woman	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+875	tt0002411	Out_of_the_Depths	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+876	tt0002412	An_Outcast_Among_Outcasts	30	05	1912	17	United States	Silent with English intertitles	\N	\N	\N	\N
+877	tt0002415	The_Painted_Lady	24	10	1912	12	United States	Silent (English intertitles)	\N	\N	\N	\N
+878	tt0002419	Pals	11	12	1925	50	United States	Silent (English intertitles)	\N	\N	\N	\N
+879	tt0002423	Passion	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+880	tt0002427	The_Penitent	\N	\N	\N	94	United StatesMexico	English	\N	\N	\N	\N
+881	tt0002429	Petticoat_Camp	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+882	tt0002435	The_Power_of_Love	27	09	1922	\N	United States	Silent (English intertitles)	\N	\N	\N	\N
+883	tt0002437	A_Prize_Package	05	08	1912	\N	United States	\N	\N	\N	\N	\N
+884	tt0002438	The_Prodigal_Daughter	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+885	tt0002439	The_Prodigal_Son	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+886	tt0002440	The_Prospector	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+887	tt0002442	The_Punishment	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+888	tt0002444	Quincy_Adams_Sawyer	\N	\N	\N	80	United States	Silent (English intertitles)	\N	\N	\N	\N
+889	tt0002445	Quo_Vadis?	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+890	tt0002451	The_Raven	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+891	tt0002452	The_Independence_of_Romania	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+892	tt0002453	The_Reckoning	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+893	tt0002463	Rip_Van_Winkle	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+894	tt0002464	The_Rivals	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+895	tt0002465	Robin_Hood	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+896	tt0002469	The_Root_of_Evil	18	03	1912	17	USA	\N	\N	\N	\N	\N
+897	tt0002470	A_Sailor%27s_Heart	25	11	1912	\N	United States	Silent with English intertitles	\N	\N	\N	\N
+898	tt0002473	The_Sands_of_Dee	\N	\N	\N	17	USA	Silent..English titles	\N	\N	\N	\N
+899	tt0002475	Saved_from_the_Titanic	16	05	1912	\N	United States	Silent (English Intertitles)	\N	\N	\N	\N
+900	tt0002484	The_Seventh_Son	23	03	1926	\N	Germany	\N	\N	\N	\N	\N
+901	tt0002491	The_Sin_of_a_Woman	\N	\N	\N	\N	Australia	\N	\N	\N	\N	\N
+902	tt0002493	A_Sister%27s_Love	08	02	1912	\N	United States	Silent with English intertitles	\N	\N	\N	\N
+903	tt0002495	The_Skinflint	\N	\N	\N	\N	USA	Silent	\N	\N	\N	\N
+904	tt0002496	The_Smuggler%27s_Daughter	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+905	tt0002497	So_Near,_Yet_So_Far	30	09	1912	17	United States	Silent with English intertitles	\N	\N	\N	\N
+906	tt0002503	The_Spirit_Awakened	20	06	1912	17	United States	\N	\N	\N	\N	\N
+907	tt0002504	The_Star_of_Bethlehem	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+908	tt0002509	The_Street_Singer	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+909	tt0002510	A_String_of_Pearls	07	03	1912	17	United States	Silent with English intertitles	\N	\N	\N	\N
+910	tt0002512	The_Sunbeam	\N	\N	1912	17	United States	English	\N	\N	\N	\N
+911	tt0002517	Talma	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+912	tt0002519	The_Telephone_Girl	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+913	tt0002521	A_Temporary_Truce	10	06	1912	17	United States	\N	\N	\N	\N	\N
+914	tt0002525	The_Tide_of_Death	13	04	1912	\N	Australia	\N	\N	\N	\N	\N
+915	tt0002533	The_Tourists	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+916	tt0002536	The_Transformation_of_Mike	01	02	1912	17	United States	Silent with English intertitles	\N	\N	\N	\N
+917	tt0002538	Treasure_Island	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+918	tt0002544	The_Gardener	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+919	tt0002545	Twilight	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+920	tt0002546	Two_Daughters_of_Eve	19	09	1912	18	United States	Silent with English intertitles	\N	\N	\N	\N
+921	tt0002548	The_Two_Rivals	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+922	tt0002550	Under_Burning_Skies	22	02	1912	17	United States	Silent with English intertitles	\N	\N	\N	\N
+923	tt0002551	Undine	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+924	tt0002553	An_Unseen_Enemy	09	09	1912	16	United States	Silent (English intertitles)	\N	\N	\N	\N
+925	tt0002555	The_Last_Bohemian	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+926	tt0002562	The_Victoria_Cross	14	12	1916	50	United States	Silent..English intertitles	\N	\N	\N	\N
+927	tt0002569	The_Water_Nymph	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+928	tt0002573	Western_Girls	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+929	tt0002574	What_Happened_to_Mary	26	07	1912	\N	United States	Silent (English intertitles)	\N	\N	\N	\N
+930	tt0002575	What_Katie_Did	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+931	tt0002581	White_Roses	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+932	tt0002582	The_Widow_Casey%27s_Return	17	06	1912	\N	United States	\N	\N	\N	\N	\N
+933	tt0002585	With_the_Enemy%27s_Help	19	08	1912	\N	United States	\N	\N	\N	\N	\N
+934	tt0002586	Won_by_a_Fish	\N	\N	\N	\N	USA	Silent..English titles	\N	\N	\N	\N
+935	tt0002594	%27Neath_Austral_Skies	02	12	1913	\N	Australia	\N	\N	\N	\N	\N
+936	tt0002596	The_Abandoned_Well	27	12	1913	\N	United States	\N	\N	\N	\N	\N
+937	tt0002597	Accident_Insurance	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+938	tt0002599	Across_the_Continent	04	06	1922	61	United States	Silent (English intertitles)	\N	\N	\N	\N
+939	tt0002603	An_Adventure_in_the_Autumn_Woods	16	01	1913	17	United States	Silent with English intertitles	\N	\N	\N	\N
+940	tt0002605	The_Adventures_of_Kathlyn	\N	\N	1913	\N	United States	\N	\N	\N	\N	\N
+941	tt0002606	Alas!_Poor_Yorick!	21	04	1913	\N	United States	Silent with English intertitles	\N	\N	\N	\N
+942	tt0002608	The_Alibi	12	01	2006	90	United States	English	\N	\N	\N	\N
+943	tt0002610	Alkali_Ike%27s_Auto	20	05	1911	11	United States	Silent with English intertitles	\N	\N	\N	\N
+944	tt0002617	Almost_a_Wild_Man	19	06	1913	6	Canada	\N	\N	\N	\N	\N
+945	tt0002618	Almost_an_Actress	15	11	1913	10	United States	Silent with English intertitles	\N	\N	\N	\N
+946	tt0002619	Alone_in_the_Jungle	\N	\N	1922	\N	Germany	\N	\N	\N	\N	\N
+947	tt0002621	The_Ambassador%27s_Daughter	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+948	tt0002626	The_Anarchist	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+949	tt0002628	Der_Andere	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+950	tt0002629	The_Angel_of_Death	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+951	tt0002631	The_Animal	01	06	2001	83	United States	English	\N	47000000.0	\N	847000000.0
+952	tt0002632	Ann	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+953	tt0002633	Annie_Laurie	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+954	tt0002634	Another_Man%27s_Wife	\N	\N	\N	50	United States	\N	\N	\N	\N	\N
+955	tt0002636	The_Appeal	\N	\N	\N	\N	United States	English	\N	\N	\N	\N
+956	tt0002637	Arizona	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+957	tt0002641	The_Artist	15	05	2011	100	France	\N	\N	15000000.0	\N	1334000000.0
+958	tt0002643	Ashes	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+959	tt0002646	Atlantis	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+960	tt0002649	Australia_Calls	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+961	tt0002654	Back_to_Life	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+962	tt0002657	The_Ball_Game	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+963	tt0002658	A_Bandit	23	06	1913	\N	United States	\N	\N	\N	\N	\N
+964	tt0002659	Bangville_Police	24	04	1913	8	United States	\N	\N	\N	\N	\N
+965	tt0002662	Barnet	21	08	1940	85	Denmark	Danish	\N	\N	\N	\N
+966	tt0002663	Barney_Oldfield%27s_Race_for_a_Life	03	06	1913	13	United States	\N	\N	\N	\N	\N
+967	tt0002665	The_Bartered_Bride	\N	\N	\N	\N	\N	Czech	\N	\N	\N	\N
+968	tt0002666	Baseball	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+969	tt0002669	The_Battle_of_Gettysburg	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+970	tt0002673	Beau_Brummel	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+971	tt0002674	Beauty_Unadorned	\N	\N	\N	\N	USA	Silent	\N	\N	\N	\N
+972	tt0002675	Behind_the_Scenes	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+973	tt0002677	The_Bells	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+974	tt0002678	Ben_Bolt	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+975	tt0002680	The_Big_Boss	23	10	1971	100	Hong Kong	\N	\N	100000.0	\N	50000000.0
+976	tt0002683	The_Black_Snake	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+977	tt0002684	Black_and_White	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+978	tt0002686	The_Blood_Red_Tape_of_Charity	26	09	1913	\N	United States	\N	\N	\N	\N	\N
+979	tt0002688	Bloodhounds_of_the_North	23	12	1913	20	United States	\N	\N	\N	\N	\N
+980	tt0002689	The_Blue_Rose	\N	\N	\N	45	\N	\N	\N	\N	\N	\N
+981	tt0002691	The_Boomerang	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+982	tt0002702	Broken_Ways	08	03	1913	17	United States	\N	\N	\N	\N	\N
+983	tt0002707	Broncho_Billy%27s_Christmas_Deed	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+984	tt0002718	Brothers	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+985	tt0002729	The_Caged_Bird	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+986	tt0002733	The_Call_of_the_Blood	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+987	tt0002736	Caprice	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+988	tt0002738	Cards	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+989	tt0002739	Carmen	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+990	tt0002741	Caught_in_the_Act	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+991	tt0002744	The_Champion	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+992	tt0002745	A_Chance_Deception	24	02	1913	17	United States	Silent with English intertitles	\N	\N	\N	\N
+993	tt0002746	Checkers	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+994	tt0002747	The_Cheese_Special	25	10	1913	\N	United States	\N	\N	\N	\N	\N
+995	tt0002748	Chelsea_7750	\N	\N	\N	\N	United States	Silent (English intertitles)	\N	\N	\N	\N
+996	tt0002754	Coal	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+997	tt0002755	Cohen_Saves_the_Flag	\N	\N	\N	\N	United States	Silent	\N	\N	\N	\N
+998	tt0002757	College_Chums	07	12	1907	11	United States	Silent film	\N	\N	\N	\N
+999	tt0002760	Confidence	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1000	tt0002761	The_Conscience_of_Hassan_Bey	20	12	1913	10	United States	Silent with English intertitles	\N	\N	\N	\N
+1001	tt0002766	Le_corso_rouge	\N	\N	\N	37	France	\N	\N	\N	\N	\N
+1002	tt0002767	The_Count_of_Monte_Cristo	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1003	tt0002768	Counterfeiters	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1004	tt0002773	Criminals	18	04	1975	\N	India	Malayalam	\N	\N	\N	\N
+1005	tt0002775	The_Crisis	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1006	tt0002776	The_Crook_and_the_Girl	25	08	1913	\N	United States	Silent with English intertitles	\N	\N	\N	\N
+1007	tt0002777	Cross_Purposes	26	07	1916	\N	United States	\N	\N	\N	\N	\N
+1008	tt0002784	Cymbeline	03	09	2014	97	United States	English	\N	32000000.0	\N	\N
+1009	tt0002787	The_Daughter_of_the_Hills	\N	\N	\N	\N	USA	Silent ..English	\N	\N	\N	\N
+1010	tt0002792	Dead_Man%27s_Shoes	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1011	tt0002794	Dear_Old_Girl	\N	\N	\N	20	\N	\N	\N	\N	\N	\N
+1012	tt0002795	Death%27s_Marathon	14	06	1913	\N	United States	Silent film(English intertitles)	\N	\N	\N	\N
+1013	tt0002796	The_Deerslayer	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1014	tt0002798	Le_dernier_pardon	\N	\N	\N	\N	France	\N	\N	\N	\N	\N
+1015	tt0002800	A_Desperate_Chance	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1016	tt0002801	The_Black_Diamond	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1017	tt0002802	The_Diamond_Crown	12	07	1913	\N	United States	Silent with English intertitles	\N	\N	\N	\N
+1018	tt0002804	The_Discovery	20	01	2017	102	United States	English	\N	\N	\N	\N
+1018	tt0002804	The_Discovery	20	01	2017	102	United Kingdom	English	\N	\N	\N	\N
+1019	tt0002808	The_Doctor%27s_Secret	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1020	tt0002813	Dr._Jekyll_and_Mr._Hyde	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1021	tt0002819	During_the_Round-Up	19	07	1913	17	United States	\N	\N	\N	\N	\N
+1022	tt0002820	East_Lynne	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1023	tt0002821	The_Echo_of_a_Song	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1024	tt0002822	What_80_Million_Women_Want	\N	\N	\N	56	\N	\N	\N	\N	\N	\N
+1025	tt0002824	The_Elder_Brother	\N	\N	\N	67	United Kingdom	English	\N	\N	\N	\N
+1026	tt0002825	An_Elephant_on_His_Hands	21	11	1913	10	United States	\N	\N	\N	\N	\N
+1027	tt0002826	The_Eleventh_Commandment	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1028	tt0002829	The_Enemy%27s_Baby	10	07	1913	\N	United States	Silent with English intertitles	\N	\N	\N	\N
+1029	tt0002831	Esther	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1030	tt0002832	Evangeline	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1031	tt0002833	Evinrude	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1032	tt0002835	Exoneration	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1033	tt0002836	Extremities	22	08	1986	89	United States	English	\N	\N	\N	134000000.0
+1034	tt0002839	The_Fatal_Taxicab	18	09	1913	\N	United States	\N	\N	\N	\N	\N
+1035	tt0002841	Falstaff	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1036	tt0002846	The_Farmer%27s_Daughter	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1037	tt0002847	The_Farmer%27s_Daughters	\N	\N	1976	58	United States	English	\N	\N	\N	\N
+1038	tt0002848	Fate	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1039	tt0002851	Fatty_Joins_the_Force	24	11	1913	12	United States	Silent with English intertitles	\N	\N	\N	\N
+1040	tt0002852	Fatty_at_San_Diego	03	11	1913	\N	United States	\N	\N	\N	\N	\N
+1041	tt0002853	Fatty%27s_Day_Off	\N	09	1913	\N	United States	\N	\N	\N	\N	\N
+1042	tt0002854	Fatty%27s_Flirtation	18	12	1913	\N	United States	\N	\N	\N	\N	\N
+1043	tt0002855	The_Favorite_Son	21	12	1994	110	France	French	\N	\N	\N	58000000.0
+1044	tt0002861	A_Fighting_Chance	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1045	tt0002863	The_Film_Primadonna	\N	\N	\N	\N	Germany	\N	\N	\N	\N	\N
+1046	tt0002864	The_Firebugs	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1047	tt0002866	First_Love	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1048	tt0002868	A_Fishy_Story	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1049	tt0002870	Flood_Tide	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1050	tt0002872	For_Better_or_for_Worse	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1051	tt0002874	For_the_Love_of_Mabel	30	06	1913	\N	United States	\N	\N	\N	\N	\N
+1052	tt0002876	The_Foreman_of_the_Jury	22	05	1913	\N	United States	\N	\N	\N	\N	\N
+1053	tt0002878	The_Forgotten_Latchkey	\N	\N	\N	\N	United States	\N	\N	\N	\N	\N
+1054	tt0002879	The_Fortune_Hunters	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1055	tt0002884	Friday_the_Thirteenth	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1056	tt0002885	From_Dusk_to_Dawn	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1057	tt0002886	La_fuerza_del_destino	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1058	tt0002887	The_Fugitive	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1059	tt0002890	A_Gambler%27s_Honor	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1060	tt0002893	A_Game_of_Pool	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1061	tt0002894	The_Gangsters	29	05	1913	\N	United States	Silent with English intertitles	\N	\N	\N	\N
+1062	tt0002899	The_Girl_Reporter	16	08	1910	\N	United States	\N	\N	\N	\N	\N
+1063	tt0002900	The_Girl_and_the_Outlaw	08	09	1908	14	United States	\N	\N	\N	\N	\N
+1064	tt0002902	A_Girl%27s_Stratagem	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1065	tt0002903	Girls_Will_Be_Boys	\N	\N	\N	70	United Kingdom	English	\N	\N	\N	\N
+1066	tt0002904	The_Glove	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1067	tt0002905	The_Golden_Wedding	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1068	tt0002907	The_Governor%27s_Daughter	24	06	1910	\N	United States	\N	\N	\N	\N	\N
+1069	tt0002908	Graft	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1070	tt0002910	Granddad	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1071	tt0002911	The_Gratitude_of_Wanda	30	08	1913	\N	United States	\N	\N	\N	\N	\N
+1072	tt0002912	The_Great_Gold_Robbery	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1073	tt0002915	The_Green_Eye_of_the_Yellow_God	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1074	tt0002917	Brother_Against_Brother	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1075	tt0002918	The_Gunmaker_of_Moscow	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1076	tt0002919	The_Gusher	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1077	tt0002920	The_Gypsy_Queen	11	09	1913	\N	United States	Silent with English intertitles	\N	\N	\N	\N
+1078	tt0002922	Hamlet	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1079	tt0002925	Hard_Cash	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1080	tt0002929	The_Hat	\N	\N	1999	6	Canada	\N	\N	\N	\N	\N
+1081	tt0002932	He_Would_a_Hunting_Go	29	12	1913	\N	United States	\N	\N	\N	\N	\N
+1082	tt0002934	The_Heart_of_a_Cracksman	\N	\N	\N	\N	USA	Silent..English titles	\N	\N	\N	\N
+1083	tt0002940	Help!_Help!_Hydrophobia!	03	03	1913	\N	United States	\N	\N	\N	\N	\N
+1084	tt0002941	Her_Husband%27s_Friend	14	11	1920	\N	United States	Silent (English intertitles)	\N	\N	\N	\N
+1085	tt0002950	The_Hero_of_Little_Italy	03	04	1913	17	United States	Silent with English intertitles	\N	\N	\N	\N
+1086	tt0002954	Hiawatha	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1087	tt0002956	Hide_and_Seek	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1088	tt0002962	His_Blind_Power	\N	\N	\N	\N	USA	Silent..English titles	\N	\N	\N	\N
+1089	tt0002978	Hoodman_Blind	20	12	1923	60	United States	Silent (English intertitles)	\N	\N	\N	\N
+1090	tt0002981	An_Hour_Before_Dawn	\N	\N	\N	\N	USA	Silent with English titles	\N	\N	\N	\N
+1091	tt0002983	A_House_Divided	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1092	tt0002984	The_House_in_the_Tree	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1093	tt0002985	The_House_of_Darkness	10	05	1913	15	United States	\N	\N	\N	\N	\N
+1094	tt0002986	The_House_of_Discord	13	12	1913	20	United States	\N	\N	\N	\N	\N
+1095	tt0002989	How_It_Happened	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1096	tt0002990	How_Men_Propose	\N	\N	\N	\N	United States	\N	\N	\N	\N	\N
+1097	tt0002994	The_Hunchback	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1098	tt0002995	The_Hypnotist	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1099	tt0002996	My_Husband%27s_Getting_Married	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1100	tt0003000	The_Idler	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1101	tt0003001	If_We_Only_Knew	01	05	1913	\N	United States	\N	\N	\N	\N	\N
+1102	tt0003002	The_Firefly	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1103	tt0003004	In_Love_and_War	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1104	tt0003006	In_the_Bishop%27s_Carriage	10	09	1913	\N	United States	Silent (English intertitles)	\N	\N	\N	\N
+1105	tt0003007	In_the_Long_Ago	\N	\N	\N	\N	USA	Silent..English titles	\N	\N	\N	\N
+1106	tt0003011	An_Indian%27s_Loyalty	16	08	1913	17	United States	\N	\N	\N	\N	\N
+1107	tt0003014	Ingeborg_Holm	\N	\N	\N	\N	Sweden	Silent film	\N	\N	\N	\N
+1108	tt0003021	It_Is_Never_Too_Late_to_Mend	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1109	tt0003022	Ivanhoe	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+1110	tt0003028	The_Jew%27s_Christmas	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
