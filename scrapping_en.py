@@ -176,10 +176,18 @@ def scrap_en(lignes,dict_res,index_list,ind):
 
 if __name__ == '__main__':
     start = time.time()
-    all_film_titles = util.read_titles("data-5.tsv")[2000:3000] # title.basics
+    # dataset = "data-5.tsv"
+    lbnd = 2020
+    rbnd = 2024
+    dataset = 'data_2020-2024.tsv'
+    # save_path = 'scrapped_en.tsv'
+    save_path = 'scrapped_2020-2024.tsv'
+    all_film_titles = util.read_titles(dataset)[:200] # title.basics
     # traverse all film titles in imdb dataset
     request_texts = []
-    ind = 1111 #719/2000, 1110/3000
+    ind = 0 #719/2000,1110/3000,1506/4000,1981/5000,3020/7000,4316/9000,5631/11000,7582/15000,10034/20000,14816/30000
+    # 17365/35000,22717/45000,24901/50000,27073/55000,
+    # for accelerating: from 11010, only write data without a whole row of nan
     # index_list = [ind]
     for (index,film_title) in all_film_titles:
         try:
@@ -213,17 +221,28 @@ if __name__ == '__main__':
                 scrap_en(lignes,dict_res,index_list,ind)
                 # print(f"{index_list=}")
             df = pd.DataFrame(dict_res, index=index_list)
-            if ind==0:
-                df.to_csv('scrapped_en.tsv',sep='\t',na_rep='\\N',mode='a')
-                # write to the file 'scrapped_en.tsv', with seperator \t, representation of nan '\N', 
-                # and append to the file if it exists
-            else:
-                df.to_csv('scrapped_en.tsv',sep='\t',na_rep='\\N',header=False,mode='a') # don't write out column names
-            # df_all = pd.concat([df_all,df])
-            ind += 1
-            #reset dict after the write
-            for key in dict_res:
-               dict_res[key] = math.nan
+            all_nan = True
+            for k in dict_res:
+               if (k == 'Tconst du film') or (k == 'Titre du film'):
+                  continue
+               if dict_res[k] is not math.nan:
+                  all_nan = False
+                  break
+            if dict_res['Année de sortie'] is not math.nan:
+               if int(dict_res['Année de sortie'])<lbnd:
+                  continue                  
+            if not all_nan:
+              if ind==0:
+                  df.to_csv(save_path,sep='\t',na_rep='\\N',mode='a')
+                  # write to the file 'scrapped_en.tsv', with seperator \t, representation of nan '\N', 
+                  # and append to the file if it exists
+              else:
+                  df.to_csv(save_path,sep='\t',na_rep='\\N',header=False,mode='a') # don't write out column names
+              # df_all = pd.concat([df_all,df])
+              ind += 1
+              #reset dict after the write
+              for key in dict_res:
+                dict_res[key] = math.nan
         # print(df_all[:5])
         # util.save_scrapping('scrapped_en.tsv',df=df_all)
     end = time.time()
