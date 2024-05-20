@@ -28,4 +28,15 @@ Axes :
 + Estimer les revenus/box-office (en estimant le budget en fonction de l’équipe/des caractéristiques)
 
 
-...
+## Scrapper
+Étant donné que le marché du cinéma évolue très rapidement, pour atteindre nos objectifs, nous prévoyons d'analyser des données actuelles. Initialement, nous avons choisi d'extraire et d'analyser les données des films des cinq dernières années. Nous avons extrait de l'ensemble de données IMDB les films de 2020 à 2024 et constaté que, sur 250 000 films, seulement 1 428 disposaient à la fois de données sur les recettes au box-office et d'une page Wikipédia. Après avoir tracé la distribution des données de ces films, nous avons trouvé que la forme n'était pas claire, nous avons donc décidé d'ajouter davantage de données.
+
+## EDA
+
+
+
+## Prédiction du box-office 
+
+
+
+
