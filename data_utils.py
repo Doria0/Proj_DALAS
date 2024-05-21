@@ -1,6 +1,7 @@
 from urllib import request
 import bs4  # html parser
 import pandas as pd
+import numpy as np
 # import re
 import math
 # import data_utils as util
@@ -59,8 +60,44 @@ prefix_en = "https://en.wikipedia.org/wiki/"
 film_title_fr = "Le_Voyage_de_Chihiro"
 film_title_en = "Spirited_Away"
 
-## read in names of films from "data-2.tsv"
 
+def clean_data(df,cols_retain=[],cols_na=[]):
+    # missing values, outliers
+    # If we only want to keep a part of the original df
+    if len(cols_retain)!=0:
+        df = df[cols_retain]
+    # If we want to eliminate rows where some cols' values are missing
+    if len(cols_na)!=0:
+        for col in cols_na:
+            df.loc[df[col] == '\\N', col] = np.nan #inplace=True: change the df itself
+            # df.loc[<condition>,col_name]
+            df.dropna(subset=cols_na,inplace=True)
+    return df
+
+def aggregate_data(df,aggr=dict()):
+    # 对重复的电影ID进行分组，并聚合数据
+    # 假设 'budget' 和 'box_office' 是要保留的列，而 'country' 是需要合并的列
+    df_tmp = df.copy()
+    if len(aggr)!=0:
+        df_tmp.set_index(df_tmp.columns[0], inplace=True) # by default, set the unnamed (index) column as index
+        df_tmp = df_tmp.groupby(df_tmp.index).agg(aggr).reset_index()
+        # 查看处理后的 DataFrame
+        # df_cleaned.to_csv('test_cleaned.tsv',sep='\t')
+        # df_tmp.drop()
+    return df_tmp
+
+def join_data(dfs,keys,manner='inner'):
+    """
+    Args:
+        dfs: list, all dataframes to be joined
+        keys: list, key of jointure, index correspondent wt dfs
+    """
+    if len(dfs) == 0:
+        return pd.DataFrame()
+    df_res = dfs[0]
+    for i in range(len(dfs)):
+        df_res = pd.merge(df_res, dfs[i], on=keys[i], how='inner')
+    return df_res
 
 # all_film_titles = read_titles("data-2.tsv")[:10000]
 # traverse all film titles in imdb dataset
