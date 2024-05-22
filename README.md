@@ -74,5 +74,30 @@ Il est nécessaire de coder d'abord les différentes modalités des variables, p
 
 ex.XGBoost, pour apprendre les corrélations entre les variables et extraire les vars le plus importantes...
 
+----------------------------------------------------------
+## Rapport :
 
+### Introduction
+- Contexte
+- Problématique/Objectifs
+
+### Données
+- Dataset IMDB
+- Scraping Wikipedia
+
+### EDA
+- Traitement des valeurs manquantes + mise en forme (typage) des valeurs
+- Suppression des colonnes inutiles (ex : identifiants des films)
+- Visualisation des distributions des variables (une variable à la fois)
+- Visualisation des variables en fonction du box office
+- Corrélation/indépendance des variables avec le box office
+
+### Modélisation
+- Tester avec plusieurs modèles différents pour comparer leurs performances sur nos données
+
+### Dashboard
+- résultats de EDA ou Modélisation
+
+### Conclusion
+- Résumé du problème + résultats principaux + réponse à la problématique
 
