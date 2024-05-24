@@ -1,0 +1,1030 @@
+	tconst	Titre du film	Jour de sortie	Mois de sortie	Année de sortie	Durée	Pays	Langage	Budget max	Box office max
+0	tt0315642	Wazir	['08']	[1]	[2016]	104	['India']	Hindi	35.0	7628.0
+1	tt0364201	Aman Ke Farishtey	['20']	[5]	[2016]	137	['India']	Hindi	7000000.0	750000.0
+2	tt0369610	Jurassic World	['29']	[5]	[2015]	124	['United States']	English	150215000000.0	1671000000000.0
+3	tt0376479	American Pastoral	['09']	[9]	[2016]	108	['United States']	English	10000000.0	17000000.0
+4	tt0385887	Motherless Brooklyn	['30']	[8]	[2019]	144	['United States']	English	26000000.0	186000000.0
+5	tt0437086	Alita: Battle Angel	['31']	[1]	[2019]	122	['United States']	English	150200000000.0	405000000.0
+6	tt0441881	Danger Close	['08']	[8]	[2019]	118	['Australia']	English	24000000.0	2000000.0
+7	tt0443533	The History of Love	['07']	[9]	[2016]	134	['France','Canada','Romania','United States','Belgium']	\N	15000000.0	382687.0
+8	tt0448115	Shazam!	['28']	[3]	[2019]	132	['United States']	English	90100000000.0	3678000000.0
+9	tt0462335	High-Rise	['13']	[9]	[2015]	119	['United Kingdom']	English	61000000.0	41000000.0
+10	tt0475290	Hail, Caesar!	['01']	[2]	[2016]	106	['United States']	English	22000000.0	636000000.0
+11	tt0475290	Hail, Caesar!	['01']	[2]	[2016]	106	['United Kingdom']	English	22000000.0	636000000.0
+12	tt0478970	Ant-Man	['29']	[6]	[2015]	117	['United States']	English	1301693000000.0	5193000000.0
+13	tt0491175	Suburbicon	['02']	[9]	[2017]	105	['United States']	English	25000000.0	128000000.0
+14	tt0491203	Tulip Fever	['13']	[8]	[2017]	107	['United States']	English	25000000.0	92000000.0
+15	tt0491203	Tulip Fever	['13']	[8]	[2017]	107	['United Kingdom']	English	25000000.0	92000000.0
+16	tt0787524	The Man Who Knew Infinity	['17']	[9]	[2015]	108	['United Kingdom']	English	10000000.0	123000000.0
+17	tt0803096	Warcraft	['24']	[5]	[2016]	123	['United States']	English	160000000.0	4391000000.0
+18	tt0810819	The Danish Girl	['05']	[9]	[2015]	120	['United Kingdom']	English	15000000.0	642000000.0
+19	tt0810819	The Danish Girl	['05']	[9]	[2015]	120	['United States']	English	15000000.0	642000000.0
+20	tt0859635	Super Troopers 2	['20']	[4]	[2018]	100	['United States']	English	135000000.0	316000000.0
+21	tt0884732	The Wedding Ringer	['16']	[1]	[2015]	101	['United States']	English	23000000.0	798000000.0
+22	tt0918940	The Legend of Tarzan	['27']	[6]	[2016]	110	['Australia','United Kingdom','United States']	English	180000000.0	3567000000.0
+23	tt0974015	Justice League	['13']	[11]	[2017]	120	['United States']	English	300000000.0	6613000000.0
+24	tt10017680	P Storm	['04']	[4]	[2019]	96	['Hong Kong']	\N	25000000.0	118000000.0
+25	tt1002563	The Young Messiah	['11']	[3]	[2016]	111	['United States','South Korea']	\N	185000000.0	73000000.0
+26	tt10034560	Friend Request	['07']	[1]	[2016]	92	['Germany']	English	99000000.0	11000000.0
+27	tt10039088	Come What May	['10']	[10]	[2015]	114	['France']	\N	152000000.0	11000000.0
+28	tt10051290	Searching	['21']	[1]	[2018]	102	['United States']	English	880000.0	756000000.0
+29	tt10058344	The Friend	['06']	[9]	[2019]	124	['United States']	English	10000000.0	714255.0
+30	tt10064094	Little Boy	['24']	[4]	[2015]	107	['United States','Mexico']	English	20000000.0	177000000.0
+31	tt10075702	Nailed	['10']	[2]	[2015]	100	['United States']	English	26000000.0	139436.0
+32	tt10090868	Standing Tall	['13']	[5]	[2015]	119	['France']	French	6000000.0	52000000.0
+33	tt10098334	Flee	['28']	[1]	[2021]	90	['Denmark']	\N	34000000.0	2000000.0
+34	tt10098334	Flee	['28']	[1]	[2021]	90	['France']	\N	34000000.0	2000000.0
+35	tt10098334	Flee	['28']	[1]	[2021]	90	['Norway']	\N	34000000.0	2000000.0
+36	tt10098334	Flee	['28']	[1]	[2021]	90	['Sweden']	\N	34000000.0	2000000.0
+37	tt10098334	Flee	['28']	[1]	[2021]	90	['United Kingdom']	\N	34000000.0	2000000.0
+38	tt10098334	Flee	['28']	[1]	[2021]	90	['United States']	\N	34000000.0	2000000.0
+39	tt10131026	Apprentice	['16']	[5]	[2016]	96	['Singapore','Germany','France','Hong Kong','Qatar']	\N	18.0	52991.0
+40	tt1014763	Child 44	['17']	[4]	[2015]	137	['United States']	English	50000000.0	13000000.0
+41	tt1014763	Child 44	['17']	[4]	[2015]	137	['United Kingdom']	English	50000000.0	13000000.0
+42	tt1014763	Child 44	['17']	[4]	[2015]	137	['Czech Republic']	English	50000000.0	13000000.0
+43	tt1014763	Child 44	['17']	[4]	[2015]	137	['Romania']	English	50000000.0	13000000.0
+44	tt1014763	Child 44	['17']	[4]	[2015]	137	['Russia']	English	50000000.0	13000000.0
+45	tt10148170	Poor Things	['01']	[9]	[2023]	142	['Ireland']	English	35000000.0	1175000000.0
+46	tt10148170	Poor Things	['01']	[9]	[2023]	142	['United Kingdom']	English	35000000.0	1175000000.0
+47	tt10148170	Poor Things	['01']	[9]	[2023]	142	['United States']	English	35000000.0	1175000000.0
+48	tt10150628	Elle	['21']	[5]	[2016]	130	['France']	French	91000000.0	127000000.0
+49	tt10150628	Elle	['21']	[5]	[2016]	130	['Germany']	French	91000000.0	127000000.0
+50	tt10159778	Capture the Flag	['28']	[8]	[2015]	94	['Spain']	\N	125000000.0	246000000.0
+51	tt10192208	The Intervention	['26']	[1]	[2016]	88	['United States']	English	450000.0	32919.0
+52	tt10192598	Squat32	['11']	[4]	[2019]	\N	['Ukraine']	Ukrainian	125000000.0	5000000.0
+53	tt10195210	Looking Up	['18']	[7]	[2019]	147	['China']	Mandarin	70000000.0	123000000.0
+54	tt10215332	Civil War	['14']	[3]	[2024]	109	['United Kingdom']	English	50000000.0	1116000000.0
+55	tt10215332	Civil War	['14']	[3]	[2024]	109	['United States']	English	50000000.0	1116000000.0
+56	tt10219674	The Last Wish	['13']	[12]	[2022]	102	['United States']	English	90110000000.0	4853000000.0
+57	tt10233722	Joy	['13']	[12]	[2015]	124	['United States']	English	60000000.0	1011000000.0
+58	tt10234416	Rebels	['13']	[3]	[2019]	\N	['France']	French	52000000.0	73000000.0
+59	tt10249356	The Space Between Us	['03']	[2]	[2017]	120	['United States']	\N	30000000.0	1608000000.0
+60	tt1025100	Gemini Man	['01']	[10]	[2019]	117	['United States']	English	138000000.0	1735000000.0
+61	tt10255364	The Friend	['06']	[9]	[2019]	124	['United States']	English	10000000.0	714255.0
+62	tt10257822	Cold Blood	['15']	[5]	[2019]	93	['France']	English	27.0	1.0
+63	tt10262650	Harriet	['10']	[9]	[2019]	125	['United States']	English	17000000.0	44000000.0
+64	tt10267530	Polaroid	['10']	[1]	[2019]	88	['United States']	English	85000000.0	17000000.0
+65	tt10300670	Polaroid	['10']	[1]	[2019]	88	['United States']	English	85000000.0	17000000.0
+66	tt10313510	Covers	['29']	[5]	[2020]	113	['United States']	English	20000000.0	25000000.0
+67	tt10318530	The Organ Donor	['14']	[5]	[2021]	93	['United States']	English	20000000.0	406000000.0
+68	tt10337890	Pandora	['07']	[12]	[2016]	136	['South Korea']	Korean	530.0	32000000.0
+69	tt10354062	The Friend	['06']	[9]	[2019]	124	['United States']	English	10000000.0	714255.0
+70	tt10365664	Searching	['21']	[1]	[2018]	102	['United States']	English	880000.0	756000000.0
+71	tt10366926	Sonic the Movie	['25']	[1]	[2020]	99	['United States']	English	8590000000.0	3197000000.0
+72	tt10366926	Sonic the Movie	['25']	[1]	[2020]	99	['Japan']	English	8590000000.0	3197000000.0
+73	tt10404386	The Tax Collector	['30']	[7]	[2020]	95	['United States']	English	4000000.0	13000000.0
+74	tt10407272	Someone, Somewhere	['21']	[8]	[2019]	110	['France']	French	7000000.0	55000000.0
+75	tt10415212	Joy	['13']	[12]	[2015]	124	['United States']	English	60000000.0	1011000000.0
+76	tt10426506	Judy	['30']	[8]	[2019]	118	['United Kingdom']	English	10000000.0	46000000.0
+77	tt10426506	Judy	['30']	[8]	[2019]	118	['United States']	English	10000000.0	46000000.0
+78	tt10426506	Judy	['30']	[8]	[2019]	118	['France']	English	10000000.0	46000000.0
+79	tt10427738	Origin	['06']	[9]	[2023]	141	['United States']	English	38000000.0	49000000.0
+80	tt10428316	Natsamrat	['01']	[1]	[2016]	166	['India']	Marathi	7.0	48.0
+81	tt10436978	Game Night	['23']	[2]	[2018]	100	['United States']	English	37000000.0	1177000000.0
+82	tt10442492	Peninsula	['15']	[7]	[2020]	116	['South Korea']	\N	16000000.0	427000000.0
+83	tt10453658	Polaroid	['10']	[1]	[2019]	88	['United States']	English	85000000.0	17000000.0
+84	tt10467288	Dragon Blade	['18']	[2]	[2015]	127	['China']	\N	65000000.0	122.0
+85	tt10467288	Dragon Blade	['18']	[2]	[2015]	127	['Hong Kong']	\N	65000000.0	122.0
+86	tt10502136	Like a Boss	['07']	[1]	[2020]	83	['United States']	English	29000000.0	304000000.0
+87	tt10505284	Rocks	['05']	[9]	[2019]	93	['United Kingdom']	English	39000000.0	598859.0
+88	tt10514532	Into the Forest	['12']	[9]	[2015]	101	['Canada']	English	10000.0	37418.0
+89	tt10515494	Take 2	['26']	[1]	[2017]	108	['Singapore']	Mandarin	12000000.0	19000000.0
+90	tt1051904	Goosebumps	['05']	[8]	[2015]	103	['United States']	English	5884000000.0	1583000000.0
+91	tt10521004	Hit	['28']	[2]	[2020]	130	['India']	Telugu	62.0	11.0
+92	tt10521814	K-12	['03']	[9]	[2019]	92	['United States']	\N	56000000.0	359377.0
+93	tt10548776	Sleight	['23']	[1]	[2016]	89	['United States']	English	250000.0	4000000.0
+94	tt10550884	The Divine Fury	['31']	[7]	[2019]	129	['South Korea']	Korean	147000000000.0	118000000.0
+95	tt10568286	Lolo	['03']	[9]	[2015]	97	['France']	French	84000000.0	68000000.0
+96	tt10584418	Game Night	['23']	[2]	[2018]	100	['United States']	English	37000000.0	1177000000.0
+97	tt10588776	Based on a True Story	['27']	[5]	[2017]	110	['FrancePoland']	French	1296000000.0	39000000.0
+98	tt10597946	Underwater	['10']	[1]	[2020]	95	['United States']	English	5065000000.0	409000000.0
+99	tt10619418	L'Atelier	['22']	[5]	[2017]	114	['France']	French	4000000.0	1000000.0
+100	tt10619524	Backseat	['11']	[12]	[2018]	132	['United States']	English	60000000.0	761000000.0
+101	tt10623350	Aline	['13']	[7]	[2021]	128	['France','Canada']	\N	236.0	111000000.0
+102	tt10623456	Flee	['28']	[1]	[2021]	90	['Denmark']	\N	34000000.0	2000000.0
+103	tt10623456	Flee	['28']	[1]	[2021]	90	['France']	\N	34000000.0	2000000.0
+104	tt10623456	Flee	['28']	[1]	[2021]	90	['Norway']	\N	34000000.0	2000000.0
+105	tt10623456	Flee	['28']	[1]	[2021]	90	['Sweden']	\N	34000000.0	2000000.0
+106	tt10623456	Flee	['28']	[1]	[2021]	90	['United Kingdom']	\N	34000000.0	2000000.0
+107	tt10623456	Flee	['28']	[1]	[2021]	90	['United States']	\N	34000000.0	2000000.0
+108	tt10634604	The Founder	['07']	[12]	[2016]	115	['United States']	English	725000000.0	241000000.0
+109	tt10645250	Daddy's Home	['09']	[12]	[2015]	96	['United States']	English	50000000.0	2428000000.0
+110	tt10671988	Chips	['20']	[3]	[2017]	101	['United States']	English	25000000.0	268000000.0
+111	tt10685746	The Groom	['15']	[9]	[2016]	90	['Russia']	Russian	1500000.0	8294260.0
+112	tt10691612	Come Play	['30']	[10]	[2020]	96	['United States']	English	9000000.0	132000000.0
+113	tt10709404	Namma Veettu Pillai	['27']	[9]	[2019]	152	['India']	Tamil	40.0	70.0
+114	tt10711648	Comali	['15']	[8]	[2019]	141	['India']	Tamil	15.0	50.0
+115	tt10718946	Helios	['30']	[4]	[2015]	119	['Hong Kong  China']	\N	1826000000.0	3315000000.0
+116	tt1072748	Winchester	['02']	[2]	[2018]	99	['Australia','United States']	English	35000000.0	44000000.0
+117	tt10735358	Kurukshetra 3D	['09']	[8]	[2019]	185	['India']	Kannada	50.0	90.0
+118	tt10745918	Into the Forest	['12']	[9]	[2015]	101	['Canada']	English	10000.0	37418.0
+119	tt10755398	Wish	['08']	[11]	[2023]	95	['United States']	English	175200000000.0	255000000.0
+120	tt10767426	Text	['24']	[10]	[2019]	132	['Russia']	Russian	5000000.0	6305572.0
+121	tt10772056	Stronger	['08']	[9]	[2017]	119	['United States']	English	30000000.0	85000000.0
+122	tt10773940	A Ghost Story	['22']	[1]	[2017]	92	['United States']	\N	100000.0	2000000.0
+123	tt10778398	Pandora	['07']	[12]	[2016]	136	['South Korea']	Korean	530.0	32000000.0
+124	tt10807564	Underwater	['10']	[1]	[2020]	95	['United States']	English	5065000000.0	409000000.0
+125	tt10810134	Waves	['30']	[8]	[2019]	135	['United States']	English	6000000.0	26000000.0
+126	tt10819322	Lexi	['11']	[10]	[2019]	84	['United States','Canada']	English	512000000.0	93000000.0
+127	tt10825438	Odd Job	['01']	[8]	[2016]	100	['France']	French	88000000.0	3000000.0
+128	tt1082807	The Belko Experiment	['10']	[9]	[2016]	89	['United States']	English	5000000.0	111000000.0
+129	tt1083452	Eddie the Eagle	['12']	[12]	[2015]	106	['United Kingdom']	English	23000000.0	462000000.0
+130	tt1083452	Eddie the Eagle	['12']	[12]	[2015]	106	['United States']	English	23000000.0	462000000.0
+131	tt1083452	Eddie the Eagle	['12']	[12]	[2015]	106	['Germany']	English	23000000.0	462000000.0
+132	tt10837510	Game Night	['23']	[2]	[2018]	100	['United States']	English	37000000.0	1177000000.0
+133	tt10841624	Kicks	['14']	[4]	[2016]	87	['United States']	English	10000000.0	150191.0
+134	tt10846154	Lateef	['15']	[5]	[2015]	118	['India']	Hindi	46.0	67.0
+135	tt10883506	A Sun	['06']	[9]	[2019]	155	['Taiwan']	\N	44000000.0	20000000.0
+136	tt10888514	Noura's Dream	['\\N']	[9]	[2019]	92	['Tunisia','Belgium','France','Qatar','Netherlands']	Arabic	50000.0	80675.0
+137	tt10910394	A Taxi Driver	['02']	[8]	[2017]	137	['South Korea']	\N	15.0	887.0
+138	tt10912990	The Millions	['30']	[8]	[2019]	94	['Nigeria']	English	62000000.0	193000000.0
+139	tt10915128	Text	['24']	[10]	[2019]	132	['Russia']	Russian	5000000.0	6305572.0
+140	tt10917908	Horrorscope	['03']	[5]	[2024]	92	['United States']	English	8000000.0	299000000.0
+141	tt10918968	Alien Covenant	['04']	[5]	[2017]	122	['United Kingdom']	English	97111000000.0	2409000000.0
+142	tt10918968	Alien Covenant	['04']	[5]	[2017]	122	['United States']	English	97111000000.0	2409000000.0
+143	tt10924900	Mara	['07']	[9]	[2018]	\N	['United States']	English	5000000.0	661769.0
+144	tt10925770	Cheer Up, Mr. Lee	['11']	[9]	[2019]	111	['South Korea']	Korean	89000000000.0	87000000.0
+145	tt10954342	In the Room	['15']	[9]	[2015]	104	['Singapore']	\N	800000.0	48000.0
+146	tt10965300	Lola Igna	['12']	[9]	[2019]	122	['Philippines']	Filipino	1500000.0	3500000.0
+147	tt10969312	Jason Bourne	['11']	[7]	[2016]	123	['United States']	English	120000000.0	4155000000.0
+148	tt10978916	In the Deep	['12']	[6]	[2017]	85	['United Kingdom','United States']	English	53000000.0	626000000.0
+149	tt11019614	The Rider	['20']	[5]	[2017]	105	['United States']	English	80000.0	42000000.0
+150	tt11040562	Nope	['18']	[7]	[2022]	130	['United States']	English	68000000.0	1723000000.0
+151	tt1105355	Growing Up Smith	['01']	[6]	[2015]	103	['United States']	English	2000000.0	35300.0
+152	tt11069526	The Secrets We Keep	['16']	[9]	[2020]	97	['United States']	English	72000000.0	597576.0
+153	tt11083522	Wendy	['26']	[1]	[2020]	112	['United States']	English	6000000.0	266770.0
+154	tt11107678	Peter's To-Do List	['26']	[6]	[2019]	129	['United States']	English	160000000.0	1132000000000.0
+155	tt11115042	Pandora	['07']	[12]	[2016]	136	['South Korea']	Korean	530.0	32000000.0
+156	tt11122316	Ardab Mutiyaran	['18']	[10]	[2019]	\N	['India']	Punjabi	5.0	1.0
+157	tt11122462	Keeping up with the Joneses	['08']	[10]	[2016]	105	['United States']	English	40000000.0	299000000.0
+158	tt11171052	Unplanned	['29']	[3]	[2019]	106	['United States']	English	6000000.0	213000000.0
+159	tt11179054	Dark Fate	['23']	[10]	[2019]	128	['United States']	\N	185196000000.0	2611000000.0
+160	tt11184428	Sisu	['09']	[9]	[2022]	91	['Finland']	\N	6000000.0	143000000.0
+161	tt11198076	El Chicano	['22']	[9]	[2018]	107	['United States']	English	8000000.0	14000000.0
+162	tt11203682	Heart of the Sea	['07']	[12]	[2015]	122	['United States']	\N	100000000.0	943000000.0
+163	tt11203682	Heart of the Sea	['07']	[12]	[2015]	122	['Spain']	\N	100000000.0	943000000.0
+164	tt11204822	Underwater	['10']	[1]	[2020]	95	['United States']	English	5065000000.0	409000000.0
+165	tt11219476	Hiccup	['23']	[3]	[2018]	116	['India']	Hindi	20.0	215.0
+166	tt1124037	Free State of Jones	['16']	[6]	[2016]	140	['United States']	English	50000000.0	25000000.0
+167	tt11260296	Harley Quinn	['25']	[1]	[2020]	109	['United States']	English	82100000000.0	2055000000.0
+168	tt11263502	Seasons	['23']	[10]	[2015]	97	['FranceGermany']	French	30000000.0	114000000.0
+169	tt11285908	Ashfall	['19']	[12]	[2019]	128	['South Korea']	Korean	177000000.0	613000000.0
+170	tt11303334	Battle Angel	['31']	[1]	[2019]	122	['United States']	English	150200000000.0	405000000.0
+171	tt11321012	IF	['17']	[5]	[2024]	104	['United States']	English	110000000.0	577000000.0
+172	tt11333758	Answer the Call	['09']	[7]	[2016]	116	['United States']	English	144000000.0	2291000000.0
+173	tt11337502	Parabellum	['09']	[5]	[2019]	131	['United States']	English	75000000.0	3277000000.0
+174	tt11342886	Amin	['15']	[5]	[2018]	91	['France']	French	4000000.0	396000.0
+175	tt1137470	Accidental Love	['10']	[2]	[2015]	100	['United States']	English	26000000.0	139436.0
+176	tt11381178	Nailed	['10']	[2]	[2015]	100	['United States']	English	26000000.0	139436.0
+177	tt11384226	The Prodigy	['08']	[2]	[2019]	92	['United States']	English	6000000.0	211000000.0
+178	tt11384226	The Prodigy	['08']	[2]	[2019]	92	['Hong Kong']	English	6000000.0	211000000.0
+179	tt11384226	The Prodigy	['08']	[2]	[2019]	92	['Canada']	English	6000000.0	211000000.0
+180	tt11386470	The Hustle	['10']	[5]	[2019]	94	['United States']	English	21000000.0	974000000.0
+181	tt1139592	Jeepers Creepers III	['26']	[9]	[2017]	100	['United States']	English	62000000.0	3640000000.0
+182	tt11448684	Nailed	['10']	[2]	[2015]	100	['United States']	English	26000000.0	139436.0
+183	tt11454170	Start-Up	['18']	[12]	[2019]	102	['South Korea']	Korean	9.0	22715614.0
+184	tt11454246	It Comes at Night	['29']	[4]	[2017]	91	['United States']	English	5000000.0	20000000.0
+185	tt11469082	Uncharted	['07']	[2]	[2022]	116	['United States']	English	120000000.0	407000000.0
+186	tt11478294	All Eyes on Me	['14']	[6]	[2017]	140	['United States']	English	4045000000.0	557000000.0
+187	tt11488800	Kin	['31']	[8]	[2018]	102	['United States']	English	30000000.0	103000000.0
+188	tt11488800	Kin	['31']	[8]	[2018]	102	['Canada']	English	30000000.0	103000000.0
+189	tt11493206	Invisibles	['22']	[8]	[2018]	102	['France']	French	48000000.0	189000000.0
+190	tt11501616	Xmas	['16']	[11]	[2015]	101	['United States']	English	2533000000.0	524000000.0
+191	tt11564474	Landline	['20']	[1]	[2017]	93	['United States']	English	37000000.0	940854.0
+192	tt11580682	Next Gen	['07']	[9]	[2018]	105	['United States']	\N	30000000.0	24000000.0
+193	tt11580682	Next Gen	['07']	[9]	[2018]	105	['Canada']	\N	30000000.0	24000000.0
+194	tt11580682	Next Gen	['07']	[9]	[2018]	105	['China']	\N	30000000.0	24000000.0
+195	tt11610450	A Walk in the Woods	['23']	[1]	[2015]	104	['United States']	English	8000000.0	36000000.0
+196	tt11674756	The Friend	['06']	[9]	[2019]	124	['United States']	English	10000000.0	714255.0
+197	tt11675688	2018	['05']	[5]	[2023]	148	['India']	Malayalam	26.0	176.0
+198	tt11679758	The Hustle	['10']	[5]	[2019]	94	['United States']	English	21000000.0	974000000.0
+199	tt11689898	Waves	['30']	[8]	[2019]	135	['United States']	English	6000000.0	26000000.0
+200	tt11717512	Sputnik	['23']	[4]	[2020]	113	['Russia']	Russian	190.0	354023.0
+201	tt11744320	Our Place	['30']	[1]	[2017]	117	['France','Belgium']	French	58000000.0	22000000.0
+202	tt1178665	A Walk in the Woods	['23']	[1]	[2015]	104	['United States']	English	8000000.0	36000000.0
+203	tt1179933	10 Cloverfield Lane	['08']	[3]	[2016]	104	['United States']	English	1315000000.0	1102000000.0
+204	tt11889258	The Batman	['01']	[3]	[2022]	176	['United States']	English	185200000000.0	7722000000.0
+205	tt11906540	Stronger	['08']	[9]	[2017]	119	['United States']	English	30000000.0	85000000.0
+206	tt11921422	Night Swim	['05']	[1]	[2024]	98	['United States']	English	15000000.0	541000000.0
+207	tt11986982	Game Night	['23']	[2]	[2018]	100	['United States']	English	37000000.0	1177000000.0
+208	tt1206885	Rambo: Last Blood	['20']	[9]	[2019]	89	['United States']	\N	50000000.0	951000000.0
+209	tt12089212	Slenderman	['10']	[8]	[2018]	100	['United States']	English	1028000000.0	517000000.0
+210	tt1212428	The Lost City of Z	['15']	[10]	[2016]	\N	['United States']	English	30000000.0	193000000.0
+211	tt1213641	First Man	['29']	[8]	[2018]	141	['United States']	English	70000000.0	1057000000.0
+212	tt12157106	Supreme	['05']	[5]	[2016]	142	['India']	Telugu	15.0	4405.0
+213	tt12196362	Polaroid	['10']	[1]	[2019]	88	['United States']	English	85000000.0	17000000.0
+214	tt1220911	Animal Kingdom: Let's Go Ape	['08']	[4]	[2015]	113	['BelgiumChinaFranceItaly']	\N	32000000.0	143000000.0
+215	tt12222322	Landline	['20']	[1]	[2017]	93	['United States']	English	37000000.0	940854.0
+216	tt12235150	Lolo	['03']	[9]	[2015]	97	['France']	French	84000000.0	68000000.0
+217	tt12240392	Monster Hunter	['03']	[12]	[2020]	103	['Germany']	English	60000000.0	478000000.0
+218	tt12240392	Monster Hunter	['03']	[12]	[2020]	103	['China']	English	60000000.0	478000000.0
+219	tt12240392	Monster Hunter	['03']	[12]	[2020]	103	['United States']	English	60000000.0	478000000.0
+220	tt12240392	Monster Hunter	['03']	[12]	[2020]	103	['Japan']	English	60000000.0	478000000.0
+221	tt1226766	The Great Gilly Hopkins	['06']	[10]	[2015]	99	['United States']	English	5000000.0	97798.0
+222	tt12281018	Polaroid	['10']	[1]	[2019]	88	['United States']	English	85000000.0	17000000.0
+223	tt1230168	Same Kind of Different as Me	['20']	[10]	[2017]	119	['United States']	English	65000000.0	64000000.0
+224	tt12385320	Origin	['06']	[9]	[2023]	141	['United States']	English	38000000.0	49000000.0
+225	tt12480614	Polaroid	['10']	[1]	[2019]	88	['United States']	English	85000000.0	17000000.0
+226	tt12526088	Bad Boys for Life	['17']	[1]	[2020]	124	['United States']	English	90000000.0	4265000000.0
+227	tt12539758	Living in Bondage: Breaking Free	['08']	[11]	[2019]	149	['Nigeria']	\N	10000000.0	1687000000.0
+228	tt1255919	Holmes & Watson	['25']	[12]	[2018]	90	['United States Canada']	English	42000000.0	419000000.0
+229	tt12578016	Kicks	['14']	[4]	[2016]	87	['United States']	English	10000000.0	150191.0
+230	tt1259528	Den of Thieves	['19']	[1]	[2018]	140	['United States']	English	30000000.0	805000000.0
+231	tt12643242	Maggie	['22']	[4]	[2015]	95	['United States']	English	14000000.0	16000000.0
+232	tt12643242	Maggie	['22']	[4]	[2015]	95	['Switzerland']	English	14000000.0	16000000.0
+233	tt12650356	Pandora	['07']	[12]	[2016]	136	['South Korea']	Korean	530.0	32000000.0
+234	tt1273221	London Fields	['20']	[9]	[2018]	102	['United Kingdom']	English	8000000.0	487420.0
+235	tt1273221	London Fields	['20']	[9]	[2018]	102	['United States']	English	8000000.0	487420.0
+236	tt12834138	Piety	['03']	[7]	[2022]	80	['Spain','Argentina']	\N	934000.0	18600.0
+237	tt1285009	The Strangers: Prey at Night	['09']	[3]	[2018]	85	['United States']	English	5000000.0	321000000.0
+238	tt1285009	The Strangers: Prey at Night	['09']	[3]	[2018]	85	['United Kingdom']	English	5000000.0	321000000.0
+239	tt12872180	Joy	['13']	[12]	[2015]	124	['United States']	English	60000000.0	1011000000.0
+240	tt12881108	Incarnate	['02']	[12]	[2016]	87	['United States']	English	5000000.0	9000000.0
+241	tt12901938	Invisibles	['22']	[8]	[2018]	102	['France']	French	48000000.0	189000000.0
+242	tt12907920	Game Night	['23']	[2]	[2018]	100	['United States']	English	37000000.0	1177000000.0
+243	tt1292566	How to Be Single	['09']	[2]	[2016]	110	['United States']	English	38000000.0	1123000000.0
+244	tt1293847	xXx: Return of Xander Cage	['05']	[1]	[2017]	107	['United States']	English	85000000.0	3461000000.0
+245	tt1298644	The Hustle	['10']	[5]	[2019]	94	['United States']	English	21000000.0	974000000.0
+246	tt12998432	Arrival	['01']	[9]	[2016]	116	['United States']	English	47000000.0	2034000000.0
+247	tt13010498	Monos	['27']	[1]	[2019]	103	['Colombia']	Spanish	2000000.0	13000000.0
+248	tt13010498	Monos	['27']	[1]	[2019]	103	['Argentina']	Spanish	2000000.0	13000000.0
+249	tt13010498	Monos	['27']	[1]	[2019]	103	['Netherlands']	Spanish	2000000.0	13000000.0
+250	tt13010498	Monos	['27']	[1]	[2019]	103	['Germany']	Spanish	2000000.0	13000000.0
+251	tt13010498	Monos	['27']	[1]	[2019]	103	['Sweden']	Spanish	2000000.0	13000000.0
+252	tt13010498	Monos	['27']	[1]	[2019]	103	['Uruguay']	Spanish	2000000.0	13000000.0
+253	tt13010498	Monos	['27']	[1]	[2019]	103	['United States']	Spanish	2000000.0	13000000.0
+254	tt13010498	Monos	['27']	[1]	[2019]	103	['Switzerland']	Spanish	2000000.0	13000000.0
+255	tt13010498	Monos	['27']	[1]	[2019]	103	['Denmark']	Spanish	2000000.0	13000000.0
+256	tt1302006	The Irishman	['27']	[9]	[2019]	209	['United States']	English	159250000000.0	8000000.0
+257	tt1308728	The Happytime Murders	['24']	[8]	[2018]	91	['United States']	English	4047000000.0	275000000.0
+258	tt13121650	Minus One	['18']	[10]	[2023]	125	['Japan']	Japanese	1012000000.0	1158000000.0
+259	tt13173822	Game Night	['23']	[2]	[2018]	100	['United States']	English	37000000.0	1177000000.0
+260	tt1318517	The Man Who Killed Don Quixote	['19']	[5]	[2018]	132	['United KingdomBelgiumFrancePortugalSpain']	English	16000000.0	24000000.0
+261	tt13229296	Lucid Dream	['22']	[2]	[2017]	101	['South Korea']	Korean	5000000.0	676598.0
+262	tt13249576	Waves	['30']	[8]	[2019]	135	['United States']	English	6000000.0	26000000.0
+263	tt13254298	Turn Around	['29']	[9]	[2017]	108	['Taiwan']	Mandarin	70000000.0	38600000.0
+264	tt13340964	Kalinka	['16']	[3]	[2016]	86	['FranceGermany']	French	86000000.0	11000000.0
+265	tt13384170	Gucci	['09']	[11]	[2021]	158	['United States']	English	75000000.0	1662000000.0
+266	tt1340138	Terminator Genisys	['22']	[6]	[2015]	126	['United States']	English	155158000000.0	4406000000.0
+267	tt1355683	Black Mass	['04']	[9]	[2015]	123	['United States']	English	53000000.0	100000000.0
+268	tt13589498	Seasons	['23']	[10]	[2015]	97	['France','Germany']	French	30000000.0	114000000.0
+269	tt1365050	Beasts of No Nation	['03']	[9]	[2015]	138	['United States']	\N	6000000.0	90777.0
+270	tt1365519	Tomb Raider	['02']	[3]	[2018]	118	['United Kingdom']	English	90106000000.0	2747000000.0
+271	tt1365519	Tomb Raider	['02']	[3]	[2018]	118	['United States']	English	90106000000.0	2747000000.0
+272	tt1366338	Lowriders	['01']	[6]	[2016]	99	['United States']	English	5000000.0	63000000.0
+273	tt1374989	Pride and Prejudice and Zombies	['21']	[1]	[2016]	108	['United Kingdom']	English	28000000.0	164000000.0
+274	tt1374989	Pride and Prejudice and Zombies	['21']	[1]	[2016]	108	['United States']	English	28000000.0	164000000.0
+275	tt13808930	The Masterpiece	['12']	[3]	[2017]	103	['United States']	English	10000000.0	298000000.0
+276	tt1389072	Downsizing	['30']	[8]	[2017]	135	['United States']	English	6876000000.0	55000000.0
+277	tt1390411	In the Heart of the Sea	['07']	[12]	[2015]	122	['United States']	\N	100000000.0	943000000.0
+278	tt1390411	In the Heart of the Sea	['07']	[12]	[2015]	122	['Spain']	\N	100000000.0	943000000.0
+279	tt1392190	Mad Max: Fury Road	['07']	[5]	[2015]	120	['Australia']	English	15461851000000.0	3804000000.0
+280	tt1392190	Mad Max: Fury Road	['07']	[5]	[2015]	120	['United States']	English	15461851000000.0	3804000000.0
+281	tt13954150	Survivor	['29']	[5]	[2015]	96	['United States', 'United Kingdom']	English	20000000.0	3839100.0
+282	tt1398426	Straight Outta Compton	['11']	[8]	[2015]	147	['United States']	English	2850000000.0	2016000000.0
+283	tt13985382	Regression	['18']	[9]	[2015]	106	['Canada']	English	15000000.0	177000000.0
+284	tt13985382	Regression	['18']	[9]	[2015]	106	['Spain']	English	15000000.0	177000000.0
+285	tt1412528	Table 19	['03']	[3]	[2017]	87	['United States']	English	5000000.0	5000000.0
+286	tt1413492	12 Strong	['16']	[1]	[2018]	129	['United States']	English	35000000.0	711000000.0
+287	tt1431045	Deadpool	['08']	[2]	[2016]	108	['United States']	English	58000000.0	7828000000.0
+288	tt14408668	The Last Wish	['13']	[12]	[2022]	102	['United States']	English	90110000000.0	4853000000.0
+289	tt14539708	Where the Wind Blows	['15']	[8]	[2022]	144	['Hong Kong']	Cantonese	38000000.0	87000000.0
+290	tt1469304	Baywatch	['13']	[5]	[2017]	116	['United States']	English	6569000000.0	1779000000.0
+291	tt14712638	Flower	['20']	[4]	[2017]	93	['United States']	English	500000.0	380553.0
+292	tt1472584	Max Steel	['14']	[10]	[2016]	92	['United States']	English	10000000.0	63000000.0
+293	tt1472584	Max Steel	['14']	[10]	[2016]	92	['United Kingdom']	English	10000000.0	63000000.0
+294	tt1473832	Bridget Jones's Baby	['05']	[9]	[2016]	123	['United Kingdom']	English	35000000.0	212000000.0
+295	tt1473832	Bridget Jones's Baby	['05']	[9]	[2016]	123	['United States']	English	35000000.0	212000000.0
+296	tt1473832	Bridget Jones's Baby	['05']	[9]	[2016]	123	['France']	English	35000000.0	212000000.0
+297	tt1477834	Aquaman	['26']	[11]	[2018]	143	['United States']	English	160200000000.0	1152000000000.0
+298	tt1478839	The Art of Racing in the Rain	['09']	[8]	[2019]	109	['United States']	English	1820000000.0	338000000.0
+299	tt1485796	The Greatest Showman	['08']	[12]	[2017]	105	['United States']	English	84000000.0	435000000.0
+300	tt1489887	Booksmart	['10']	[3]	[2019]	105	['United States']	English	6000000.0	25000000.0
+301	tt1489889	Central Intelligence	['10']	[6]	[2016]	108	['United States']	English	50000000.0	217000000.0
+302	tt1490785	I Saw the Light	['11']	[9]	[2015]	123	['United States']	English	13000000.0	18000000.0
+303	tt14940548	Hacked	['07']	[2]	[2020]	118	['India']	Hindi	450.0	182.0
+304	tt14955722	I Believe in Miracles	['13']	[10]	[2015]	104	['United Kingdom']	English	500000.0	239770.0
+305	tt14993546	The Devil's Harvest	['24']	[2]	[2017]	103	['Canada','United Kingdom']	English	21000000.0	5000000.0
+306	tt1519461	Area 51	['15']	[5]	[2015]	95	['United States']	English	5000000.0	7556.0
+307	tt15222902	Desierto	['13']	[9]	[2015]	88	['Mexico']	\N	3000000.0	49000000.0
+308	tt15222902	Desierto	['13']	[9]	[2015]	88	['France']	\N	3000000.0	49000000.0
+309	tt1524575	The Vatican Tapes	['24']	[7]	[2015]	91	['United States']	\N	13000000.0	135000000.0
+310	tt1528854	Daddy's Home	['09']	[12]	[2015]	96	['United States']	English	50000000.0	2428000000.0
+311	tt1536537	What Happened to Monday	['05']	[8]	[2017]	123	['United Kingdom']	English	20000000.0	28000000.0
+312	tt1536537	What Happened to Monday	['05']	[8]	[2017]	123	['United States']	English	20000000.0	28000000.0
+313	tt1536537	What Happened to Monday	['05']	[8]	[2017]	123	['France']	English	20000000.0	28000000.0
+314	tt1536537	What Happened to Monday	['05']	[8]	[2017]	123	['Belgium']	English	20000000.0	28000000.0
+315	tt1540011	Blair Witch	['22']	[7]	[2016]	89	['United States']	English	5000000.0	452000000.0
+316	tt1540011	Blair Witch	['22']	[7]	[2016]	89	['Canada']	English	5000000.0	452000000.0
+317	tt15576760	Life on the Road	['19']	[8]	[2016]	96	['United Kingdom']	English	10000000.0	52000000.0
+318	tt1560220	Zombieland: Double Tap	['10']	[10]	[2019]	99	['United States']	English	4248000000.0	1252000000.0
+319	tt1571234	Mortal Engines	['27']	[11]	[2018]	128	['New Zealand']	English	100150000000.0	837000000.0
+320	tt1571234	Mortal Engines	['27']	[11]	[2018]	128	['United States']	English	100150000000.0	837000000.0
+321	tt15779624	2	['14']	[7]	[2017]	102	['India']	Kannada	15.0	1025.0
+322	tt1590193	The Commuter	['08']	[1]	[2018]	105	['United States']	English	30000000.0	1199000000.0
+323	tt1590193	The Commuter	['08']	[1]	[2018]	105	['United Kingdom']	English	30000000.0	1199000000.0
+324	tt1590193	The Commuter	['08']	[1]	[2018]	105	['France']	English	30000000.0	1199000000.0
+325	tt1594972	Norm of the North	['15']	[1]	[2016]	90	['United States']	English	18000000.0	305000000.0
+326	tt1596363	The Big Short	['12']	[11]	[2015]	130	['United States']	English	50000000.0	1334000000.0
+327	tt1608290	Zoolander 2	['04']	[2]	[2016]	102	['United States']	English	5055000000.0	567000000.0
+328	tt1617661	Jupiter Ascending	['27']	[1]	[2015]	127	['United States']	English	176210000000.0	184000000.0
+329	tt1617661	Jupiter Ascending	['27']	[1]	[2015]	127	['Australia']	English	176210000000.0	184000000.0
+330	tt1618442	The Last Witch Hunter	['13']	[10]	[2015]	106	['United States']	English	7190000000.0	1469000000.0
+331	tt1620935	Bleed for This	['02']	[9]	[2016]	117	['United States']	English	16000000.0	72000000.0
+332	tt16280432	Another Day in America	['29']	[11]	[2021]	156	['United States']	\N	100000000.0	76000000.0
+333	tt1628841	Independence Day: Resurgence	['20']	[6]	[2016]	120	['United States']	English	165000000.0	3897000000.0
+334	tt1638355	The Man from U.N.C.L.E.	['02']	[8]	[2015]	116	['United States','United Kingdom']	English	75000000.0	110000000.0
+335	tt1655441	The Age of Adaline	['24']	[4]	[2015]	113	['United States']	English	25000000.0	657000000.0
+336	tt1658801	Freeheld	['13']	[9]	[2015]	103	['United States']	English	7000000.0	17000000.0
+337	tt1659611	The Roommates Party	['23']	[12]	[2015]	106	['France']	French	122000000.0	86000000.0
+338	tt1659619	The Odyssey	['23']	[8]	[2016]	122	['France','Belgium']	French	225000000.0	98000000.0
+339	tt1666185	All Eyez on Me	['14']	[6]	[2017]	140	['United States']	English	4045000000.0	557000000.0
+340	tt1666801	The DUFF	['12']	[2]	[2015]	101	['United States']	English	85000000.0	437000000.0
+341	tt1667354	The Painted Bird	['03']	[9]	[2019]	169	['Czech Republic']	\N	75000000.0	662505.0
+342	tt1667354	The Painted Bird	['03']	[9]	[2019]	169	['Slovakia']	\N	75000000.0	662505.0
+343	tt1667354	The Painted Bird	['03']	[9]	[2019]	169	['Ukraine']	\N	75000000.0	662505.0
+344	tt1668016	A Real Vermeer	['03']	[11]	[2016]	115	['Netherlands','Belgium','Luxembourg']	Dutch	39000000.0	92906.0
+345	tt1674771	Entourage	['27']	[5]	[2015]	104	['United States']	English	2739000000.0	493000000.0
+346	tt1677720	Ready Player One	['11']	[3]	[2018]	140	['United States']	English	155175000000.0	6079000000.0
+347	tt1679335	Trolls	['08']	[10]	[2016]	93	['United States']	English	125000000.0	347000000.0
+348	tt1691916	Before I Fall	['21']	[1]	[2017]	99	['United States']	English	5000000.0	189000000.0
+349	tt1700841	Sausage Party	['14']	[3]	[2016]	89	['United States']	English	19000000.0	1413000000.0
+350	tt1700841	Sausage Party	['14']	[3]	[2016]	89	['Canada']	English	19000000.0	1413000000.0
+351	tt1702429	Eisenstein in Guanajuato	['11']	[2]	[2015]	105	['Netherlands']	\N	2472000000.0	78542.0
+352	tt1702429	Eisenstein in Guanajuato	['11']	[2]	[2015]	105	['Mexico']	\N	2472000000.0	78542.0
+353	tt1702429	Eisenstein in Guanajuato	['11']	[2]	[2015]	105	['Belgium']	\N	2472000000.0	78542.0
+354	tt1702429	Eisenstein in Guanajuato	['11']	[2]	[2015]	105	['Finland']	\N	2472000000.0	78542.0
+355	tt1702429	Eisenstein in Guanajuato	['11']	[2]	[2015]	105	['France']	\N	2472000000.0	78542.0
+356	tt1711525	Office Christmas Party	['05']	[12]	[2016]	105	['United States']	English	45000000.0	1145000000.0
+357	tt1712192	Message from the King	['08']	[9]	[2016]	102	['United States']	English	10000000.0	315132.0
+358	tt1712192	Message from the King	['08']	[9]	[2016]	102	['United Kingdom']	English	10000000.0	315132.0
+359	tt1712192	Message from the King	['08']	[9]	[2016]	102	['France']	English	10000000.0	315132.0
+360	tt1712192	Message from the King	['08']	[9]	[2016]	102	['Belgium']	English	10000000.0	315132.0
+361	tt1712261	Triple 9	['16']	[2]	[2016]	116	['United States']	English	20000000.0	259000000.0
+362	tt1724970	Beyond Skyline	['14']	[10]	[2017]	105	['United States']	English	14000000.0	992181.0
+363	tt1727776	Scouts Guide to the Zombie Apocalypse	['30']	[10]	[2015]	93	['United States']	English	1524000000.0	161000000.0
+364	tt1727824	Bohemian Rhapsody	['23']	[10]	[2018]	135	['United Kingdom']	English	5055000000.0	9108000000.0
+365	tt1727824	Bohemian Rhapsody	['23']	[10]	[2018]	135	['United States']	English	5055000000.0	9108000000.0
+366	tt1730768	The Zookeeper's Wife	['08']	[3]	[2017]	126	['United States']	\N	20000000.0	262000000.0
+367	tt1730768	The Zookeeper's Wife	['08']	[3]	[2017]	126	['United Kingdom']	\N	20000000.0	262000000.0
+368	tt1730768	The Zookeeper's Wife	['08']	[3]	[2017]	126	['Czech Republic']	\N	20000000.0	262000000.0
+369	tt1731701	Barely Lethal	['29']	[5]	[2015]	98	['United States']	English	15000000.0	933847.0
+370	tt1734579	Lost in Munich	['08']	[10]	[2015]	120	['Czech Republic']	Czech	7000000.0	115922.0
+371	tt1741273	Secret in Their Eyes	['11']	[11]	[2015]	111	['United States','United Kingdom','South Korea','Spain']	English	195000000.0	349000000.0
+372	tt1753383	A Dog's Purpose	['27']	[1]	[2017]	100	['United States']	English	22000000.0	205000000.0
+373	tt1772288	Danny Collins	['20']	[3]	[2015]	107	['United States']	English	10000000.0	108000000.0
+374	tt1773753	Mara	['07']	[9]	[2018]	\N	['United States']	English	5000000.0	661769.0
+375	tt1780967	Seberg	['30']	[8]	[2019]	102	['United States']	English	8000000.0	675808.0
+376	tt1780967	Seberg	['30']	[8]	[2019]	102	['United Kingdom']	English	8000000.0	675808.0
+377	tt1781827	Hands of Stone	['16']	[5]	[2016]	111	['United States']	\N	20000000.0	5000000.0
+378	tt1781827	Hands of Stone	['16']	[5]	[2016]	111	['Panama']	\N	20000000.0	5000000.0
+379	tt17886698	Polaroid	['10']	[1]	[2019]	88	['United States']	English	85000000.0	17000000.0
+380	tt1790809	Pirates of the Caribbean: Dead Men Tell No Tales	['11']	[5]	[2017]	129	['United States']	English	230320000000.0	7959000000.0
+381	tt1798603	Bad Santa 2	['15']	[11]	[2016]	92	['Canada','United Kingdom','United States']	English	26000000.0	241000000.0
+382	tt1798684	Southpaw	['15']	[6]	[2015]	123	['United States']	English	30000000.0	95000000.0
+383	tt1798684	Southpaw	['15']	[6]	[2015]	123	['China']	English	30000000.0	95000000.0
+384	tt1806913	Golmaal Again	['20']	[10]	[2017]	152	['India']	Hindi	70.0	31098.0
+385	tt1810683	Little Boy	['24']	[4]	[2015]	107	['United States','Mexico']	English	20000000.0	177000000.0
+386	tt1817771	Freaks of Nature	['30']	[10]	[2015]	92	['United States']	English	33000000.0	70958.0
+387	tt18227234	Guptodhon	['27']	[4]	[2018]	133	['India']	Bengali	2.0	5.0
+388	tt1823672	Chappie	['04']	[3]	[2015]	120	['United States']	\N	49000000.0	1021000000.0
+389	tt1825683	Black Panther	['29']	[1]	[2018]	134	['United States']	English	200000000.0	1349000000000.0
+390	tt18260378	Hello Mumbai	['09']	[8]	[2016]	110	['Iran','India']	\N	2000000.0	39000000.0
+391	tt18288640	Fallen Leaves	['22']	[5]	[2023]	81	['Finland']	Finnish	14000000.0	86000000.0
+392	tt18288640	Fallen Leaves	['22']	[5]	[2023]	81	['Germany']	Finnish	14000000.0	86000000.0
+393	tt1837636	Queen of the Desert	['06']	[2]	[2015]	128	['United States']	English	36000000.0	2000000.0
+394	tt1846589	Hunter Killer	['26']	[10]	[2018]	121	['United States']	English	40000000.0	317000000.0
+395	tt1856057	Phantom Boy	['12']	[9]	[2015]	84	['France','Belgium']	French	55000000.0	221016.0
+396	tt1856101	Blade Runner 2049	['03']	[10]	[2017]	163	['United States']	English	150185000000.0	2677000000.0
+397	tt1860213	Dirty Grandpa	['22']	[1]	[2016]	102	['United States']	English	115000000.0	1051000000.0
+398	tt1860357	Deepwater Horizon	['13']	[9]	[2016]	107	['United States']	English	156000000.0	1218000000.0
+399	tt1878870	The Edge of Seventeen	['16']	[9]	[2016]	104	['United States']	English	9000000.0	194000000.0
+400	tt1881002	Maggie	['22']	[4]	[2015]	95	['United States']	English	14000000.0	16000000.0
+401	tt1881002	Maggie	['22']	[4]	[2015]	95	['Switzerland']	English	14000000.0	16000000.0
+402	tt1881109	Zeroville	['20']	[9]	[2019]	96	['United States']	English	6000000.0	78293.0
+403	tt18937320	The Groom	['15']	[9]	[2016]	90	['Russia']	Russian	1500000.0	8294260.0
+404	tt1895587	Spotlight	['03']	[9]	[2015]	129	['United States']	English	20000000.0	987000000.0
+405	tt1901024	Dark Crimes	['12']	[10]	[2016]	92	['Poland']	English	38000000.0	21216.0
+406	tt1901024	Dark Crimes	['12']	[10]	[2016]	92	['United States']	English	38000000.0	21216.0
+407	tt19117396	Into the Forest	['12']	[9]	[2015]	101	['Canada']	English	10000.0	37418.0
+408	tt1920885	Big Fish & Begonia	['08']	[7]	[2016]	105	['China']	Mandarin	30000000.0	799000000.0
+409	tt1921098	Stronger	['08']	[9]	[2017]	119	['United States']	English	30000000.0	85000000.0
+410	tt1935194	Overdrive	['15']	[6]	[2017]	93	['France']	\N	243000000.0	96000000.0
+411	tt1935194	Overdrive	['15']	[6]	[2017]	93	['Belgium']	\N	243000000.0	96000000.0
+412	tt1935194	Overdrive	['15']	[6]	[2017]	93	['United States']	\N	243000000.0	96000000.0
+413	tt1935859	Miss Peregrine's Home for Peculiar Children	['25']	[9]	[2016]	127	['United Kingdom','United States']	English	110000000.0	2965000000.0
+414	tt19383500	Trainer	['19']	[4]	[2018]	138	['Russia']	Russian	390000000.0	900655221.0
+415	tt1946502	UglyDolls	['03']	[5]	[2019]	87	['United States']	\N	4553000000.0	325000000.0
+416	tt1946502	UglyDolls	['03']	[5]	[2019]	87	['Canada']	\N	4553000000.0	325000000.0
+417	tt1946502	UglyDolls	['03']	[5]	[2019]	87	['China']	\N	4553000000.0	325000000.0
+418	tt1950135	Drunk Wedding	['22']	[5]	[2015]	81	['United States']	English	600000.0	3301.0
+419	tt1950186	Ford v Ferrari	['30']	[8]	[2019]	152	['United States']	English	976000000.0	2255000000.0
+420	tt1951266	The Hunger Games: Mockingjay - Part 2	['04']	[11]	[2015]	137	['United States']	English	160000000.0	6614000000.0
+421	tt1959563	The Hitman's Bodyguard	['18']	[8]	[2017]	118	['Bulgaria']	English	69000000.0	1834000000.0
+422	tt1959563	The Hitman's Bodyguard	['18']	[8]	[2017]	118	['Canada']	English	69000000.0	1834000000.0
+423	tt1959563	The Hitman's Bodyguard	['18']	[8]	[2017]	118	['Hong Kong']	English	69000000.0	1834000000.0
+424	tt1959563	The Hitman's Bodyguard	['18']	[8]	[2017]	118	['Netherlands']	English	69000000.0	1834000000.0
+425	tt1959563	The Hitman's Bodyguard	['18']	[8]	[2017]	118	['United States']	English	69000000.0	1834000000.0
+426	tt1961175	American Assassin	['15']	[9]	[2017]	111	['United States']	English	33000000.0	672000000.0
+427	tt1964418	Tomorrowland	['09']	[5]	[2015]	130	['United States']	English	180190000000.0	209000000.0
+428	tt1966359	Father Figures	['13']	[12]	[2017]	113	['United States']	English	25000000.0	256000000.0
+429	tt1972591	King Arthur: Legend of the Sword	['08']	[5]	[2017]	126	['Australia']	English	175000000.0	1487000000.0
+430	tt1972591	King Arthur: Legend of the Sword	['08']	[5]	[2017]	126	['United Kingdom']	English	175000000.0	1487000000.0
+431	tt1972591	King Arthur: Legend of the Sword	['08']	[5]	[2017]	126	['United States']	English	175000000.0	1487000000.0
+432	tt1974419	The Neon Demon	['20']	[5]	[2016]	117	['France']	English	75000000.0	36000000.0
+433	tt1974419	The Neon Demon	['20']	[5]	[2016]	117	['Denmark']	English	75000000.0	36000000.0
+434	tt1974419	The Neon Demon	['20']	[5]	[2016]	117	['United States']	English	75000000.0	36000000.0
+435	tt1974420	Rules Don't Apply	['10']	[11]	[2016]	127	['United States']	\N	25000000.0	39000000.0
+436	tt1976009	Victor Frankenstein	['11']	[11]	[2015]	110	['United States']	English	40000000.0	342000000.0
+437	tt1979376	Toy Story 4	['11']	[6]	[2019]	100	['United States']	English	200000000.0	1073000000000.0
+438	tt1979388	The Good Dinosaur	['10']	[11]	[2015]	94	['United States']	English	175200000000.0	3322000000.0
+439	tt1981128	Geostorm	['20']	[10]	[2017]	109	['United States']	English	120130000000.0	2216000000.0
+440	tt1985949	The Angry Birds Movie	['01']	[5]	[2016]	97	['Finland']	English	73000000.0	3523000000.0
+441	tt1985949	The Angry Birds Movie	['01']	[5]	[2016]	97	['United States']	English	73000000.0	3523000000.0
+442	tt1987680	The Upside	['08']	[9]	[2017]	126	['United States']	English	375000000.0	1259000000.0
+443	tt1999890	Hell Fest	['28']	[9]	[2018]	89	['United States']	English	55000000.0	182000000.0
+444	tt2006295	The 33	['06']	[8]	[2015]	127	['United States']	\N	26000000.0	28000000.0
+445	tt2006295	The 33	['06']	[8]	[2015]	127	['Colombia']	\N	26000000.0	28000000.0
+446	tt2006295	The 33	['06']	[8]	[2015]	127	['Spain']	\N	26000000.0	28000000.0
+447	tt2006295	The 33	['06']	[8]	[2015]	127	['Chile']	\N	26000000.0	28000000.0
+448	tt20124252	Sonic	['25']	[1]	[2020]	99	['United States']	English	8590000000.0	3197000000.0
+449	tt20124252	Sonic	['25']	[1]	[2020]	99	['Japan']	English	8590000000.0	3197000000.0
+450	tt2032572	USS Indianapolis: Men of Courage	['24']	[8]	[2016]	130	['United States']	English	40000000.0	1663785.0
+451	tt2034800	The Great Wall	['06']	[12]	[2016]	103	['China']	\N	150000000.0	3349000000.0
+452	tt2034800	The Great Wall	['06']	[12]	[2016]	103	['United States']	\N	150000000.0	3349000000.0
+453	tt2034800	The Great Wall	['06']	[12]	[2016]	103	['Japan']	\N	150000000.0	3349000000.0
+454	tt20424554	The Intervention	['26']	[1]	[2016]	88	['United States']	English	450000.0	32919.0
+455	tt2066051	Rocketman	['16']	[5]	[2019]	121	['United Kingdom']	English	40000000.0	1953000000.0
+456	tt2066051	Rocketman	['16']	[5]	[2019]	121	['United States']	English	40000000.0	1953000000.0
+457	tt2076298	Ip Man 4: The Finale	['20']	[12]	[2019]	105	['Hong Kong','China']	\N	52000000.0	239000000.0
+458	tt2080374	Steve Jobs	['05']	[9]	[2015]	122	['United Kingdom']	English	30000000.0	344000000.0
+459	tt2080374	Steve Jobs	['05']	[9]	[2015]	122	['United States']	English	30000000.0	344000000.0
+460	tt2080418	Lady of the Dynasty	['30']	[7]	[2015]	\N	['China']	Mandarin	32000000.0	2070000000.0
+461	tt2091256	Captain Underpants: The First Epic Movie	['21']	[5]	[2017]	89	['United States']	English	38000000.0	1254000000.0
+462	tt2093991	Elvis & Nixon	['18']	[4]	[2016]	86	['United States']	English	98000000.0	18000000.0
+463	tt2094766	Assassin's Creed	['13']	[12]	[2016]	115	['United States','France']	\N	125000000.0	2407000000.0
+464	tt2097298	McFarland, USA	['09']	[2]	[2015]	129	['United States']	English	17000000.0	457000000.0
+465	tt21096958	The Coup	['17']	[8]	[2015]	103	['United States']	English	5000000.0	544000000.0
+466	tt21109888	Selfless	['10']	[7]	[2015]	117	['United States']	English	26000000.0	305000000.0
+467	tt2119532	Hacksaw Ridge	['04']	[9]	[2016]	139	['United States']	English	40000000.0	1805000000.0
+468	tt2119532	Hacksaw Ridge	['04']	[9]	[2016]	139	['Australia']	English	40000000.0	1805000000.0
+469	tt2119543	The House with a Clock in Its Walls	['21']	[9]	[2018]	105	['United States']	English	42000000.0	1315000000.0
+470	tt21250418	Apprentice	['16']	[5]	[2016]	96	['Singapore','Germany','France','Hong Kong','Qatar']	\N	18.0	52991.0
+471	tt21254302	Joy	['13']	[12]	[2015]	124	['United States']	English	60000000.0	1011000000.0
+472	tt2126355	San Andreas	['26']	[5]	[2015]	114	['United States']	English	110000000.0	474000000.0
+473	tt2126357	Second Act	['21']	[12]	[2018]	104	['United States']	English	16000000.0	723000000.0
+474	tt2140037	Jane Got a Gun	['31']	[12]	[2015]	98	['United States']	English	25000000.0	38000000.0
+475	tt2140379	Self/less	['10']	[7]	[2015]	117	['United States']	English	26000000.0	305000000.0
+476	tt2140507	The Current War	['09']	[9]	[2017]	107	['United States']	English	30000000.0	122000000.0
+477	tt21419426	Watcher	['21']	[1]	[2022]	96	['United Arab Emirates']	English	5000000.0	32000000.0
+478	tt21419426	Watcher	['21']	[1]	[2022]	96	['United States']	English	5000000.0	32000000.0
+479	tt21419426	Watcher	['21']	[1]	[2022]	96	['Romania']	English	5000000.0	32000000.0
+480	tt2191765	One Wild Moment	['11']	[6]	[2015]	105	['France']	French	12000000.0	6000000.0
+481	tt2199571	Run All Night	['09']	[3]	[2015]	114	['United States']	English	50616000000.0	716000000.0
+482	tt2210769	Liza the Fox-Fairy	['19']	[2]	[2015]	98	['Hungary']	Hungarian	1516000000.0	532381.0
+483	tt2217859	Louder Than Bombs	['18']	[5]	[2015]	109	['Norway']	English	11000000.0	1157616.0
+484	tt2217859	Louder Than Bombs	['18']	[5]	[2015]	109	['France']	English	11000000.0	1157616.0
+485	tt2217859	Louder Than Bombs	['18']	[5]	[2015]	109	['Denmark']	English	11000000.0	1157616.0
+486	tt2226597	The Mountain Between Us	['09']	[9]	[2017]	112	['United States']	English	35000000.0	628000000.0
+487	tt2238032	Skiptrace	['21']	[7]	[2016]	108	['China','Hong Kong','United States']	\N	3060000000.0	1366000000.0
+488	tt2239822	Valerian and the City of a Thousand Planets	['17']	[7]	[2017]	137	['France']	English	197000000.0	226000000.0
+489	tt2239822	Valerian and the City of a Thousand Planets	['17']	[7]	[2017]	137	['United States']	English	197000000.0	226000000.0
+490	tt2239822	Valerian and the City of a Thousand Planets	['17']	[7]	[2017]	137	['China']	English	197000000.0	226000000.0
+491	tt2239822	Valerian and the City of a Thousand Planets	['17']	[7]	[2017]	137	['Germany']	English	197000000.0	226000000.0
+492	tt2239822	Valerian and the City of a Thousand Planets	['17']	[7]	[2017]	137	['Belgium']	English	197000000.0	226000000.0
+493	tt2239822	Valerian and the City of a Thousand Planets	['17']	[7]	[2017]	137	['United Arab Emirates']	English	197000000.0	226000000.0
+494	tt2241351	Money Monster	['12']	[5]	[2016]	99	['United States']	English	274000000.0	933000000.0
+495	tt2250912	Spider-Man: Homecoming	['28']	[6]	[2017]	133	['United States']	English	175000000.0	8802000000.0
+496	tt2261287	Leap!	['19']	[10]	[2016]	89	['CanadaFrance']	English	30000000.0	1061000000.0
+497	tt2267968	Kung Fu Panda 3	['23']	[1]	[2016]	95	['United States']	English	145000000.0	5212000000.0
+498	tt2267968	Kung Fu Panda 3	['23']	[1]	[2016]	95	['China']	English	145000000.0	5212000000.0
+499	tt2268016	Magic Mike XXL	['25']	[6]	[2015]	115	['United States']	English	148000000.0	1178000000.0
+500	tt2277860	Finding Dory	['08']	[6]	[2016]	97	['United States']	English	200000000.0	1029000000000.0
+501	tt2279339	Love the Coopers	['04']	[11]	[2015]	107	['United States']	English	17000000.0	424000000.0
+502	tt2279373	The SpongeBob Movie: Sponge Out of Water	['28']	[1]	[2015]	92	['United States']	English	6074000000.0	3252000000.0
+503	tt22813046	Paws of Fury	['10']	[7]	[2022]	98	['United Kingdom']	English	45000000.0	425000000.0
+504	tt22813046	Paws of Fury	['10']	[7]	[2022]	98	['United States']	English	45000000.0	425000000.0
+505	tt22813046	Paws of Fury	['10']	[7]	[2022]	98	['China']	English	45000000.0	425000000.0
+506	tt2283336	Men in Black: International	['11']	[6]	[2019]	115	['United States']	English	94110000000.0	2539000000.0
+507	tt22897716	Search	['21']	[1]	[2018]	102	['United States']	English	880000.0	756000000.0
+508	tt2293640	Minions	['11']	[6]	[2015]	91	['United States']	English	74000000.0	1159000000000.0
+509	tt2296747	Come What May	['10']	[10]	[2015]	114	['France']	\N	152000000.0	11000000.0
+510	tt2296777	Sherlock Gnomes	['23']	[3]	[2018]	86	['United Kingdom','United States']	English	59000000.0	905000000.0
+511	tt2304933	The 5th Wave	['22']	[1]	[2016]	112	['United States']	English	3854000000.0	1099000000.0
+512	tt2309260	The Gallows	['30']	[6]	[2015]	81	['United States']	English	100000.0	43000000.0
+513	tt2316204	Alien: Covenant	['04']	[5]	[2017]	122	['United Kingdom']	English	97111000000.0	2409000000.0
+514	tt2316204	Alien: Covenant	['04']	[5]	[2017]	122	['United States']	English	97111000000.0	2409000000.0
+515	tt2321405	My Life as a Zucchini	['15']	[5]	[2016]	65	['Switzerland','France']	French	8000000.0	102000000.0
+516	tt2322441	Fifty Shades of Grey	['09']	[2]	[2015]	125	['United States']	English	40000000.0	5697000000.0
+517	tt2325977	Strangerland	['23']	[1]	[2015]	111	['Australia','France','Ireland','United States']	English	10000000.0	100044.0
+518	tt2349144	Mississippi Grind	['24']	[1]	[2015]	108	['United States']	English	71000000.0	422746.0
+519	tt2361317	Live by Night	['13']	[12]	[2016]	129	['United States']	English	90000000.0	227000000.0
+520	tt2361746	Haraamkhor	['\\N']	[5]	[2015]	92	['India']	Hindi	2250000000.0	2270000000.0
+521	tt2364897	The Disappointments Room	['09']	[9]	[2016]	85	['United States']	English	15000000.0	57000000.0
+522	tt2365580	Where'd You Go, Bernadette	['16']	[8]	[2019]	109	['United States']	English	18000000.0	11000000.0
+523	tt2368254	A Private War	['07']	[9]	[2018]	110	['United States']	English	188000000.0	39000000.0
+524	tt2372251	Down a Dark Hall	['01']	[8]	[2018]	96	['United States']	English	4000000.0	27000000.0
+525	tt2372251	Down a Dark Hall	['01']	[8]	[2018]	96	['Spain']	English	4000000.0	27000000.0
+526	tt2381111	Brooklyn	['26']	[1]	[2015]	112	['United Kingdom']	English	11000000.0	624000000.0
+527	tt2381111	Brooklyn	['26']	[1]	[2015]	112	['Ireland']	English	11000000.0	624000000.0
+528	tt2381111	Brooklyn	['26']	[1]	[2015]	112	['Canada']	English	11000000.0	624000000.0
+529	tt2381249	Mission: Impossible - Rogue Nation	['23']	[7]	[2015]	131	['United States']	English	150000000.0	6889000000.0
+530	tt2381991	The Huntsman: Winter's War	['29']	[3]	[2016]	114	['United States']	English	115000000.0	165000000.0
+531	tt2386490	How to Train Your Dragon: The Hidden World	['03']	[1]	[2019]	104	['United States']	English	129000000.0	5257000000.0
+532	tt2387499	Keeping Up with the Joneses	['08']	[10]	[2016]	105	['United States']	English	40000000.0	299000000.0
+533	tt2392830	A Quiet Passion	['14']	[2]	[2016]	125	['United Kingdom']	English	73000000.0	41000000.0
+534	tt2395427	Avengers: Age of Ultron	['13']	[4]	[2015]	141	['United States']	English	4444952000000.0	1403000000000.0
+535	tt2396589	Mudbound	['21']	[1]	[2017]	134	['United States']	English	10111000000.0	117344.0
+536	tt2398149	An Officer and a Spy	['30']	[8]	[2019]	132	['France']	French	24000000.0	189000000.0
+537	tt2398149	An Officer and a Spy	['30']	[8]	[2019]	132	['Italy']	French	24000000.0	189000000.0
+538	tt2398241	Smurfs: The Lost Village	['05']	[4]	[2017]	90	['United States']	English	60000000.0	1972000000.0
+539	tt2401097	Tracers	['15']	[1]	[2015]	94	['United States']	English	11000000.0	18687388.0
+540	tt2401878	Anomalisa	['04']	[9]	[2015]	90	['United States']	English	8000000.0	57000000.0
+541	tt2402927	Carol	['17']	[5]	[2015]	119	['United Kingdom']	English	118000000.0	425000000.0
+542	tt2402927	Carol	['17']	[5]	[2015]	119	['United States']	English	118000000.0	425000000.0
+543	tt2404233	Gods of Egypt	['25']	[2]	[2016]	127	['United States']	English	140000000.0	1507000000.0
+544	tt2404233	Gods of Egypt	['25']	[2]	[2016]	127	['Australia']	English	140000000.0	1507000000.0
+545	tt2404425	Woman in Gold	['09']	[2]	[2015]	109	['United Kingdom']	\N	11000000.0	616000000.0
+546	tt2404425	Woman in Gold	['09']	[2]	[2015]	109	['United States']	\N	11000000.0	616000000.0
+547	tt2404425	Woman in Gold	['09']	[2]	[2015]	109	['Germany']	\N	11000000.0	616000000.0
+548	tt2404425	Woman in Gold	['09']	[2]	[2015]	109	['Austria']	\N	11000000.0	616000000.0
+549	tt2406566	Atomic Blonde	['12']	[3]	[2017]	115	['United States']	\N	30000000.0	100000000.0
+550	tt24215948	Last Christmas	['08']	[11]	[2019]	103	['United Kingdom']	English	2530000000.0	1234000000.0
+551	tt24215948	Last Christmas	['08']	[11]	[2019]	103	['United States']	English	2530000000.0	1234000000.0
+552	tt2424988	Gabbar Is Back	['01']	[5]	[2015]	121	['India']	Hindi	79.0	13581.0
+553	tt2436386	Project Almanac	['30']	[1]	[2015]	106	['United States']	English	12000000.0	332000000.0
+554	tt2446980	Joy	['13']	[12]	[2015]	124	['United States']	English	60000000.0	1011000000.0
+555	tt24513218	Slender Man	['10']	[8]	[2018]	100	['United States']	English	1028000000.0	517000000.0
+556	tt2452042	The Peanuts Movie	['01']	[11]	[2015]	88	['United States']	English	99000000.0	2462000000.0
+557	tt2473510	Paranormal Activity: The Ghost Dimension	['23']	[10]	[2015]	88	['United States']	English	10000000.0	789000000.0
+558	tt2488496	Star Wars: Episode VII - The Force Awakens	['14']	[12]	[2015]	138	['United States']	English	447000000.0	2071000000000.0
+559	tt2493486	Last Knights	['03']	[4]	[2015]	115	['United Kingdom','South Korea','Czech Republic']	English	192000000.0	18000000.0
+560	tt2494362	Bone Tomahawk	['01']	[10]	[2015]	132	['United States']	English	18000000.0	475846.0
+561	tt2503944	Burnt	['22']	[10]	[2015]	101	['United States']	English	20000000.0	366000000.0
+562	tt2503944	Burnt	['22']	[10]	[2015]	101	['United Kingdom']	English	20000000.0	366000000.0
+563	tt2510894	Hotel Transylvania 2	['25']	[9]	[2015]	89	['United States']	English	80000000.0	4748000000.0
+564	tt2513074	Billy Lynn's Long Halftime Walk	['14']	[10]	[2016]	113	['United States']	English	40000000.0	309000000.0
+565	tt2513074	Billy Lynn's Long Halftime Walk	['14']	[10]	[2016]	113	['United Kingdom']	English	40000000.0	309000000.0
+566	tt2513074	Billy Lynn's Long Halftime Walk	['14']	[10]	[2016]	113	['China']	English	40000000.0	309000000.0
+567	tt25149222	Pandora	['07']	[12]	[2016]	136	['South Korea']	Korean	530.0	32000000.0
+568	tt2515180	The Origin of Violence	['25']	[5]	[2016]	110	['France','Germany']	\N	32000000.0	427000.0
+569	tt2527336	Star Wars: Episode VIII - The Last Jedi	['09']	[12]	[2017]	152	['United States']	English	300000000.0	1334000000000.0
+570	tt2527338	Star Wars: Episode IX - The Rise of Skywalker	['16']	[12]	[2019]	142	['United States']	English	416000000.0	1077000000000.0
+571	tt2531318	The Beatles: Eight Days a Week - The Touring Years	['15']	[9]	[2016]	97	['United Kingdom']	English	5000000.0	123000000.0
+572	tt2531318	The Beatles: Eight Days a Week - The Touring Years	['15']	[9]	[2016]	97	['United States']	English	5000000.0	123000000.0
+573	tt2531344	Blockers	['10']	[3]	[2018]	102	['United States']	English	21000000.0	94000000.0
+574	tt25424668	Run All Night	['09']	[3]	[2015]	114	['United States']	English	50616000000.0	716000000.0
+575	tt2543164	Arrival	['01']	[9]	[2016]	116	['United States']	English	47000000.0	2034000000.0
+576	tt2547584	The Light Between Oceans	['01']	[9]	[2016]	132	['United Kingdom']	English	20000000.0	26000000.0
+577	tt2547584	The Light Between Oceans	['01']	[9]	[2016]	132	['United States']	English	20000000.0	26000000.0
+578	tt2547584	The Light Between Oceans	['01']	[9]	[2016]	132	['India']	English	20000000.0	26000000.0
+579	tt2547584	The Light Between Oceans	['01']	[9]	[2016]	132	['Canada']	English	20000000.0	26000000.0
+580	tt2554274	Crimson Peak	['25']	[9]	[2015]	119	['United States']	English	55000000.0	747000000.0
+581	tt2554274	Crimson Peak	['25']	[9]	[2015]	119	['Mexico']	English	55000000.0	747000000.0
+582	tt2554274	Crimson Peak	['25']	[9]	[2015]	119	['Canada']	English	55000000.0	747000000.0
+583	tt2555736	The Second Best Exotic Marigold Hotel	['26']	[2]	[2015]	122	['United Kingdom','United States']	English	10000000.0	86000000.0
+584	tt2557478	Pacific Rim: Uprising	['21']	[3]	[2018]	111	['United States']	English	150176000000.0	2909000000.0
+585	tt2561572	Get Hard	['16']	[3]	[2015]	100	['United States']	English	44000000.0	1118000000.0
+586	tt2572030	Pass the Light	['06']	[2]	[2015]	113	['United States']	English	1.0	6234654.0
+587	tt2582496	Me and Earl and the Dying Girl	['25']	[1]	[2015]	105	['United States']	English	8000000.0	91000000.0
+588	tt2582782	Hell or High Water	['16']	[5]	[2016]	102	['United States']	English	12000000.0	379000000.0
+589	tt2582784	Flower	['20']	[4]	[2017]	93	['United States']	English	500000.0	380553.0
+590	tt2584384	Jojo Rabbit	['08']	[9]	[2019]	108	['United States']	English	14000000.0	903000000.0
+591	tt2584384	Jojo Rabbit	['08']	[9]	[2019]	108	['New Zealand']	English	14000000.0	903000000.0
+592	tt2584384	Jojo Rabbit	['08']	[9]	[2019]	108	['Czech Republic']	English	14000000.0	903000000.0
+593	tt2586120	Racer and the Jailbird	['07']	[9]	[2017]	130	['Belgium','France','Netherlands']	\N	8000000.0	401429.0
+594	tt2592614	Resident Evil: The Final Chapter	['23']	[12]	[2016]	106	['Germany']	English	40000000.0	3122000000.0
+595	tt2592614	Resident Evil: The Final Chapter	['23']	[12]	[2016]	106	['United Kingdom']	English	40000000.0	3122000000.0
+596	tt2592614	Resident Evil: The Final Chapter	['23']	[12]	[2016]	106	['United States']	English	40000000.0	3122000000.0
+597	tt2592614	Resident Evil: The Final Chapter	['23']	[12]	[2016]	106	['France']	English	40000000.0	3122000000.0
+598	tt2592614	Resident Evil: The Final Chapter	['23']	[12]	[2016]	106	['Canada']	English	40000000.0	3122000000.0
+599	tt2592614	Resident Evil: The Final Chapter	['23']	[12]	[2016]	106	['Australia']	English	40000000.0	3122000000.0
+600	tt2625810	Into the Forest	['12']	[9]	[2015]	101	['Canada']	English	10000.0	37418.0
+601	tt2637276	Ted 2	['24']	[6]	[2015]	115	['United States']	English	68000000.0	2159000000.0
+602	tt2637294	Hot Tub Time Machine 2	['20']	[2]	[2015]	93	['United States']	English	1418000000.0	131000000.0
+603	tt2649554	Midnight Special	['12']	[2]	[2016]	112	['United States']	English	18000000.0	77000000.0
+604	tt2660888	Star Trek Beyond	['07']	[7]	[2016]	122	['United States']	English	185000000.0	3435000000.0
+605	tt26687593	The Workshop	['22']	[5]	[2017]	114	['France']	French	4000000.0	1000000.0
+606	tt2671706	Fences	['15']	[12]	[2016]	139	['United States']	English	24000000.0	644000000.0
+607	tt2674358	The Hunter's Prayer	['09']	[6]	[2017]	91	['United States']	English	17000000.0	236820.0
+608	tt2674358	The Hunter's Prayer	['09']	[6]	[2017]	91	['Germany']	English	17000000.0	236820.0
+609	tt2674358	The Hunter's Prayer	['09']	[6]	[2017]	91	['Spain']	English	17000000.0	236820.0
+610	tt2674426	Me Before You	['23']	[5]	[2016]	110	['United Kingdom']	English	20000000.0	2083000000.0
+611	tt2674426	Me Before You	['23']	[5]	[2016]	110	['United States']	English	20000000.0	2083000000.0
+612	tt2674430	Approaching the Unknown	['03']	[6]	[2016]	90	['United States']	English	13000000.0	10232.0
+613	tt2674454	Churchill	['25']	[4]	[2017]	98	['United Kingdom']	English	10000000.0	54000000.0
+614	tt2679042	Hitman: Agent 47	['13']	[8]	[2015]	96	['United States']	English	35000000.0	823000000.0
+615	tt2679042	Hitman: Agent 47	['13']	[8]	[2015]	96	['Germany']	English	35000000.0	823000000.0
+616	tt2679042	Hitman: Agent 47	['13']	[8]	[2015]	96	['Singapore']	English	35000000.0	823000000.0
+617	tt2679042	Hitman: Agent 47	['13']	[8]	[2015]	96	['United Kingdom']	English	35000000.0	823000000.0
+618	tt2690138	The D Train	['23']	[1]	[2015]	101	['United States']	English	34000000.0	774780.0
+619	tt2690634	The Bad Guys	['22']	[4]	[2022]	100	['United States']	English	6980000000.0	2504000000.0
+620	tt2704998	Game Night	['23']	[2]	[2018]	100	['United States']	English	37000000.0	1177000000.0
+621	tt2709692	The Grinch	['09']	[11]	[2018]	85	['United States']	English	75000000.0	5267000000.0
+622	tt2709768	The Secret Life of Pets	['16']	[6]	[2016]	86	['United States']	English	75000000.0	8853000000.0
+623	tt2711898	Journal d'une femme de chambre	['07']	[2]	[2015]	95	['France','Belgium']	French	82000000.0	2000000.0
+624	tt2712154	Backstreet Boys: Show 'Em What You're Made Of	['30']	[1]	[2015]	109	['United States']	English	1000000.0	2837800.0
+625	tt2712154	Backstreet Boys: Show 'Em What You're Made Of	['30']	[1]	[2015]	109	['United Kingdom']	English	1000000.0	2837800.0
+626	tt27204716	Florence	['23']	[4]	[2016]	110	['United Kingdom']	English	29000000.0	56000000.0
+627	tt27204716	Florence	['23']	[4]	[2016]	110	['France']	English	29000000.0	56000000.0
+628	tt2720826	Birth of the Dragon	['13']	[9]	[2016]	89	['United States']	\N	31000000.0	72000000.0
+629	tt2726560	The Longest Ride	['10']	[4]	[2015]	128	['United States']	English	34000000.0	63000000.0
+630	tt27426118	Noor	['21']	[4]	[2017]	116	['India']	Hindi	24.0	1164.0
+631	tt27485737	Spotlight	['03']	[9]	[2015]	129	['United States']	English	20000000.0	987000000.0
+632	tt27515039	Fences	['15']	[12]	[2016]	139	['United States']	English	24000000.0	644000000.0
+633	tt2752772	Sinister 2	['21']	[8]	[2015]	97	['United States']	English	10000000.0	541000000.0
+634	tt2752772	Sinister 2	['21']	[8]	[2015]	97	['Canada']	English	10000000.0	541000000.0
+635	tt27611053	Benediction	['12']	[9]	[2021]	137	['United Kingdom']	\N	5000000.0	848834.0
+636	tt27611053	Benediction	['12']	[9]	[2021]	137	['United States']	\N	5000000.0	848834.0
+637	tt2762506	Bacurau	['15']	[5]	[2019]	132	['Brazil']	\N	143000000.0	35000000.0
+638	tt2762506	Bacurau	['15']	[5]	[2019]	132	['France']	\N	143000000.0	35000000.0
+639	tt27628238	Private Investigation	['18']	[6]	[2015]	108	['South Korea']	Korean	8000000.0	20000000.0
+640	tt2763304	T2 Trainspotting	['22']	[1]	[2017]	117	['United Kingdom']	English	18000000.0	421000000.0
+641	tt27912597	Arrival	['01']	[9]	[2016]	116	['United States']	English	47000000.0	2034000000.0
+642	tt2798920	Annihilation	['13']	[2]	[2018]	115	['United Kingdom']	English	4055000000.0	431000000.0
+643	tt2798920	Annihilation	['13']	[2]	[2018]	115	['United States']	English	4055000000.0	431000000.0
+644	tt28082444	Joy	['13']	[12]	[2015]	124	['United States']	English	60000000.0	1011000000.0
+645	tt2815902	The Childhood of a Leader	['05']	[9]	[2015]	116	['United States']	\N	5000000.0	245546.0
+646	tt2815902	The Childhood of a Leader	['05']	[9]	[2015]	116	['United Kingdom']	\N	5000000.0	245546.0
+647	tt2815902	The Childhood of a Leader	['05']	[9]	[2015]	116	['Hungary']	\N	5000000.0	245546.0
+648	tt2815902	The Childhood of a Leader	['05']	[9]	[2015]	116	['Sweden']	\N	5000000.0	245546.0
+649	tt2815902	The Childhood of a Leader	['05']	[9]	[2015]	116	['France']	\N	5000000.0	245546.0
+650	tt2815902	The Childhood of a Leader	['05']	[9]	[2015]	116	['Canada']	\N	5000000.0	245546.0
+651	tt2815902	The Childhood of a Leader	['05']	[9]	[2015]	116	['Belgium']	\N	5000000.0	245546.0
+652	tt2820852	Furious 7	['01']	[4]	[2015]	137	['United States','China']	English	190000000.0	1515000000000.0
+653	tt2822672	Rock Dog	['15']	[6]	[2016]	89	['United States']	\N	60000000.0	241000000.0
+654	tt2822672	Rock Dog	['15']	[6]	[2016]	89	['China']	\N	60000000.0	241000000.0
+655	tt2823054	Mike and Dave Need Wedding Dates	['08']	[7]	[2016]	98	['United States']	English	3335000000.0	771000000.0
+656	tt28329787	The Emoji Movie	['23']	[7]	[2017]	86	['United States']	English	50000000.0	2178000000.0
+657	tt2837574	The Old Man & the Gun	['31']	[8]	[2018]	93	['United States']	English	158000000.0	179000000.0
+658	tt2848292	Pitch Perfect 2	['20']	[4]	[2015]	115	['United States']	English	2931000000.0	2875000000.0
+659	tt28524383	Friend Request	['07']	[1]	[2016]	92	['Germany']	English	99000000.0	11000000.0
+660	tt2856776	Little	['08']	[4]	[2019]	109	['United States']	English	20000000.0	49000000.0
+661	tt2865120	Ratchet & Clank	['13']	[4]	[2016]	94	['Hong Kong']	English	20000000.0	144000000.0
+662	tt2865120	Ratchet & Clank	['13']	[4]	[2016]	94	['Canada']	English	20000000.0	144000000.0
+663	tt2865120	Ratchet & Clank	['13']	[4]	[2016]	94	['United States']	English	20000000.0	144000000.0
+664	tt2869728	Ride Along 2	['06']	[1]	[2016]	101	['United States']	English	40000000.0	1246000000.0
+665	tt2872750	Shaun the Sheep Movie	['24']	[1]	[2015]	85	['France']	English (no dialogue)	25000000.0	1062000000.0
+666	tt2872750	Shaun the Sheep Movie	['24']	[1]	[2015]	85	['United Kingdom']	English (no dialogue)	25000000.0	1062000000.0
+667	tt2873282	Red Sparrow	['15']	[2]	[2018]	140	['United States']	\N	69000000.0	1516000000.0
+668	tt28759377	Greenland	['18']	[12]	[2020]	119	['United States']	English	35000000.0	523000000.0
+669	tt2888046	Ip Man 3	['16']	[12]	[2015]	105	['Hong Kong']	\N	36000000.0	1573000000.0
+670	tt29064031	Bhaagamathie	['22']	[12]	[2016]	135	['India']	\N	250000000.0	260000000.0
+671	tt2908446	The Divergent Series: Insurgent	['11']	[3]	[2015]	119	['United States']	English	110000000.0	2973000000.0
+672	tt2909116	Wolf Totem	['19']	[2]	[2015]	121	['China']	\N	38000000.0	1257000000.0
+673	tt2909116	Wolf Totem	['19']	[2]	[2015]	121	['France']	\N	38000000.0	1257000000.0
+674	tt29137980	Waves	['30']	[8]	[2019]	135	['United States']	English	6000000.0	26000000.0
+675	tt2924392	Higher Power	['11']	[5]	[2018]	93	['United States']	English	500000.0	528.0
+676	tt2932536	47 Meters Down	['12']	[6]	[2017]	85	['United Kingdom','United States']	English	53000000.0	626000000.0
+677	tt2935510	Ad Astra	['29']	[8]	[2019]	124	['United States']	English	80100000000.0	1354000000.0
+678	tt2937696	Everybody Wants Some!!	['11']	[3]	[2016]	116	['United States']	English	10000000.0	54000000.0
+679	tt2938956	The Transporter Refueled	['04']	[9]	[2015]	96	['China']	English	22000000.0	726000000.0
+680	tt2938956	The Transporter Refueled	['04']	[9]	[2015]	96	['France']	English	22000000.0	726000000.0
+681	tt29432026	Keeping Up with the Joneses	['08']	[10]	[2016]	105	['United States']	English	40000000.0	299000000.0
+682	tt2948356	Zootopia	['13']	[2]	[2016]	108	['United States']	English	150000000.0	1025000000000.0
+683	tt2950418	Greater	['26']	[8]	[2016]	130	['United States']	English	9000000.0	2000000.0
+684	tt2967856	Another Day of Life	['11']	[5]	[2018]	85	['Poland','Spain','Belgium','Germany','Hungary']	\N	7700000.0	350796.0
+685	tt2974918	Alvin and the Chipmunks: The Road Chip	['18']	[12]	[2015]	92	['United States']	English	90000000.0	2348000000.0
+686	tt2975590	Batman v Superman: Dawn of Justice	['19']	[3]	[2016]	152	['United States']	English	250325000000.0	8744000000.0
+687	tt2979920	Bombay Velvet	['15']	[5]	[2015]	149	['India']	Hindi	118.0	4313.0
+688	tt2980210	A Hologram for the King	['20']	[4]	[2016]	97	['France']	English	35000000.0	118000000.0
+689	tt2980210	A Hologram for the King	['20']	[4]	[2016]	97	['Germany']	English	35000000.0	118000000.0
+690	tt2980210	A Hologram for the King	['20']	[4]	[2016]	97	['Cayman Islands']	English	35000000.0	118000000.0
+691	tt2980210	A Hologram for the King	['20']	[4]	[2016]	97	['Mexico']	English	35000000.0	118000000.0
+692	tt2980210	A Hologram for the King	['20']	[4]	[2016]	97	['United States']	English	35000000.0	118000000.0
+693	tt30028677	Host	['30']	[7]	[2020]	56	['United Kingdom']	English	100000.0	443807.0
+694	tt3014284	The Lego Ninjago Movie	['16']	[9]	[2017]	101	['Denmark']	English	70000000.0	1231000000.0
+695	tt3014284	The Lego Ninjago Movie	['16']	[9]	[2017]	101	['United States']	English	70000000.0	1231000000.0
+696	tt30192436	Last Christmas	['08']	[11]	[2019]	103	['United Kingdom']	English	2530000000.0	1234000000.0
+697	tt30192436	Last Christmas	['08']	[11]	[2019]	103	['United States']	English	2530000000.0	1234000000.0
+698	tt3038708	Iron Sky: The Coming Race	['16']	[1]	[2019]	93	['Finland','Germany','Belgium']	\N	17.0	400000.0
+699	tt3043252	Parched	['12']	[9]	[2015]	118	['India']	Hindi	27000000.0	1203.0
+700	tt3045616	Mortdecai	['23']	[1]	[2015]	107	['United States']	English	60000000.0	473000000.0
+701	tt3053228	Day of the Dead: Bloodline	['29']	[12]	[2017]	90	['United States']	English	8000000.0	277922.0
+702	tt3053228	Day of the Dead: Bloodline	['29']	[12]	[2017]	90	['Bulgaria']	English	8000000.0	277922.0
+703	tt3054798	Memories of the Sword	['13']	[8]	[2015]	121	['South Korea']	Korean	10000000000.0	24000000.0
+704	tt30580620	Way Down	['15']	[1]	[2021]	118	['Spain']	English	15000000.0	9000000.0
+705	tt3065204	The Conjuring 2	['07']	[6]	[2016]	134	['United States']	English	40000000.0	3218000000.0
+706	tt3068194	Love & Friendship	['23']	[1]	[2016]	93	['Netherlands']	English	3000000.0	214000000.0
+707	tt3068194	Love & Friendship	['23']	[1]	[2016]	93	['France']	English	3000000.0	214000000.0
+708	tt3068194	Love & Friendship	['23']	[1]	[2016]	93	['Ireland']	English	3000000.0	214000000.0
+709	tt3072482	Hardcore Henry	['12']	[9]	[2015]	96	['Russia']	\N	2000000.0	168000000.0
+710	tt3072482	Hardcore Henry	['12']	[9]	[2015]	96	['United States']	\N	2000000.0	168000000.0
+711	tt30759054	Domovoy	['11']	[4]	[2019]	104	['Russia']	\N	150000000.0	1203000000.0
+712	tt3076658	Creed	['19']	[11]	[2015]	133	['United States']	English	3540000000.0	1736000000.0
+713	tt3077214	Suffragette	['04']	[9]	[2015]	106	['United Kingdom']	English	14000000.0	38000000.0
+714	tt3082898	Kickboxer: Vengeance	['14']	[7]	[2016]	90	['United States']	English	17000000.0	287779.0
+715	tt30852138	Carol	['17']	[5]	[2015]	119	['United Kingdom']	English	118000000.0	425000000.0
+716	tt30852138	Carol	['17']	[5]	[2015]	119	['United States']	English	118000000.0	425000000.0
+717	tt3095734	Monster Trucks	['21']	[12]	[2016]	105	['United States']	English	125000000.0	645000000.0
+718	tt3103166	The Masked Saint	['\\N']	[4]	[2015]	105	['Canada']	English	35000000.0	182695.0
+719	tt3104988	Crazy Rich Asians	['07']	[8]	[2018]	121	['United States']	English	30000000.0	239000000.0
+720	tt3104988	Crazy Rich Asians	['07']	[8]	[2018]	121	['Singapore']	English	30000000.0	239000000.0
+721	tt31050020	Once Upon a Deadpool	['10']	[5]	[2018]	119	['United States']	English	110000000.0	7858000000.0
+722	tt3110958	Now You See Me 2	['06']	[6]	[2016]	129	['United States','United Kingdom']	English	90120000000.0	3349000000.0
+723	tt3116054	Hard Tide	['25']	[9]	[2015]	79	['United Kingdom']	English	300000.0	1200000.0
+724	tt3127022	The Bookshop	['21']	[10]	[2017]	113	['Germany','Spain','United Kingdom']	English	34000000.0	97000000.0
+725	tt3136646	Soulless 2	['03']	[5]	[2015]	107	['Russia']	Russian	4000000.0	8.0
+726	tt3137630	David Brent: Life on the Road	['19']	[8]	[2016]	96	['United Kingdom']	English	10000000.0	52000000.0
+727	tt3147312	Desierto	['13']	[9]	[2015]	88	['Mexico']	\N	3000000.0	49000000.0
+728	tt3147312	Desierto	['13']	[9]	[2015]	88	['France']	\N	3000000.0	49000000.0
+729	tt3152624	Trainwreck	['15']	[3]	[2015]	125	['United States']	English	35000000.0	1408000000.0
+730	tt3164256	Rock the Kasbah	['22']	[10]	[2015]	106	['United States']	English	15000000.0	34000000.0
+731	tt3165612	Sleeping with Other People	['24']	[1]	[2015]	101	['United States']	\N	3000000.0	32000000.0
+732	tt3168230	Mr. Holmes	['07']	[2]	[2015]	104	['United Kingdom']	English	10000000.0	294000000.0
+733	tt3168230	Mr. Holmes	['07']	[2]	[2015]	104	['United States']	English	10000000.0	294000000.0
+734	tt3172532	The Diary of a Teenage Girl	['24']	[1]	[2015]	102	['United States']	English	2000000.0	23000000.0
+735	tt3181822	The Boy Next Door	['23']	[1]	[2015]	91	['United States']	English	4000000.0	524000000.0
+736	tt3183660	Fantastic Beasts and Where to Find Them	['10']	[11]	[2016]	133	['United Kingdom']	English	175200000000.0	814000000.0
+737	tt3183660	Fantastic Beasts and Where to Find Them	['10']	[11]	[2016]	133	['United States']	English	175200000000.0	814000000.0
+738	tt3195644	Insidious: Chapter 3	['05']	[6]	[2015]	98	['United States']	English	11000000.0	113000000.0
+739	tt3195644	Insidious: Chapter 3	['05']	[6]	[2015]	98	['Canada']	English	11000000.0	113000000.0
+740	tt3195644	Insidious: Chapter 3	['05']	[6]	[2015]	98	['United Kingdom']	English	11000000.0	113000000.0
+741	tt3197766	Kill Zone 2	['18']	[6]	[2015]	120	['Hong Kong','China','Thailand']	\N	23000000.0	9027000000.0
+742	tt3201736	Run the Race	['\\N']	[3]	[2018]	101	['United States']	\N	15000000.0	64000000.0
+743	tt3202202	Palm Trees in the Snow	['25']	[12]	[2015]	163	['Spain','Colombia']	\N	10000000.0	184000000.0
+744	tt3212232	I Am Wrath	['06']	[5]	[2016]	92	['United States']	English	18000000.0	6784.0
+745	tt3216348	Incarnate	['02']	[12]	[2016]	87	['United States']	English	5000000.0	9000000.0
+746	tt3218094	Adaline	['24']	[4]	[2015]	113	['United States']	English	25000000.0	657000000.0
+747	tt3224458	A Beautiful Day in the Neighborhood	['07']	[9]	[2019]	109	['United States']	English	25000000.0	684000000.0
+748	tt3228088	Spark: A Space Tail	['22']	[4]	[2016]	91	['Canada','South Korea','United States','China']	English	40000000.0	104000000.0
+749	tt3247714	Survivor	['29']	[5]	[2015]	96	['United States', 'United Kingdom']	English	20000000.0	3839100.0
+750	tt3253232	The Bounce Back	['09']	[12]	[2016]	104	['United States']	English	3000000.0	421404.0
+751	tt3262342	Loving Vincent	['12']	[6]	[2017]	95	['Poland']	English	55000000.0	421000000.0
+752	tt3262342	Loving Vincent	['12']	[6]	[2017]	95	['United Kingdom']	English	55000000.0	421000000.0
+753	tt3263904	Sully	['02']	[9]	[2016]	96	['United States']	English	60000000.0	2408000000.0
+754	tt3284178	Arabian Nights: Volume 1 - The Restless One	['16']	[5]	[2015]	383	['Portugal']	Portuguese	27000000.0	50171.0
+755	tt3284178	Arabian Nights: Volume 1 - The Restless One	['16']	[5]	[2015]	383	['France']	Portuguese	27000000.0	50171.0
+756	tt3284178	Arabian Nights: Volume 1 - The Restless One	['16']	[5]	[2015]	383	['Germany']	Portuguese	27000000.0	50171.0
+757	tt3284178	Arabian Nights: Volume 1 - The Restless One	['16']	[5]	[2015]	383	['Switzerland']	Portuguese	27000000.0	50171.0
+758	tt3289724	Welcome to Marwen	['21']	[12]	[2018]	116	['United States']	English	3950000000.0	131000000.0
+759	tt3295872	Waves	['30']	[8]	[2019]	135	['United States']	English	6000000.0	26000000.0
+760	tt3296908	The Man with the Iron Heart	['07']	[6]	[2017]	120	['France']	English	32000000.0	44000000.0
+761	tt3296908	The Man with the Iron Heart	['07']	[6]	[2017]	120	['Belgium']	English	32000000.0	44000000.0
+762	tt3298600	The Midwife	['14']	[2]	[2017]	117	['France','Belgium']	French	8000000.0	72000000.0
+763	tt3300542	London Has Fallen	['01']	[3]	[2016]	99	['United States']	English	60000000.0	2059000000.0
+764	tt3300980	The 12th Man	['25']	[12]	[2017]	135	['Norway']	\N	4000000.0	96000000.0
+765	tt3303106	Waves	['30']	[8]	[2019]	135	['United States']	English	6000000.0	26000000.0
+766	tt3315342	Logan	['17']	[2]	[2017]	137	['United States']	English	97127000000.0	6192000000.0
+767	tt3316948	American Ultra	['21']	[8]	[2015]	96	['United States']	English	28000000.0	303000000.0
+768	tt3319730	The Mercy	['28']	[11]	[2017]	101	['United Kingdom']	English	20000000.0	45000000.0
+769	tt3319920	Regression	['18']	[9]	[2015]	106	['Canada']	English	15000000.0	177000000.0
+770	tt3319920	Regression	['18']	[9]	[2015]	106	['Spain']	English	15000000.0	177000000.0
+771	tt3321300	MI-5	['08']	[5]	[2015]	104	['United Kingdom']	English	11000000.0	53000000.0
+772	tt3322892	XX	['22']	[1]	[2017]	80	['United States']	English	2000000.0	55486.0
+773	tt3352390	Friend Request	['07']	[1]	[2016]	92	['Germany']	English	99000000.0	11000000.0
+774	tt3361792	Tolkien	['03']	[5]	[2019]	112	['United Kingdom']	English	20000000.0	9000000.0
+775	tt3361792	Tolkien	['03']	[5]	[2019]	112	['United States']	English	20000000.0	9000000.0
+776	tt3367294	Compadres	['31']	[3]	[2016]	102	['Mexico']	\N	3000000.0	74000000.0
+777	tt3371366	Transformers: The Last Knight	['18']	[6]	[2017]	149	['United States']	English	217260000000.0	6054000000.0
+778	tt3381008	The Brothers Grimsby	['24']	[2]	[2016]	83	['United Kingdom']	English	35000000.0	28000000.0
+779	tt3381008	The Brothers Grimsby	['24']	[2]	[2016]	83	['United States']	English	35000000.0	28000000.0
+780	tt3385516	X-Men: Apocalypse	['09']	[5]	[2016]	\N	['United States']	English	178000000.0	5439000000.0
+781	tt3385524	Stan & Ollie	['21']	[10]	[2018]	98	['United Kingdom','Canada','United States']	English	10000000.0	29000000.0
+782	tt3387266	A United Kingdom	['09']	[9]	[2016]	111	['Czech Republic']	\N	14000000.0	144000000.0
+783	tt3387266	A United Kingdom	['09']	[9]	[2016]	111	['France']	\N	14000000.0	144000000.0
+784	tt3387266	A United Kingdom	['09']	[9]	[2016]	111	['United Kingdom']	\N	14000000.0	144000000.0
+785	tt3387266	A United Kingdom	['09']	[9]	[2016]	111	['United States']	\N	14000000.0	144000000.0
+786	tt3387520	Scary Stories to Tell in the Dark	['09']	[8]	[2019]	108	['United States']	English	2528000000.0	1045000000.0
+787	tt3387520	Scary Stories to Tell in the Dark	['09']	[8]	[2019]	108	['Canada']	English	2528000000.0	1045000000.0
+788	tt3391150	Sisu	['09']	[9]	[2022]	91	['Finland']	\N	6000000.0	143000000.0
+789	tt3393786	Jack Reacher: Never Go Back	['16']	[10]	[2016]	118	['United States']	English	60000000.0	1621000000.0
+790	tt3401748	Oddball	['17']	[9]	[2015]	95	['Australia']	English	7000000.0	11000000.0
+791	tt3401882	Fist Fight	['13']	[2]	[2017]	90	['United States']	English	2225000000.0	411000000.0
+792	tt3410408	Rocky Handsome	['25']	[3]	[2016]	126	['India']	Hindi	200000000.0	350000000.0
+793	tt3410834	Allegiant	['08']	[3]	[2016]	121	['United States']	English	110142000000.0	1792000000.0
+794	tt3411444	Ferdinand	['10']	[12]	[2017]	108	['United States']	English	111000000.0	2961000000.0
+795	tt3414064	Creed	['19']	[11]	[2015]	133	['United States']	English	3540000000.0	1736000000.0
+796	tt3416532	A Monster Calls	['10']	[9]	[2016]	108	['Spain']	English	43000000.0	473000000.0
+797	tt3416532	A Monster Calls	['10']	[9]	[2016]	108	['United Kingdom']	English	43000000.0	473000000.0
+798	tt3416532	A Monster Calls	['10']	[9]	[2016]	108	['United States']	English	43000000.0	473000000.0
+799	tt3416828	Ice Age: Collision Course	['19']	[6]	[2016]	94	['United States']	English	105000000.0	4085000000.0
+800	tt3422078	April and the Extraordinary World	['15']	[6]	[2015]	106	['France']	French	104000000.0	496000.0
+801	tt3422078	April and the Extraordinary World	['15']	[6]	[2015]	106	['Belgium']	French	104000000.0	496000.0
+802	tt3422078	April and the Extraordinary World	['15']	[6]	[2015]	106	['Canada']	French	104000000.0	496000.0
+803	tt3439578	Origin	['06']	[9]	[2023]	141	['United States']	English	38000000.0	49000000.0
+804	tt3442990	Lila & Eve	['30']	[1]	[2015]	94	['United States']	English	49000000.0	179809.0
+805	tt3447364	Detective Byomkesh Bakshy!	['03']	[4]	[2015]	147	['India']	Hindi	35.0	3468.0
+806	tt3450650	Paul Blart: Mall Cop 2	['17']	[4]	[2015]	94	['United States']	English	3040000000.0	1076000000.0
+807	tt3450900	The Sea of Trees	['16']	[5]	[2015]	110	['United States']	\N	25000000.0	850985.0
+808	tt3450958	War for the Planet of the Apes	['10']	[7]	[2017]	140	['United States']	English	150190000000.0	4907000000.0
+809	tt3453052	10 Days in a Madhouse	['11']	[11]	[2015]		['United States']	English	12000000.0	14616.0
+810	tt3460252	The Hateful Eight	['07']	[12]	[2015]	187	['United States']	English	4462000000.0	1565000000.0
+811	tt3464902	The Lobster	['15']	[5]	[2015]	118	['Ireland']	\N	4000000.0	18000000.0
+812	tt3464902	The Lobster	['15']	[5]	[2015]	118	['United Kingdom']	\N	4000000.0	18000000.0
+813	tt3464902	The Lobster	['15']	[5]	[2015]	118	['Greece']	\N	4000000.0	18000000.0
+814	tt3464902	The Lobster	['15']	[5]	[2015]	118	['France']	\N	4000000.0	18000000.0
+815	tt3464902	The Lobster	['15']	[5]	[2015]	118	['Netherlands']	\N	4000000.0	18000000.0
+816	tt3469046	Despicable Me 3	['14']	[6]	[2017]	90	['United States']	English	80000000.0	1035000000000.0
+817	tt3478962	My King	['17']	[5]	[2015]	128	['France']	French	106000000.0	8000000.0
+818	tt3486080	Lancaster Skies	['27']	[2]	[2019]	98	['\\N']	English	80000.0	67520.0
+819	tt3486626	The Nut Job 2: Nutty by Nature	['11']	[8]	[2017]	91	['United States']	English	40000000.0	687000000.0
+820	tt3486626	The Nut Job 2: Nutty by Nature	['11']	[8]	[2017]	91	['Canada']	English	40000000.0	687000000.0
+821	tt3486626	The Nut Job 2: Nutty by Nature	['11']	[8]	[2017]	91	['South Korea']	English	40000000.0	687000000.0
+822	tt3489996	The Killing$ of Tony Blair	['27']	[7]	[2016]	\N	['United Kingdom']	English	164000.0	17730.0
+823	tt3495030	Dum Laga Ke Haisha	['27']	[2]	[2015]	110	['India']	Hindi	14.0	11385.0
+824	tt3498820	Captain America: Civil War	['12']	[4]	[2016]	147	['United States']	English	250000000.0	1153000000000.0
+825	tt3501632	Thor: Ragnarok	['10']	[10]	[2017]	130	['United States']	English	180000000.0	865000000.0
+826	tt3511596	Close Range	['16']	[9]	[2015]	85	['United States']	\N	3000000.0	248979.0
+827	tt3512072	125 Years Memory	['05']	[12]	[2015]	132	['Japan','Turkey']	\N	15000000.0	780000000.0
+828	tt3513498	The Lego Movie 2: The Second Part	['02']	[2]	[2019]	107	['Australia']	English	99000000.0	1996000000.0
+829	tt3513498	The Lego Movie 2: The Second Part	['02']	[2]	[2019]	107	['Denmark']	English	99000000.0	1996000000.0
+830	tt3513498	The Lego Movie 2: The Second Part	['02']	[2]	[2019]	107	['United States']	English	99000000.0	1996000000.0
+831	tt3513548	Richard Jewell	['20']	[11]	[2019]	129	['United States']	English	45000000.0	4465000000.0
+832	tt3521126	The Disaster Artist	['12']	[3]	[2017]	103	['United States']	English	10000000.0	298000000.0
+833	tt3522806	Mechanic: Resurrection	['22']	[8]	[2016]	98	['United States']	English	40000000.0	1258000000.0
+834	tt3532216	American Made	['29']	[9]	[2017]	115	['United States']	English	50000000.0	1349000000.0
+835	tt3544112	Sing Street	['24']	[1]	[2016]	106	['Ireland']	English	4000000.0	136000000.0
+836	tt3544112	Sing Street	['24']	[1]	[2016]	106	['United Kingdom']	English	4000000.0	136000000.0
+837	tt3544112	Sing Street	['24']	[1]	[2016]	106	['United States']	English	4000000.0	136000000.0
+838	tt3544326	Empire of Lust	['05']	[3]	[2015]	113	['South Korea']	Korean	54000000000.0	32000000.0
+839	tt3553442	Whiskey Tango Foxtrot	['04']	[3]	[2016]	112	['United States']	English	35000000.0	254000000.0
+840	tt3553976	Captain Fantastic	['23']	[1]	[2016]	118	['United States']	English	5000000.0	228000000.0
+841	tt3564472	Girls Trip	['14']	[6]	[2017]	122	['United States']	English	19000000.0	1409000000.0
+842	tt3573598	London Road	['12']	[6]	[2015]	91	['United Kingdom']	English	3000000.0	216000.0
+843	tt3588588	Backtrace	['14']	[12]	[2018]	87	['United States']	English	6000000.0	490636.0
+844	tt3592176	Chic!	['07']	[1]	[2015]	103	['France']	French	82000000.0	495000.0
+845	tt3597510	The White Knights	['30']	[8]	[2015]	112	['Belgium','France']	French	9000000.0	15000000.0
+846	tt3602144	Perfect Proposal	['04']	[6]	[2015]	110	['South Korea']	\N	5000000000.0	113.0
+847	tt3606752	Cars 3	['23']	[5]	[2017]	102	['United States']	English	175000000.0	3839000000.0
+848	tt3606756	Incredibles 2	['05']	[6]	[2018]	118	['United States']	English	200000000.0	1243000000000.0
+849	tt3606888	A Street Cat Named Bob	['03']	[11]	[2016]	103	['United Kingdom']	English	8000000.0	179000000.0
+850	tt3613648	Families	['25']	[8]	[2015]	113	['France']	French	129000000.0	33000000.0
+851	tt3614530	Jem and the Holograms	['23']	[10]	[2015]	118	['United States']	English	5000000.0	23000000.0
+852	tt3614922	Helios	['30']	[4]	[2015]	119	['Hong Kong','China']	\N	1826000000.0	3315000000.0
+853	tt3622592	Paper Towns	['24']	[7]	[2015]	109	['United States']	English	12000000.0	855000000.0
+854	tt3623726	Ricki and the Flash	['07']	[8]	[2015]	101	['United States']	English	18000000.0	413000000.0
+855	tt3628584	Barbershop: The Next Cut	['06']	[4]	[2016]	112	['United States']	English	20000000.0	55000000.0
+856	tt3633118	Guardians of Oz	['10']	[4]	[2015]	86	['Mexico','India']	\N	55.0	218.0
+857	tt3640424	Allied	['09']	[11]	[2016]	124	['United Kingdom']	\N	85113000000.0	1195000000.0
+858	tt3640424	Allied	['09']	[11]	[2016]	124	['United States']	\N	85113000000.0	1195000000.0
+859	tt3647498	Blood Father	['21']	[5]	[2016]	88	['France']	English	15000000.0	69000000.0
+860	tt3650290	The Snake Brothers	['19']	[2]	[2015]	111	['Czech Republic']	Czech	0.0	384725.0
+861	tt3650334	Lucid Dream	['22']	[2]	[2017]	101	['South Korea']	Korean	5000000.0	676598.0
+862	tt3651326	In the Shadow of Women	['14']	[5]	[2015]	73	['France']	French	24000000.0	152802.0
+863	tt3651326	In the Shadow of Women	['14']	[5]	[2015]	73	['Switzerland']	French	24000000.0	152802.0
+864	tt3658772	Misconduct	['05']	[2]	[2016]	105	['United States']	English	11000000.0	21000000.0
+865	tt3659388	The Martian	['11']	[9]	[2015]	142	['United Kingdom']	English	108000000.0	6306000000.0
+866	tt3659388	The Martian	['11']	[9]	[2015]	142	['United States']	English	108000000.0	6306000000.0
+867	tt3660770	Monkey Kingdom	['17']	[4]	[2015]	82	['United States']	English	510000000.0	171000000.0
+868	tt3661410	Parabellum	['09']	[5]	[2019]	131	['United States']	English	75000000.0	3277000000.0
+869	tt3666024	The Red Turtle	['18']	[5]	[2016]	80	['Japan']	\N	10000000.0	66000000.0
+870	tt3666024	The Red Turtle	['18']	[5]	[2016]	80	['France']	\N	10000000.0	66000000.0
+871	tt3671086	Natural Born Pranksters	['01']	[4]	[2016]	90	['United States']	English	1000000.0	315672.0
+872	tt3671542	Holding the Man	['27']	[8]	[2015]	128	['Australia']	English	170000.0	909122.0
+873	tt3672186	Journey Through China	['25']	[3]	[2015]	96	['France','China']	French	29000000.0	17000000.0
+874	tt3672840	Dragon Blade	['18']	[2]	[2015]	127	['China']	\N	65000000.0	122.0
+875	tt3672840	Dragon Blade	['18']	[2]	[2015]	127	['Hong Kong']	\N	65000000.0	122.0
+876	tt3676148	Tell Her	['\\N']	[9]	[2020]	98	['Russia']	\N	2000000.0	5000000.0
+877	tt3682448	Bridge of Spies	['04']	[10]	[2015]	141	['United States']	\N	40000000.0	1655000000.0
+878	tt3682448	Bridge of Spies	['04']	[10]	[2015]	141	['Germany']	\N	40000000.0	1655000000.0
+879	tt3682448	Bridge of Spies	['04']	[10]	[2015]	141	['United Kingdom']	\N	40000000.0	1655000000.0
+880	tt3698118	Gangnam 1970	['21']	[1]	[2015]	135	['South Korea']	Korean	9000000.0	20000000.0
+881	tt3707114	Janis: Little Girl Blue	['06']	[9]	[2015]	103	['United States']	English	15000000.0	16000000.0
+882	tt3713944	Serial Teachers 2	['01']	[7]	[2015]	92	['France']	French	16000000.0	229000000.0
+883	tt3714720	The Hollars	['24']	[1]	[2016]	89	['United States']	English	38000000.0	11000000.0
+884	tt3715320	Irrational Man	['16']	[5]	[2015]	95	['United States']	English	11000000.0	274000000.0
+885	tt3716530	Elle	['21']	[5]	[2016]	130	['France']	French	91000000.0	127000000.0
+886	tt3716530	Elle	['21']	[5]	[2016]	130	['Germany']	French	91000000.0	127000000.0
+887	tt3717252	Underworld: Blood Wars	['24']	[11]	[2016]	91	['Czech Republic']	English	35000000.0	811000000.0
+888	tt3717252	Underworld: Blood Wars	['24']	[11]	[2016]	91	['United States']	English	35000000.0	811000000.0
+889	tt3717490	Power Rangers	['22']	[3]	[2017]	124	['United States']	English	100105000000.0	1425000000.0
+890	tt3719896	My All-American	['13']	[11]	[2015]	118	['United States']	English	20000000.0	22000000.0
+891	tt3721342	Wonder Boy for President	['29']	[7]	[2016]	\N	['87 minutes']	English	500.0	345.0
+892	tt3721936	American Honey	['15']	[5]	[2016]	163	['United Kingdom','United States']	English	35000000.0	23000000.0
+893	tt3721954	Maudie	['02']	[9]	[2016]	116	['Ireland']	English	56000000.0	97000000.0
+894	tt3721954	Maudie	['02']	[9]	[2016]	116	['Canada']	English	56000000.0	97000000.0
+895	tt3722070	The Lady in the Van	['12']	[9]	[2015]	104	['United Kingdom']	English	6000000.0	414000000.0
+896	tt3722234	Gosnell: The Trial of America's Biggest Serial Killer	['12']	[10]	[2018]	93	['United States']	English	4000000.0	37000000.0
+897	tt3722614	Revolt	['01']	[7]	[2017]	87	['United States']	English	4000000.0	24416.0
+898	tt3730518	Full Strike	['13']	[3]	[2015]	108	['Hong Kong']	Cantonese	30000000.0	122000000.0
+899	tt3731562	Kong: Skull Island	['28']	[2]	[2017]	118	['United States']	English	185000000.0	5686000000.0
+900	tt3739110	The Yellow Birds	['21']	[1]	[2017]	95	['United States']	\N	12000000.0	57946.0
+901	tt3739110	The Yellow Birds	['21']	[1]	[2017]	95	['Morocco']	\N	12000000.0	57946.0
+902	tt3741632	The Leisure Seeker	['03']	[9]	[2017]	112	['Italy','France']	English	15000000.0	104000000.0
+903	tt3748528	Rogue One: A Star Wars Story	['10']	[12]	[2016]	134	['United States']	English	200265000000.0	1058000000000.0
+904	tt3759298	Ashes in the Snow	['21']	[9]	[2018]	98	['United States','Lithuania']	English	5000000.0	1557172.0
+905	tt3759370	Dark Inclusion	['28']	[1]	[2016]	115	['France','Belgium','Canada']	French	38000000.0	355000.0
+906	tt3760922	My Big Fat Greek Wedding 2	['15']	[3]	[2016]	94	['United States']	English	18000000.0	906000000.0
+907	tt3766354	The Equalizer 2	['20']	[7]	[2018]	121	['United States']	English	6279000000.0	1904000000.0
+908	tt3766394	Hello, My Name Is Doris	['14']	[3]	[2015]	90	['United States']	English	1000000.0	147000000.0
+909	tt3767372	Piku	['08']	[5]	[2015]	122	['India']	Hindi	42.0	141.0
+910	tt3771536	Shivaay	['28']	[10]	[2016]	162	['India']	Hindi	125.0	14891.0
+911	tt3774114	Snowden	['21']	[7]	[2016]	134	['France']	English	40000000.0	373000000.0
+912	tt3774114	Snowden	['21']	[7]	[2016]	134	['Germany']	English	40000000.0	373000000.0
+913	tt3774114	Snowden	['21']	[7]	[2016]	134	['United States']	English	40000000.0	373000000.0
+914	tt3778644	Solo: A Star Wars Story	['10']	[5]	[2018]	135	['United States']	English	2753304000000.0	3932000000.0
+915	tt3781476	Monster Hunt	['16']	[7]	[2015]	118	['China','Hong Kong']	Mandarin	56000000.0	38528000000.0
+916	tt3783958	La La Land	['31']	[8]	[2016]	128	['United States']	English	30000000.0	472000000.0
+917	tt3784526	In the Deep	['12']	[6]	[2017]	85	['United Kingdom','United States']	English	53000000.0	626000000.0
+918	tt3787590	We Are Your Friends	['11']	[8]	[2015]	96	['United States','United Kingdom']	English	2000000.0	111000000.0
+919	tt3791302	Standing Tall	['13']	[5]	[2015]	119	['France']	French	6000000.0	52000000.0
+920	tt3792960	The Brand New Testament	['17']	[5]	[2015]	113	['Belgium','France','Luxembourg']	French	87000000.0	157000000.0
+921	tt3794028	From the Land of the Moon	['15']	[5]	[2016]	120	['Iran']	French	105000000.0	65000000.0
+922	tt3797004	Chronicle of a Blood Merchant	['15']	[1]	[2015]	123	['South Korea']	Korean	92000000.0	66000000.0
+923	tt3799694	The Nice Guys	['11']	[5]	[2016]	116	['United States']	English	50000000.0	628000000.0
+924	tt3808342	Son of Saul	['15']	[5]	[2015]	107	['Hungary']	\N	15000000.0	97000000.0
+925	tt3812016	Looking for Her	['02']	[10]	[2015]	100	['\\N']	French	22000000.0	330000.0
+926	tt3813310	Cop Car	['24']	[1]	[2015]	88	['United States']	English	5000000.0	143658.0
+927	tt3817962	All About Them	['25']	[3]	[2015]	86	['France','Belgium']	French	46000000.0	805000.0
+928	tt3819668	Dragon Ball Z: Resurrection 'F'	['18']	[4]	[2015]	94	['Japan']	Japanese	5000000.0	617000000.0
+929	tt3824458	Tangerine	['23']	[1]	[2015]	88	['United States']	English	100000.0	935900.0
+930	tt3828378	A Childhood	['23']	[9]	[2015]	100	['France']	French	4000000.0	961273.0
+931	tt3829266	The Predator	['06']	[9]	[2018]	108	['United States']	English	88000000.0	1605000000.0
+932	tt3832022	Than Than Gopal	['30']	[10]	[2015]	\N	['India']	Marathi	15.0	381.0
+933	tt3832914	War Room	['28']	[8]	[2015]	120	['United States']	English	3000000.0	74000000.0
+934	tt3835080	31	['23']	[1]	[2016]	102	['United States']	\N	15000000.0	850419.0
+935	tt3836958	Shamitabh	['06']	[2]	[2015]	135	['India']	Hindi	45.0	37.0
+936	tt3838992	Yoga Hosers	['24']	[1]	[2016]	88	['United States']	English	5000000.0	38784.0
+937	tt3844362	The Overnight	['23']	[1]	[2015]	79	['United States']	English	200000.0	11000000.0
+938	tt3845670	Seoul Station	['18']	[8]	[2016]	92	['South Korea']	Korean	575000.0	2021735.0
+939	tt3850544	Hillsong: Let Hope Rise	['16']	[9]	[2016]	103	['United States']	English	10000000.0	26000000.0
+940	tt3850590	Krampus	['26']	[11]	[2015]	98	['United States']	English	15000000.0	615000000.0
+941	tt3850590	Krampus	['26']	[11]	[2015]	98	['New Zealand']	English	15000000.0	615000000.0
+942	tt3859304	The Bronze	['22']	[1]	[2015]	100	['United States']	English	35000000.0	615816.0
+943	tt3859980	Mohenjo Daro	['12']	[8]	[2016]	169	['India']	Hindi	100.0	1078.0
+944	tt3863552	Bajrangi Bhaijaan	['17']	[7]	[2015]	159	['India']	Hindi	7590.0	9181896906.0
+945	tt3864024	Lazer Team	['24']	[9]	[2015]	102	['United States']	English	24000000.0	16000000.0
+946	tt3864056	The Goldfinch	['08']	[9]	[2019]	149	['United States']	English	4449000000.0	10000000.0
+947	tt3865204	Regression	['18']	[9]	[2015]	106	['Canada']	English	15000000.0	177000000.0
+948	tt3865204	Regression	['18']	[9]	[2015]	106	['Spain']	English	15000000.0	177000000.0
+949	tt3874544	The Boss Baby	['12']	[3]	[2017]	97	['United States']	English	125000000.0	528000000.0
+950	tt3881784	Stronger	['08']	[9]	[2017]	119	['United States']	English	30000000.0	85000000.0
+951	tt3882000	Microbe & Gasoline	['08']	[7]	[2015]	103	['France']	French	45000000.0	303787.0
+952	tt3890160	Baby Driver	['11']	[3]	[2017]	113	['United States']	English	34000000.0	2269000000.0
+953	tt3890160	Baby Driver	['11']	[3]	[2017]	113	['United Kingdom']	English	34000000.0	2269000000.0
+954	tt3896100	Capture the Flag	['28']	[8]	[2015]	94	['Spain']	\N	125000000.0	246000000.0
+955	tt3896198	Guardians of the Galaxy Vol. 2	['10']	[4]	[2017]	136	['United States']	English	200000000.0	8698000000.0
+956	tt3901826	The Breadwinner	['08']	[9]	[2017]	94	['Canada']	English	1000000.0	4442537.0
+957	tt3901826	The Breadwinner	['08']	[9]	[2017]	94	['Ireland']	English	1000000.0	4442537.0
+958	tt3901826	The Breadwinner	['08']	[9]	[2017]	94	['Luxembourg']	English	1000000.0	4442537.0
+959	tt3902310	Our Futures	['08']	[6]	[2015]	97	['France']	French	7000000.0	1000000.0
+960	tt3914164	Voyagers	['09']	[4]	[2021]	108	['United States']	English	29000000.0	42000000.0
+961	tt3914164	Voyagers	['09']	[4]	[2021]	108	['United Kingdom']	English	29000000.0	42000000.0
+962	tt3914164	Voyagers	['09']	[4]	[2021]	108	['Czech Republic']	English	29000000.0	42000000.0
+963	tt3914164	Voyagers	['09']	[4]	[2021]	108	['Romania']	English	29000000.0	42000000.0
+964	tt3914332	Dean	['16']	[4]	[2016]	93	['United States']	English	950000.0	254536.0
+965	tt3919034	Stop Me Here	['29']	[8]	[2015]	94	['\\N']	French	3000000.0	214000.0
+966	tt3920820	Brian Banks	['22']	[9]	[2018]	99	['United States']	English	10000000.0	44000000.0
+967	tt3922818	The Space Between Us	['03']	[2]	[2017]	120	['United States']	\N	30000000.0	1608000000.0
+968	tt3949660	Teenage Mutant Ninja Turtles: Out of the Shadows	['22']	[5]	[2016]	112	['United States']	English	135000000.0	2456000000.0
+969	tt3955894	Girl Asleep	['20']	[10]	[2015]	77	['Australia']	English	1500000.0	211637.0
+970	tt3956562	Gangster Ka	['10']	[9]	[2015]	\N	['Czech Republic']	Czech	0.0	815687.0
+971	tt3956872	Polaroid	['10']	[1]	[2019]	88	['United States']	English	85000000.0	17000000.0
+972	tt3960412	Popstar: Never Stop Never Stopping	['24']	[5]	[2016]	87	['United States']	English	20000000.0	97000000.0
+973	tt3966404	Mustang	['19']	[5]	[2015]	97	['France']	Turkish	13000000.0	49000000.0
+974	tt3966404	Mustang	['19']	[5]	[2015]	97	['Germany']	Turkish	13000000.0	49000000.0
+975	tt3966404	Mustang	['19']	[5]	[2015]	97	['Turkey']	Turkish	13000000.0	49000000.0
+976	tt3967856	Okja	['19']	[5]	[2017]	120	['South Korea']	\N	50000000.0	2000000.0
+977	tt3967856	Okja	['19']	[5]	[2017]	120	['United States']	\N	50000000.0	2000000.0
+978	tt3967878	Illang: The Wolf Brigade	['25']	[7]	[2018]	138	['South Korea']	Korean	17000000.0	62000000.0
+979	tt3974320	Origin	['06']	[9]	[2023]	141	['United States']	English	38000000.0	49000000.0
+980	tt3984014	Underwater	['10']	[1]	[2020]	95	['United States']	English	5065000000.0	409000000.0
+981	tt4010002	Lost Legend	['18']	[12]	[2015]	125	['China']	Mandarin	37000000.0	2783000000.0
+982	tt4010084	Kin	['31']	[8]	[2018]	102	['United States']	English	30000000.0	103000000.0
+983	tt4010084	Kin	['31']	[8]	[2018]	102	['Canada']	English	30000000.0	103000000.0
+984	tt4010918	The Throne	['16']	[9]	[2015]	125	['South Korea']	Korean	83000000.0	459000000.0
+985	tt4016934	The Handmaiden	['14']	[5]	[2016]	144	['South Korea']	\N	10000000000.0	386000000.0
+986	tt4022440	21 Nights with Pattie	['28']	[8]	[2015]	110	['France']	French	37000000.0	25000000.0
+987	tt4024944	Main Aur Charles	['30']	[10]	[2015]	\N	['India']	Hindi	100000000.0	80000000.0
+988	tt4025194	I'm All Yours	['28']	[8]	[2015]	100	['France']	French	45000000.0	565000.0
+989	tt4025992	Based on a True Story	['27']	[5]	[2017]	110	['France','Poland']	French	1296000000.0	39000000.0
+990	tt4030600	The Bye Bye Man	['13']	[1]	[2017]	96	['United States']	English	6274000000.0	299000000.0
+991	tt4034228	Manchester by the Sea	['23']	[1]	[2016]	137	['United States']	English	9000000.0	79000000.0
+992	tt4034354	Swiss Army Man	['22']	[1]	[2016]	97	['United States']	English	3000000.0	58000000.0
+993	tt4040042	The Boss's Daughter	['14']	[11]	[2015]	98	['France']	French	32000000.0	127000.0
+994	tt4048050	My Golden Days	['15']	[5]	[2015]	120	['France']	French	42000000.0	15000000.0
+995	tt4048272	Toni Erdmann	['14']	[5]	[2016]	162	['Germany']	\N	3000000.0	117000000.0
+996	tt4048272	Toni Erdmann	['14']	[5]	[2016]	162	['Austria']	\N	3000000.0	117000000.0
+997	tt4052882	The Shallows	['21']	[6]	[2016]	86	['United States']	English	17000000.0	1191000000.0
+998	tt4057632	All Three of Us	['22']	[10]	[2015]	102	['France']	French	84000000.0	4000000.0
+999	tt4057916	Top Cat Begins	['30']	[10]	[2015]	90	['India','Mexico','United States']	\N	8000000.0	541.0
+1000	tt4058218	Love at First Child	['11']	[11]	[2015]	91	['France']	French	69000000.0	38000000.0
+1001	tt4058580	Arrival	['01']	[9]	[2016]	116	['United States']	English	47000000.0	2034000000.0
+1002	tt4062208	Don%27t Tell Me the Boy Was Mad	['20']	[5]	[2015]	134	['France']	French	64000000.0	912000.0
+1003	tt4062536	Green Room	['17']	[5]	[2015]	95	['United States']	English	5000000.0	38000000.0
+1004	tt4073790	The Darkest Minds	['03']	[8]	[2018]	105	['United States']	English	34000000.0	411000000.0
+1005	tt4076164	In the Room	['15']	[9]	[2015]	104	['Singapore']	\N	800000.0	48000.0
+1006	tt4080178	Hit	['28']	[2]	[2020]	130	['India']	Telugu	62.0	11.0
+1007	tt4080672	Daddy or Mommy	['16']	[1]	[2015]	85	['France']	French	146000000.0	218000000.0
+1008	tt4082068	Dheepan	['21']	[5]	[2015]	115	['France']	\N	8000000.0	49000000.0
+1009	tt4084056	The Sense of Wonder	['08']	[11]	[2015]	100	['France']	French	62000000.0	41000000.0
+1010	tt4085944	Lolo	['03']	[9]	[2015]	97	['France']	French	84000000.0	68000000.0
+1011	tt4092396	Nine Days	['27']	[1]	[2020]	124	['United States']	English	10000000.0	969204.0
+1012	tt4094724	The Purge: Election Year	['01']	[7]	[2016]	108	['United States']	English	10000000.0	1186000000.0
+1013	tt4103724	Forever My Girl	['19']	[1]	[2018]	104	['United States']	English	35000000.0	164000000.0
+1014	tt4106376	American Renegades	['01']	[9]	[2017]	105	['France']	English	662.0	22000000.0
+1015	tt4106376	American Renegades	['01']	[9]	[2017]	105	['Germany']	English	662.0	22000000.0
+1016	tt4110568	Dil Dhadakne Do	['05']	[6]	[2015]	173	['India']	Hindi	550000000.0	144000000000.0
+1017	tt4115932	Hollywood Adventures	['25']	[6]	[2015]	119	['China','United States','Hong Kong']	\N	30000000.0	5162000000.0
+1018	tt4116284	The Lego Batman Movie	['29']	[1]	[2017]	104	['Australia']	English	80000000.0	312000000.0
+1019	tt4116284	The Lego Batman Movie	['29']	[1]	[2017]	104	['Denmark']	English	80000000.0	312000000.0
+1020	tt4116284	The Lego Batman Movie	['29']	[1]	[2017]	104	['United States']	English	80000000.0	312000000.0
+1021	tt4120210	Valley of Love	['22']	[5]	[2015]	92	['France']	\N	29000000.0	12000000.0
+1022	tt4123430	Fantastic Beasts: The Crimes of Grindelwald	['08']	[11]	[2018]	134	['United Kingdom']	English	200000000.0	6549000000.0
+1023	tt4123430	Fantastic Beasts: The Crimes of Grindelwald	['08']	[11]	[2018]	134	['United States']	English	200000000.0	6549000000.0
+1024	tt4126438	The Ones Below	['13']	[9]	[2015]	87	['United Kingdom']	English	23000000.0	42951.0
+1025	tt4129428	Jagga Jasoos	['14']	[7]	[2017]	162	['India']	Hindi	131.0	8685.0
+1026	tt4136084	Florence Foster Jenkins	['23']	[4]	[2016]	110	['United Kingdom']	English	29000000.0	56000000.0
+1027	tt4136084	Florence Foster Jenkins	['23']	[4]	[2016]	110	['France']	English	29000000.0	56000000.0
+1028	tt4139124	Keanu	['13']	[3]	[2016]	100	['United States']	English	15000000.0	207000000.0
